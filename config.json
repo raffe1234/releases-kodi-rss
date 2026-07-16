@@ -9,6 +9,13 @@
   "date_format": "%-d/%-m",
   "movie_label": "Movie",
   "tv_label": "TV series",
+  "include_platform": true,
+  "excluded_platforms": [
+    "DVD",
+    "Blu-ray",
+    "4K Blu-ray",
+    "4K Blu-ray (SteelBook)"
+  ],
   "minimum_kodi_items": 3,
   "check_robots_txt": true,
   "request_delay_seconds": 0.5

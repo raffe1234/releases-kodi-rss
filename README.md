@@ -4,10 +4,13 @@ This repository creates a compact RSS 2.0 feed for Kodi's RSS ticker.
 
 Example headlines:
 
-- `Movie: 17/7 – The Odyssey`
-- `TV series: 17/7 – The East Palace Season 1`
+- `Movie (cinema): 17/7 – The Odyssey`
+- `Movie (Disney+): 16/7 – Descendants: Wicked Wonderland`
+- `TV series (Netflix): 17/7 – The East Palace Season 1`
 
-The feed contains releases from today through the next seven calendar days, as configured in `config.json`. It fetches separate date pages from:
+The feed contains releases from today through the next seven calendar days, as configured in `config.json`. Each item includes the release channel or platform when Releases.com provides one. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
+
+By default, physical-only DVD and Blu-ray releases are excluded. The feed fetches separate date pages from:
 
 - `https://www.releases.com/calendar/movies`
 - `https://www.releases.com/calendar/tv-series`
@@ -54,6 +57,8 @@ Settings are stored in `config.json`.
 - `date_format`: short date format used in item titles.
 - `movie_label` and `tv_label`: text placed before each title.
 - `language`: RSS language code.
+- `include_platform`: set to `false` to return to the old title format without parentheses.
+- `excluded_platforms`: release formats omitted from the feed. DVD and Blu-ray formats are excluded by default.
 - `check_robots_txt`: should normally remain `true`.
 - `request_delay_seconds`: short delay between requests.
 
@@ -63,12 +68,14 @@ Settings are stored in `config.json`.
 - `robots.txt` is checked before calendar pages are fetched.
 - A short delay is used between requests.
 - If no titles are found, the existing RSS file is not replaced with an empty file.
+- If platform detection fails, entries fall back to the previous `Movie: date – title` format.
+- RSS GUIDs include date and platform so cinema and later streaming releases remain separate items.
 - The RSS file is written atomically.
 - The GitHub token is limited to `contents: write`.
 
 ## Source considerations
 
-The feed republishes only short title and date information and links back to Releases.com. Check the site's current terms and `robots.txt`. Stop the workflow or use an official data source if Releases.com blocks or prohibits automated fetching.
+The feed republishes only short title, date, and release-channel information and links back to Releases.com. Dates use the USA region selected by the source site. Check the site's current terms and `robots.txt`. Stop the workflow or use an official data source if Releases.com blocks or prohibits automated fetching.
 
 The HTML structure of an external website can change. If the workflow begins to fail, the parser in `scripts/generate_feed.py` may need to be updated.
 

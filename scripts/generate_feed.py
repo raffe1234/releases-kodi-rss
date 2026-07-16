@@ -9,7 +9,7 @@ import os
 import re
 import sys
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import date, datetime, time as datetime_time, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -20,7 +20,7 @@ from xml.etree import ElementTree as ET
 from zoneinfo import ZoneInfo
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -57,6 +57,112 @@ BADGE_PREFIXES = (
     "new ",
 )
 
+# Releases.com calls these "versions". The list is deliberately broader than
+# the current movie and TV filters so that new network/service cards can still
+# be identified without changing the parser immediately.
+PLATFORM_DISPLAY_NAMES = {
+    name.casefold(): name
+    for name in (
+        "Cinema",
+        "VOD",
+        "Streaming",
+        "Digital",
+        "DVD",
+        "Blu-ray",
+        "4K Blu-ray",
+        "4K Blu-ray (SteelBook)",
+        "Netflix",
+        "Amazon",
+        "Amazon Prime Video",
+        "Prime Video",
+        "Hulu",
+        "Shudder",
+        "Lifetime",
+        "Paramount+",
+        "Disney+",
+        "Disney",
+        "Max",
+        "HBO Max",
+        "HBO",
+        "PBS",
+        "Peacock",
+        "Apple TV+",
+        "Apple TV",
+        "The CW",
+        "BET+",
+        "Crunchyroll",
+        "Crunchy Roll",
+        "HIDIVE",
+        "FOX",
+        "FXX",
+        "FX",
+        "CBS",
+        "NBC",
+        "HGTV",
+        "ABC",
+        "Starz",
+        "MGM+",
+        "Tubi",
+        "Roku",
+        "AMC+",
+        "Adult Swim",
+        "Discovery+",
+        "GSN",
+        "TPB+",
+        "Internet",
+        "Nickelodeon",
+        "Showtime",
+        "BritBox",
+        "Acorn TV",
+        "YouTube",
+        "YouTube Premium",
+        "Freevee",
+        "Sundance Now",
+        "Hallmark+",
+        "Hallmark Channel",
+        "Syfy",
+        "USA Network",
+        "BBC",
+        "BBC One",
+        "BBC Two",
+        "BBC iPlayer",
+        "ITV",
+        "ITVX",
+        "Channel 4",
+        "Sky",
+        "Sky Atlantic",
+        "NOW",
+    )
+}
+
+NON_PLATFORM_TEXTS = BADGE_TEXTS | {
+    "all",
+    "calendar",
+    "filter",
+    "versions",
+    "tags",
+    "region",
+    "user's location",
+    "usa",
+    "uk",
+    "favorites",
+    "add to favorites",
+    "remove from favorites",
+    "track",
+    "tracking",
+    "watch trailer",
+    "trailer",
+    "details",
+    "show more",
+    "+more-less",
+    "+ more",
+    "- less",
+    "x",
+}
+
+COUNT_PATTERN = re.compile(r"^\d+(?:[.,]\d+)?[KMB]?$", re.I)
+TRAILING_COUNT_PATTERN = re.compile(r"\s+\d+(?:[.,]\d+)?[KMB]?$", re.I)
+
 
 @dataclass(frozen=True)
 class Release:
@@ -64,6 +170,7 @@ class Release:
     kind: str
     title: str
     url: str
+    platform: str | None = None
 
 
 def project_root() -> Path:
@@ -143,7 +250,6 @@ def clean_text(value: str) -> str:
     for prefix in BADGE_PREFIXES:
         if lower.startswith(prefix):
             value = value[len(prefix) :].strip(" :-–—")
-            lower = value.casefold()
             break
     return value
 
@@ -151,8 +257,10 @@ def clean_text(value: str) -> str:
 def title_from_slug(url: str) -> str:
     slug = urlparse(url).path.removeprefix("/p/").strip("/")
     title = slug.replace("-", " ").strip()
-    return " ".join(word.upper() if word in {"tv", "dvd", "vod"} else word.capitalize()
-                    for word in title.split())
+    return " ".join(
+        word.upper() if word in {"tv", "dvd", "vod"} else word.capitalize()
+        for word in title.split()
+    )
 
 
 def is_title_candidate(text: str) -> bool:
@@ -238,14 +346,123 @@ def resolve_heading_date(heading_text: str, reference_day: date) -> date | None:
     return min(candidates, key=lambda candidate: abs((candidate - reference_day).days))
 
 
+def canonical_product_url(node: Tag) -> str | None:
+    if node.name != "a":
+        return None
+
+    absolute_url = urljoin(BASE_URL, node.get("href", ""))
+    parsed = urlparse(absolute_url)
+    if parsed.netloc not in {"releases.com", "www.releases.com"}:
+        return None
+    if not parsed.path.startswith("/p/"):
+        return None
+    return f"{BASE_URL}{parsed.path.rstrip('/')}"
+
+
+def platform_parts(value: str) -> list[str]:
+    """Split and normalize one or more release channels."""
+    value = clean_text(value)
+    value = re.sub(r"\s*\+\d+\s*$", "", value)
+    value = TRAILING_COUNT_PATTERN.sub("", value).strip()
+    if not value:
+        return []
+
+    raw_parts = re.split(r"\s*/\s*|\s*\|\s*", value)
+    normalized: list[str] = []
+    for raw_part in raw_parts:
+        part = clean_text(raw_part).strip(" /|,;")
+        if not part or part.casefold() in NON_PLATFORM_TEXTS:
+            continue
+        canonical = PLATFORM_DISPLAY_NAMES.get(part.casefold(), part)
+        if canonical.casefold() not in {item.casefold() for item in normalized}:
+            normalized.append(canonical)
+    return normalized
+
+
+def is_plausible_platform_text(value: str) -> bool:
+    value = clean_text(value)
+    lower = value.casefold()
+    if not value or lower in NON_PLATFORM_TEXTS:
+        return False
+    if COUNT_PATTERN.fullmatch(value):
+        return False
+    if lower.startswith("image"):
+        return False
+    if re.search(r"\b(today|tomorrow|yesterday|in \d+ days?|days? ago)\b", lower):
+        return False
+    if re.fullmatch(r"[+\-/|•]+", value):
+        return False
+    if len(value) > 100 or len(value.split()) > 12:
+        return False
+    return any(character.isalpha() for character in value)
+
+
+def extract_platform_after(anchor: Tag, product_url: str) -> str | None:
+    """Read the version/platform text that follows a product link.
+
+    Releases.com places the version immediately after the title card. The DOM
+    has changed over time, so this intentionally uses document order rather
+    than depending on a single CSS class.
+    """
+    known_parts: list[str] = []
+    fallback_parts: list[str] = []
+    examined = 0
+
+    for element in anchor.next_elements:
+        examined += 1
+        if examined > 120:
+            break
+
+        if isinstance(element, Tag):
+            if element.name in {"h2", "h3", "h4"}:
+                break
+            other_product_url = canonical_product_url(element)
+            if other_product_url is not None and other_product_url != product_url:
+                break
+            continue
+
+        if not isinstance(element, NavigableString):
+            continue
+
+        # Ignore the title/badge text inside all product links, including a
+        # second image/title link that points to the same product.
+        product_parent = element.find_parent("a")
+        if product_parent is not None and canonical_product_url(product_parent) is not None:
+            continue
+
+        text = clean_text(str(element))
+        if not text:
+            continue
+
+        if COUNT_PATTERN.fullmatch(text):
+            if known_parts or fallback_parts:
+                break
+            continue
+
+        if not is_plausible_platform_text(text):
+            continue
+
+        parts = platform_parts(text)
+        if not parts:
+            continue
+
+        all_known = all(part.casefold() in PLATFORM_DISPLAY_NAMES for part in parts)
+        target = known_parts if all_known else fallback_parts
+        for part in parts:
+            if part.casefold() not in {existing.casefold() for existing in target}:
+                target.append(part)
+
+    selected = known_parts or fallback_parts
+    return " / ".join(selected) if selected else None
+
+
 def parse_release_page(html: str, reference_day: date, kind: str) -> list[Release]:
-    """Parse product links under each dated heading on a calendar page."""
+    """Parse product links, release dates and channels from a calendar page."""
     soup = BeautifulSoup(html, "html.parser")
-    candidates_by_key: dict[tuple[date, str], list[str]] = {}
+    candidates_by_key: dict[tuple[date, str], dict[str, list[str]]] = {}
     current_day: date | None = None
 
-    # Releases.com's date-specific pages use heading elements for each actual
-    # release day. A page may show dates before or after the requested date.
+    # Date-specific pages can include dates before and after the requested day.
     for node in soup.find_all(["h2", "h3", "h4", "a"]):
         if node.name in {"h2", "h3", "h4"}:
             resolved = resolve_heading_date(node.get_text(" ", strip=True), reference_day)
@@ -256,26 +473,85 @@ def parse_release_page(html: str, reference_day: date, kind: str) -> list[Releas
         if current_day is None:
             continue
 
-        absolute_url = urljoin(BASE_URL, node.get("href", ""))
-        parsed = urlparse(absolute_url)
-        if parsed.netloc not in {"releases.com", "www.releases.com"}:
-            continue
-        if not parsed.path.startswith("/p/"):
+        canonical_url = canonical_product_url(node)
+        if canonical_url is None:
             continue
 
-        canonical_url = f"{BASE_URL}{parsed.path.rstrip('/')}"
-        text = node.get_text(" ", strip=True)
-        candidates_by_key.setdefault((current_day, canonical_url), []).append(text)
+        entry = candidates_by_key.setdefault(
+            (current_day, canonical_url),
+            {"titles": [], "platforms": []},
+        )
+        entry["titles"].append(node.get_text(" ", strip=True))
+
+        platform = extract_platform_after(node, canonical_url)
+        if platform and platform.casefold() not in {
+            existing.casefold() for existing in entry["platforms"]
+        }:
+            entry["platforms"].append(platform)
 
     releases: list[Release] = []
-    for (release_day, url), candidates in candidates_by_key.items():
-        title = choose_title(candidates, url)
+    for (release_day, url), entry in candidates_by_key.items():
+        title = choose_title(entry["titles"], url)
         if title.casefold() == "product title goes here":
             continue
-        releases.append(Release(release_day, kind, title, url))
 
-    releases.sort(key=lambda item: (item.release_date, item.title.casefold()))
-    return releases
+        platforms: list[str | None] = entry["platforms"] or [None]
+        for platform in platforms:
+            releases.append(Release(release_day, kind, title, url, platform))
+
+    return deduplicate_releases(releases)
+
+
+def deduplicate_releases(releases: Iterable[Release]) -> list[Release]:
+    """Deduplicate overlapping calendar pages while preserving channels."""
+    grouped: dict[tuple[date, str, str], dict[str, Release]] = {}
+
+    for release in releases:
+        base_key = (release.release_date, release.kind, release.url)
+        platform_key = (release.platform or "").casefold()
+        grouped.setdefault(base_key, {})[platform_key] = release
+
+    unique: list[Release] = []
+    for variants in grouped.values():
+        with_platform = [item for key, item in variants.items() if key]
+        unique.extend(with_platform or list(variants.values()))
+
+    return sorted(
+        unique,
+        key=lambda item: (
+            item.release_date,
+            0 if item.kind == "movie" else 1,
+            item.title.casefold(),
+            (item.platform or "").casefold(),
+        ),
+    )
+
+
+def filter_excluded_platforms(
+    releases: Iterable[Release],
+    excluded_platforms: Iterable[str],
+) -> list[Release]:
+    """Remove physical formats while retaining any streaming part on a card."""
+    excluded = {clean_text(value).casefold() for value in excluded_platforms}
+    filtered: list[Release] = []
+
+    for release in releases:
+        if not release.platform:
+            filtered.append(release)
+            continue
+
+        kept_parts = [
+            part
+            for part in platform_parts(release.platform)
+            if part.casefold() not in excluded
+        ]
+        if not kept_parts:
+            continue
+
+        filtered.append(replace(release, platform=" / ".join(kept_parts)))
+
+    return deduplicate_releases(filtered)
+
 
 def fetch_releases(
     session: requests.Session,
@@ -290,26 +566,13 @@ def fetch_releases(
         response.raise_for_status()
 
         page_releases = parse_release_page(response.text, day, kind)
-        print(f"  Found {len(page_releases)} titles.")
+        print(f"  Found {len(page_releases)} releases.")
         all_releases.extend(page_releases)
 
         if request_delay_seconds > 0 and index < len(urls_and_meta) - 1:
             time.sleep(request_delay_seconds)
 
-    # Remove exact duplicates while retaining deterministic order.
-    unique: dict[tuple[date, str, str], Release] = {}
-    for release in all_releases:
-        key = (release.release_date, release.kind, release.url)
-        unique[key] = release
-
-    return sorted(
-        unique.values(),
-        key=lambda item: (
-            item.release_date,
-            0 if item.kind == "movie" else 1,
-            item.title.casefold(),
-        ),
-    )
+    return deduplicate_releases(all_releases)
 
 
 def format_short_date(day: date, configured_format: str) -> str:
@@ -320,10 +583,29 @@ def format_short_date(day: date, configured_format: str) -> str:
         return f"{day.day}/{day.month}"
 
 
+def display_platform(platform: str) -> str:
+    """Use lower case for generic release types and preserve brand casing."""
+    replacements = {
+        "cinema": "cinema",
+        "streaming": "streaming",
+        "digital": "digital",
+    }
+    return " / ".join(
+        replacements.get(part.casefold(), part)
+        for part in platform_parts(platform)
+    )
+
+
 def add_text_element(parent: ET.Element, tag: str, text: str) -> ET.Element:
     element = ET.SubElement(parent, tag)
     element.text = text
     return element
+
+
+def release_guid(release: Release) -> str:
+    """Return a stable ID that distinguishes cinema and later streaming dates."""
+    platform = release.platform or "unspecified"
+    return f"{release.url}|{release.release_date.isoformat()}|{platform}"
 
 
 def build_rss(releases: list[Release], config: dict, now: datetime) -> bytes:
@@ -341,17 +623,21 @@ def build_rss(releases: list[Release], config: dict, now: datetime) -> bytes:
         "movie": config["movie_label"],
         "tv": config["tv_label"],
     }
+    include_platform = bool(config.get("include_platform", True))
     local_zone = ZoneInfo(config["timezone"])
 
     for release in releases:
         item = ET.SubElement(channel, "item")
         short_date = format_short_date(release.release_date, config["date_format"])
-        ticker_title = f"{labels[release.kind]}: {short_date} – {release.title}"
+        item_label = labels[release.kind]
+        if include_platform and release.platform:
+            item_label = f"{item_label} ({display_platform(release.platform)})"
+        ticker_title = f"{item_label}: {short_date} – {release.title}"
 
         add_text_element(item, "title", ticker_title)
         add_text_element(item, "link", release.url)
-        guid = ET.SubElement(item, "guid", {"isPermaLink": "true"})
-        guid.text = release.url
+        guid = ET.SubElement(item, "guid", {"isPermaLink": "false"})
+        guid.text = release_guid(release)
 
         release_noon = datetime.combine(
             release.release_date,
@@ -427,6 +713,22 @@ def main() -> int:
             "No titles were found. The existing RSS file is left unchanged, "
             "because the site HTML structure may have changed."
         )
+
+    platform_count = sum(release.platform is not None for release in releases)
+    if platform_count == 0:
+        print(
+            "Warning: no release channels were detected; using the old title format.",
+            file=sys.stderr,
+        )
+    else:
+        print(
+            f"Detected release channels for {platform_count}/{len(releases)} releases."
+        )
+
+    releases = filter_excluded_platforms(
+        releases,
+        config.get("excluded_platforms", []),
+    )
 
     output_path = project_root() / config["output_file"]
     content = build_rss(releases, config, now)
