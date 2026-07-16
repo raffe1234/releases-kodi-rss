@@ -1,21 +1,151 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>Kommande film- och TV-premiärer</title>
     <link>https://www.releases.com/calendar/movies</link>
-    <description>Flödet fylls vid den första körningen i GitHub Actions.</description>
+    <description>Premiärer de närmaste sju dagarna. Källa: Releases.com.</description>
     <language>sv-SE</language>
+    <lastBuildDate>Thu, 16 Jul 2026 13:29:00 +0000</lastBuildDate>
+    <generator>KodiReleaseRSS</generator>
     <item>
-      <title>Premiärkalender: kör arbetsflödet första gången</title>
-      <guid>initial-1</guid>
+      <title>Film: 16/7 – Descendants: Wicked Wonderland</title>
+      <link>https://www.releases.com/p/descendants-wicked-wonderland</link>
+      <guid isPermaLink="true">https://www.releases.com/p/descendants-wicked-wonderland</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
     </item>
     <item>
-      <title>Premiärkalender: uppdateras två gånger per dag</title>
-      <guid>initial-2</guid>
+      <title>TV-serie: 16/7 – The Hawk Season 1</title>
+      <link>https://www.releases.com/p/the-hawk-season-1</link>
+      <guid isPermaLink="true">https://www.releases.com/p/the-hawk-season-1</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
     </item>
     <item>
-      <title>Premiärkalender: källa Releases.com</title>
-      <guid>initial-3</guid>
+      <title>Film: 17/7 – Cut Off (2026)</title>
+      <link>https://www.releases.com/p/cut-off-2026</link>
+      <guid isPermaLink="true">https://www.releases.com/p/cut-off-2026</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 17/7 – Heartstopper Forever</title>
+      <link>https://www.releases.com/p/heartstopper-forever</link>
+      <guid isPermaLink="true">https://www.releases.com/p/heartstopper-forever</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 17/7 – Horsegirls</title>
+      <link>https://www.releases.com/p/horsegirls</link>
+      <guid isPermaLink="true">https://www.releases.com/p/horsegirls</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 17/7 – Obsession (2026)</title>
+      <link>https://www.releases.com/p/obsession-2026</link>
+      <guid isPermaLink="true">https://www.releases.com/p/obsession-2026</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 17/7 – Steal Away</title>
+      <link>https://www.releases.com/p/steal-away</link>
+      <guid isPermaLink="true">https://www.releases.com/p/steal-away</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 17/7 – The Odyssey</title>
+      <link>https://www.releases.com/p/the-odyssey-movie</link>
+      <guid isPermaLink="true">https://www.releases.com/p/the-odyssey-movie</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 17/7 – They Fight</title>
+      <link>https://www.releases.com/p/they-fight</link>
+      <guid isPermaLink="true">https://www.releases.com/p/they-fight</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>TV-serie: 17/7 – The East Palace Season 1</title>
+      <link>https://www.releases.com/p/the-east-palace-season-1</link>
+      <guid isPermaLink="true">https://www.releases.com/p/the-east-palace-season-1</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>TV-serie: 20/7 – King of the Hill Season 15</title>
+      <link>https://www.releases.com/p/king-of-the-hill-season-15</link>
+      <guid isPermaLink="true">https://www.releases.com/p/king-of-the-hill-season-15</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 21/7 – Anyone But You</title>
+      <link>https://www.releases.com/p/anyone-but-you</link>
+      <guid isPermaLink="true">https://www.releases.com/p/anyone-but-you</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 21/7 – Disclosure Day</title>
+      <link>https://www.releases.com/p/disclosure-day</link>
+      <guid isPermaLink="true">https://www.releases.com/p/disclosure-day</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 21/7 – Falling Down</title>
+      <link>https://www.releases.com/p/falling-down</link>
+      <guid isPermaLink="true">https://www.releases.com/p/falling-down</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 21/7 – Scary Movie (2026)</title>
+      <link>https://www.releases.com/p/scary-movie-2026</link>
+      <guid isPermaLink="true">https://www.releases.com/p/scary-movie-2026</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 21/7 – The 7th Voyage of Sinbad</title>
+      <link>https://www.releases.com/p/the-7th-voyage-of-sinbad</link>
+      <guid isPermaLink="true">https://www.releases.com/p/the-7th-voyage-of-sinbad</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>Film: 21/7 – The Mandalorian &amp; Grogu</title>
+      <link>https://www.releases.com/p/the-mandalorian-grogu</link>
+      <guid isPermaLink="true">https://www.releases.com/p/the-mandalorian-grogu</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>TV-serie: 21/7 – Kitchen Nightmares Season 10</title>
+      <link>https://www.releases.com/p/kitchen-nightmares-season-10</link>
+      <guid isPermaLink="true">https://www.releases.com/p/kitchen-nightmares-season-10</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>TV-serie: 21/7 – WWE: Unreal: Season 3</title>
+      <link>https://www.releases.com/p/wwe-unreal-season-3</link>
+      <guid isPermaLink="true">https://www.releases.com/p/wwe-unreal-season-3</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
+    </item>
+    <item>
+      <title>TV-serie: 22/7 – A Shop for Killers Season 2</title>
+      <link>https://www.releases.com/p/a-shop-for-killers-season-2</link>
+      <guid isPermaLink="true">https://www.releases.com/p/a-shop-for-killers-season-2</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Källa: Releases.com</description>
     </item>
   </channel>
 </rss>
