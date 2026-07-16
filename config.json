@@ -11,9 +11,6 @@
   "tv_label": "TV series",
   "include_platform": true,
   "excluded_platforms": [
-    "DVD",
-    "Blu-ray",
-    "4K Blu-ray",
     "4K Blu-ray (SteelBook)"
   ],
   "minimum_kodi_items": 3,
