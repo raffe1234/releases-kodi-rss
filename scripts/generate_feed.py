@@ -115,12 +115,12 @@ def ensure_robots_allowed(
     enabled: bool,
 ) -> None:
     if not enabled:
-        print("Varning: robots.txt-kontrollen är avstängd.", file=sys.stderr)
+        print("Warning: the robots.txt check is disabled.", file=sys.stderr)
         return
 
     response = session.get(ROBOTS_URL, timeout=30)
     if response.status_code == 404:
-        print("Ingen robots.txt hittades; fortsätter.")
+        print("No robots.txt file was found; continuing.")
         return
     response.raise_for_status()
 
@@ -132,7 +132,7 @@ def ensure_robots_allowed(
     if blocked:
         joined = "\n".join(f"- {url}" for url in blocked)
         raise RuntimeError(
-            "Releases.com robots.txt tillåter inte hämtning av följande adresser:\n"
+            "Releases.com robots.txt does not allow fetching the following URLs:\n"
             f"{joined}"
         )
 
@@ -285,12 +285,12 @@ def fetch_releases(
     all_releases: list[Release] = []
 
     for index, (url, day, kind) in enumerate(urls_and_meta):
-        print(f"Hämtar {url}")
+        print(f"Fetching {url}")
         response = session.get(url, timeout=45)
         response.raise_for_status()
 
         page_releases = parse_release_page(response.text, day, kind)
-        print(f"  Hittade {len(page_releases)} titlar.")
+        print(f"  Found {len(page_releases)} titles.")
         all_releases.extend(page_releases)
 
         if request_delay_seconds > 0 and index < len(urls_and_meta) - 1:
@@ -333,7 +333,7 @@ def build_rss(releases: list[Release], config: dict, now: datetime) -> bytes:
     add_text_element(channel, "title", config["feed_title"])
     add_text_element(channel, "link", f"{BASE_URL}/calendar/movies")
     add_text_element(channel, "description", config["feed_description"])
-    add_text_element(channel, "language", "sv-SE")
+    add_text_element(channel, "language", config.get("language", "en-US"))
     add_text_element(channel, "lastBuildDate", format_datetime(now.astimezone(timezone.utc)))
     add_text_element(channel, "generator", "KodiReleaseRSS")
 
@@ -359,14 +359,14 @@ def build_rss(releases: list[Release], config: dict, now: datetime) -> bytes:
             tzinfo=local_zone,
         )
         add_text_element(item, "pubDate", format_datetime(release_noon))
-        add_text_element(item, "description", "Källa: Releases.com")
+        add_text_element(item, "description", "Source: Releases.com")
 
     # Kodi's older documentation says the ticker needs at least three items.
     minimum = max(0, int(config.get("minimum_kodi_items", 3)))
     filler_titles = [
-        "Premiärkalender: uppdateras två gånger per dag",
-        "Premiärkalender: visar de närmaste sju dagarna",
-        "Premiärkalender: källa Releases.com",
+        "Release calendar: updated twice a day",
+        "Release calendar: showing the next seven days",
+        "Release calendar: source Releases.com",
     ]
     item_count = len(releases)
     for filler in filler_titles[: max(0, minimum - item_count)]:
@@ -394,7 +394,7 @@ def main() -> int:
     days = int(config["days_ahead"])
 
     if days < 1 or days > 31:
-        raise ValueError("days_ahead måste vara mellan 1 och 31.")
+        raise ValueError("days_ahead must be between 1 and 31.")
 
     days_to_fetch = [first_day + timedelta(days=offset) for offset in range(days)]
     urls_and_meta: list[tuple[str, date, str]] = []
@@ -424,15 +424,15 @@ def main() -> int:
 
     if not releases:
         raise RuntimeError(
-            "Inga titlar hittades. Den befintliga RSS-filen lämnas orörd, "
-            "eftersom sidans HTML-struktur kan ha ändrats."
+            "No titles were found. The existing RSS file is left unchanged, "
+            "because the site HTML structure may have changed."
         )
 
     output_path = project_root() / config["output_file"]
     content = build_rss(releases, config, now)
     atomic_write(output_path, content)
 
-    print(f"Skrev {len(releases)} premiärer till {output_path}")
+    print(f"Wrote {len(releases)} releases to {output_path}")
     return 0
 
 
