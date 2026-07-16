@@ -1,0 +1,14 @@
+{
+  "days_ahead": 7,
+  "start_offset_days": 0,
+  "timezone": "Europe/Stockholm",
+  "feed_title": "Kommande film- och TV-premiärer",
+  "feed_description": "Premiärer de närmaste sju dagarna. Källa: Releases.com.",
+  "output_file": "docs/releases.xml",
+  "date_format": "%-d/%-m",
+  "movie_label": "Film",
+  "tv_label": "TV-serie",
+  "minimum_kodi_items": 3,
+  "check_robots_txt": true,
+  "request_delay_seconds": 0.5
+}

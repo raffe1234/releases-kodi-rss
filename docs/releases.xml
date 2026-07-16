@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kommande film- och TV-premiärer</title>
+    <link>https://www.releases.com/calendar/movies</link>
+    <description>Flödet fylls vid den första körningen i GitHub Actions.</description>
+    <language>sv-SE</language>
+    <item>
+      <title>Premiärkalender: kör arbetsflödet första gången</title>
+      <guid>initial-1</guid>
+    </item>
+    <item>
+      <title>Premiärkalender: uppdateras två gånger per dag</title>
+      <guid>initial-2</guid>
+    </item>
+    <item>
+      <title>Premiärkalender: källa Releases.com</title>
+      <guid>initial-3</guid>
+    </item>
+  </channel>
+</rss>

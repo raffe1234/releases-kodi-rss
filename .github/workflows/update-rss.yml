@@ -1,0 +1,50 @@
+name: Uppdatera Kodi RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Svensk lokal tid. Minut 17 minskar risken för kö vid heltimme.
+    - cron: "17 8,20 * * *"
+      timezone: "Europe/Stockholm"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-kodi-rss
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Hämta repot
+        uses: actions/checkout@v4
+
+      - name: Installera Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installera beroenden
+        run: python -m pip install --requirement requirements.txt
+
+      - name: Skapa RSS
+        run: python scripts/generate_feed.py
+
+      - name: Spara ändrad RSS
+        shell: bash
+        run: |
+          if git diff --quiet -- docs/releases.xml; then
+            echo "RSS-filen är oförändrad."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/releases.xml
+          git commit -m "Uppdatera Kodi RSS"
+          git push
