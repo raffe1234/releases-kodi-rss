@@ -2,51 +2,94 @@
 
 This repository creates a compact RSS 2.0 feed for Kodi's RSS ticker.
 
+## Use the feed directly in Kodi
+
+You do not need to fork this repository or create your own GitHub repository. You can add the hosted feed directly to Kodi:
+
+```text
+https://raffe1234.github.io/releases-kodi-rss/releases.xml
+```
+
+To add the feed:
+
+1. Open **Settings → Interface → Skin** in Kodi.
+2. Enable **Show RSS news feeds**.
+3. Select **Edit RSS**.
+4. Install the **RSS Editor** add-on if Kodi asks you to.
+5. Add or replace the existing feed with:
+
+   ```text
+   https://raffe1234.github.io/releases-kodi-rss/releases.xml
+   ```
+
+6. Set the update interval, for example, to 60 minutes.
+
+The selected Kodi skin must support the RSS ticker.
+
+### Add the feed manually
+
+You can also edit the `RssFeeds.xml` file in Kodi's userdata folder:
+
+```xml
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rssfeeds>
+  <set id="1">
+    <feed updateinterval="60">https://raffe1234.github.io/releases-kodi-rss/releases.xml</feed>
+  </set>
+</rssfeeds>
+```
+
+`updateinterval="60"` tells Kodi to check the feed every hour. The feed itself is generated twice a day.
+
+## Feed contents
+
 Example headlines:
 
 - `Movie (cinema): 17/7 – The Odyssey`
 - `Movie (Disney+): 16/7 – Descendants: Wicked Wonderland`
 - `TV series (Netflix): 17/7 – The East Palace Season 1`
 
-The feed contains releases from today through the next seven calendar days, as configured in `config.json`. Each item includes the release channel or platform when Releases.com provides one. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
+The feed contains releases from today through the next seven calendar days, as configured in `config.json`.
 
-By default, physical-only DVD and Blu-ray releases are excluded. The feed fetches separate date pages from:
+Each item includes the release channel or platform when Releases.com provides one. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
+
+By default, physical-only DVD and Blu-ray releases are excluded.
+
+The feed fetches separate date pages from:
 
 - `https://www.releases.com/calendar/movies`
 - `https://www.releases.com/calendar/tv-series`
 
-GitHub Actions runs automatically at **08:17 and 20:17 Swedish local time**. The workflow can also be started manually.
+## Update schedule
 
-## Set up the repository
+GitHub Actions generates the feed twice a day.
+
+The corresponding UTC run times are:
+
+- **06:17 and 18:17 UTC** during daylight-saving periods.
+- **07:17 and 19:17 UTC** during standard-time periods.
+
+The workflow can also be started manually.
+
+## Host your own copy
+
+This is optional. You only need your own repository if you want to change the configuration or maintain a separate feed.
 
 1. Create a new public GitHub repository.
-2. Upload all files in this folder to the repository root.
+2. Upload all files from this repository to the repository root.
 3. Open **Settings → Actions → General**.
 4. Under **Workflow permissions**, select **Read and write permissions** and save.
 5. Open **Actions**, select **Update Kodi RSS**, and click **Run workflow**.
 6. Confirm that `docs/releases.xml` contains actual release entries.
 7. Open **Settings → Pages**.
 8. Select **Deploy from a branch**, branch `main`, and folder `/docs`.
-9. The RSS URL will normally be:
+9. Your RSS URL will normally be:
 
-   `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/releases.xml`
+   ```text
+   https://YOUR-USERNAME.github.io/REPOSITORY-NAME/releases.xml
+   ```
 
-## Add the feed to Kodi
-
-Use the RSS Editor add-on or edit `RssFeeds.xml`.
-
-Example:
-
-```xml
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rssfeeds>
-  <set id="1">
-    <feed updateinterval="60">https://YOUR-USERNAME.github.io/REPOSITORY-NAME/releases.xml</feed>
-  </set>
-</rssfeeds>
-```
-
-`updateinterval="60"` tells Kodi to check the feed every hour. The feed itself is generated twice a day.
+Use this URL instead of the hosted feed URL when configuring Kodi.
 
 ## Configuration
 
@@ -75,7 +118,9 @@ Settings are stored in `config.json`.
 
 ## Source considerations
 
-The feed republishes only short title, date, and release-channel information and links back to Releases.com. Dates use the USA region selected by the source site. Check the site's current terms and `robots.txt`. Stop the workflow or use an official data source if Releases.com blocks or prohibits automated fetching.
+The feed republishes only short title, date, and release-channel information and links back to Releases.com. Dates use the USA region selected by the source site.
+
+Check the site's current terms and `robots.txt`. Stop the workflow or use an official data source if Releases.com blocks or prohibits automated fetching.
 
 The HTML structure of an external website can change. If the workflow begins to fail, the parser in `scripts/generate_feed.py` may need to be updated.
 
@@ -86,7 +131,7 @@ python -m pip install -r requirements.txt
 python scripts/generate_feed.py
 ```
 
-Tests:
+Run the tests with:
 
 ```bash
 python -m pip install pytest
