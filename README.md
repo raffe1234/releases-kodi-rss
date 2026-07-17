@@ -53,7 +53,7 @@ The feed retrieves upcoming movie and TV series releases for one week ahead, as 
 
 Each item includes the release channel or platform when Releases.com provides one. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
 
-By default, physical-only DVD and Blu-ray releases are excluded.
+Only releases labelled `4K Blu-ray (SteelBook)` are excluded. DVD, Blu-ray and standard 4K Blu-ray releases are included.
 
 The feed fetches separate date pages from:
 
@@ -101,7 +101,7 @@ Settings are stored in `config.json`.
 - `movie_label` and `tv_label`: text placed before each title.
 - `language`: RSS language code.
 - `include_platform`: set to `false` to return to the old title format without parentheses.
-- `excluded_platforms`: release formats omitted from the feed. DVD and Blu-ray formats are excluded by default.
+- `excluded_platforms`: release formats omitted from the feed. By default, only `4K Blu-ray (SteelBook)` is excluded.
 - `check_robots_txt`: should normally remain `true`.
 - `request_delay_seconds`: short delay between requests.
 
