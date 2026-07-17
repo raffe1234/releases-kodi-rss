@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:30:33 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>Movie (Disney+): 16/7 – Descendants: Wicked Wonderland</title>
-      <link>https://www.releases.com/p/descendants-wicked-wonderland</link>
-      <guid isPermaLink="false">https://www.releases.com/p/descendants-wicked-wonderland|2026-07-16|Disney+</guid>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>TV series (Netflix): 16/7 – The Hawk Season 1</title>
-      <link>https://www.releases.com/p/the-hawk-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-hawk-season-1|2026-07-16|Netflix</guid>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>Movie (cinema): 17/7 – Cut Off (2026)</title>
       <link>https://www.releases.com/p/cut-off-2026</link>
@@ -145,6 +131,41 @@
       <link>https://www.releases.com/p/a-shop-for-killers-season-2</link>
       <guid isPermaLink="false">https://www.releases.com/p/a-shop-for-killers-season-2|2026-07-22|Disney+</guid>
       <pubDate>Wed, 22 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (cinema): 23/7 – A Mosquito in the Ear</title>
+      <link>https://www.releases.com/p/a-mosquito-in-the-ear</link>
+      <guid isPermaLink="false">https://www.releases.com/p/a-mosquito-in-the-ear|2026-07-23|Cinema</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>TV series (Netflix): 23/7 – Kaulitz &amp; Kaulitz Season 3</title>
+      <link>https://www.releases.com/p/kaulitz-kaulitz-season-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/kaulitz-kaulitz-season-3|2026-07-23|Netflix</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>TV series (Netflix): 23/7 – Ransom Canyon Season 2</title>
+      <link>https://www.releases.com/p/ransom-canyon-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/ransom-canyon-season-2|2026-07-23|Netflix</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>TV series (Paramount+): 23/7 – Star Trek: Strange New Worlds Season 4</title>
+      <link>https://www.releases.com/p/star-trek-strange-new-worlds-season-4</link>
+      <guid isPermaLink="false">https://www.releases.com/p/star-trek-strange-new-worlds-season-4|2026-07-23|Paramount+</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>TV series (HBO Max): 23/7 – Stuart Fails to Save the Universe Season 1</title>
+      <link>https://www.releases.com/p/stuart-fails-to-save-the-universe-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/stuart-fails-to-save-the-universe-season-1|2026-07-23|HBO Max</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
