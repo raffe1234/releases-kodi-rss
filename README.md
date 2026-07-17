@@ -49,7 +49,7 @@ Example headlines:
 - `Movie (Disney+): 16/7 – Descendants: Wicked Wonderland`
 - `TV series (Netflix): 17/7 – The East Palace Season 1`
 
-The feed contains releases from today through the next seven calendar days, as configured in `config.json`.
+The feed retrieves upcoming movie and TV series releases for one week ahead, as configured in `config.json`.
 
 Each item includes the release channel or platform when Releases.com provides one. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
 
