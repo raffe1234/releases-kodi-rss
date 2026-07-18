@@ -5,64 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:11:33 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>Movie (cinema): 17/7 – Cut Off (2026)</title>
-      <link>https://www.releases.com/p/cut-off-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/cut-off-2026|2026-07-17|Cinema</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>Movie (Netflix): 17/7 – Heartstopper Forever</title>
-      <link>https://www.releases.com/p/heartstopper-forever</link>
-      <guid isPermaLink="false">https://www.releases.com/p/heartstopper-forever|2026-07-17|Netflix</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>Movie (cinema): 17/7 – Horsegirls</title>
-      <link>https://www.releases.com/p/horsegirls</link>
-      <guid isPermaLink="false">https://www.releases.com/p/horsegirls|2026-07-17|Cinema</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>Movie (Peacock): 17/7 – Obsession (2026)</title>
-      <link>https://www.releases.com/p/obsession-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/obsession-2026|2026-07-17|Peacock</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>Movie (cinema): 17/7 – Steal Away</title>
-      <link>https://www.releases.com/p/steal-away</link>
-      <guid isPermaLink="false">https://www.releases.com/p/steal-away|2026-07-17|Cinema</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>Movie (cinema): 17/7 – The Odyssey</title>
-      <link>https://www.releases.com/p/the-odyssey-movie</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-odyssey-movie|2026-07-17|Cinema</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>Movie (Hulu): 17/7 – They Fight</title>
-      <link>https://www.releases.com/p/they-fight</link>
-      <guid isPermaLink="false">https://www.releases.com/p/they-fight|2026-07-17|Hulu</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>TV series (Netflix): 17/7 – The East Palace Season 1</title>
-      <link>https://www.releases.com/p/the-east-palace-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-east-palace-season-1|2026-07-17|Netflix</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>TV series (Hulu): 20/7 – King of the Hill Season 15</title>
       <link>https://www.releases.com/p/king-of-the-hill-season-15</link>
@@ -166,6 +110,76 @@
       <link>https://www.releases.com/p/stuart-fails-to-save-the-universe-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/stuart-fails-to-save-the-universe-season-1|2026-07-23|HBO Max</guid>
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (Netflix): 24/7 – 72 Hours</title>
+      <link>https://www.releases.com/p/72-hours</link>
+      <guid isPermaLink="false">https://www.releases.com/p/72-hours|2026-07-24|Netflix</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (cinema): 24/7 – Her Private Hell</title>
+      <link>https://www.releases.com/p/her-private-hell</link>
+      <guid isPermaLink="false">https://www.releases.com/p/her-private-hell|2026-07-24|Cinema</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (VOD): 24/7 – Kill Code</title>
+      <link>https://www.releases.com/p/kill-code-movie</link>
+      <guid isPermaLink="false">https://www.releases.com/p/kill-code-movie|2026-07-24|VOD</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (cinema): 24/7 – Manhunter: The Final Cut</title>
+      <link>https://www.releases.com/p/manhunter-the-final-cut</link>
+      <guid isPermaLink="false">https://www.releases.com/p/manhunter-the-final-cut|2026-07-24|Cinema</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (cinema): 24/7 – Motor City</title>
+      <link>https://www.releases.com/p/motor-city</link>
+      <guid isPermaLink="false">https://www.releases.com/p/motor-city|2026-07-24|Cinema</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (cinema): 24/7 – Pinocchio Unstrung</title>
+      <link>https://www.releases.com/p/pinocchio-unstrung</link>
+      <guid isPermaLink="false">https://www.releases.com/p/pinocchio-unstrung|2026-07-24|Cinema</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (VOD): 24/7 – Sour Party</title>
+      <link>https://www.releases.com/p/sour-party</link>
+      <guid isPermaLink="false">https://www.releases.com/p/sour-party|2026-07-24|VOD</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (Apple TV): 24/7 – The Dink</title>
+      <link>https://www.releases.com/p/the-dink</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-dink|2026-07-24|Apple TV</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>Movie (cinema): 24/7 – The Piano (1993) 4K</title>
+      <link>https://www.releases.com/p/the-piano-1993-4k</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-piano-1993-4k|2026-07-24|Cinema</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>TV series (Tubi): 24/7 – Breaking Bear Season 1</title>
+      <link>https://www.releases.com/p/breaking-bear-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/breaking-bear-season-1|2026-07-24|Tubi</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
