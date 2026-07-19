@@ -629,10 +629,11 @@ def build_rss(releases: list[Release], config: dict, now: datetime) -> bytes:
     for release in releases:
         item = ET.SubElement(channel, "item")
         short_date = format_short_date(release.release_date, config["date_format"])
-        item_label = labels[release.kind]
+        title_parts = [labels[release.kind]]
         if include_platform and release.platform:
-            item_label = f"{item_label} ({display_platform(release.platform)})"
-        ticker_title = f"{item_label}: {short_date} – {release.title}"
+            title_parts.append(display_platform(release.platform))
+        title_parts.append(short_date)
+        ticker_title = f"◆ [{' · '.join(title_parts)}] {release.title}"
 
         add_text_element(item, "title", ticker_title)
         add_text_element(item, "link", release.url)
@@ -717,7 +718,7 @@ def main() -> int:
     platform_count = sum(release.platform is not None for release in releases)
     if platform_count == 0:
         print(
-            "Warning: no release channels were detected; using the old title format.",
+            "Warning: no release channels were detected; omitting them from ticker titles.",
             file=sys.stderr,
         )
     else:

@@ -45,13 +45,13 @@ You can also edit the `RssFeeds.xml` file in Kodi's userdata folder:
 
 Example headlines:
 
-- `Movie (cinema): 17/7 – The Odyssey`
-- `Movie (Disney+): 16/7 – Descendants: Wicked Wonderland`
-- `TV series (Netflix): 17/7 – The East Palace Season 1`
+- `◆ [Movie · cinema · 17/7] The Odyssey`
+- `◆ [Movie · Disney+ · 16/7] Descendants: Wicked Wonderland`
+- `◆ [TV series · Netflix · 17/7] The East Palace Season 1`
 
 The feed retrieves upcoming movie and TV series releases for one week ahead, as configured in `config.json`.
 
-Each item includes the release channel or platform when Releases.com provides one. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
+Each item starts with `◆` so the beginning of a new Kodi ticker item is easy to spot. Type, release channel or platform, and date are grouped inside brackets. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
 
 Only releases labelled `4K Blu-ray (SteelBook)` are excluded. DVD, Blu-ray and standard 4K Blu-ray releases are included.
 
@@ -98,9 +98,9 @@ Settings are stored in `config.json`.
 - `days_ahead`: number of calendar days included in the feed.
 - `start_offset_days`: `0` includes today; `1` starts tomorrow.
 - `date_format`: short date format used in item titles.
-- `movie_label` and `tv_label`: text placed before each title.
+- `movie_label` and `tv_label`: type text shown first inside the brackets.
 - `language`: RSS language code.
-- `include_platform`: set to `false` to return to the old title format without parentheses.
+- `include_platform`: set to `false` to omit the platform, for example `◆ [Movie · 17/7] The Odyssey`.
 - `excluded_platforms`: release formats omitted from the feed. By default, only `4K Blu-ray (SteelBook)` is excluded.
 - `check_robots_txt`: should normally remain `true`.
 - `request_delay_seconds`: short delay between requests.
@@ -111,7 +111,7 @@ Settings are stored in `config.json`.
 - `robots.txt` is checked before calendar pages are fetched.
 - A short delay is used between requests.
 - If no titles are found, the existing RSS file is not replaced with an empty file.
-- If platform detection fails, entries fall back to the previous `Movie: date – title` format.
+- If platform detection fails, entries keep the same bracketed format but omit the platform.
 - RSS GUIDs include date and platform so cinema and later streaming releases remain separate items.
 - The RSS file is written atomically.
 - The GitHub token is limited to `contents: write`.

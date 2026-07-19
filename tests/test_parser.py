@@ -147,15 +147,15 @@ def test_rss_titles_include_platform_and_guids_are_not_permalinks():
     root = ET.fromstring(xml)
     titles = [item.findtext("title") for item in root.findall("./channel/item")]
     assert titles[:2] == [
-        "Movie (cinema): 17/7 – The Odyssey",
-        "TV series (Netflix): 21/7 – Example Series Season 2",
+        "◆ [Movie · cinema · 17/7] The Odyssey",
+        "◆ [TV series · Netflix · 21/7] Example Series Season 2",
     ]
     guids = root.findall("./channel/item/guid")
     assert guids[0].attrib["isPermaLink"] == "false"
     assert guids[0].text != guids[1].text
 
 
-def test_missing_platform_uses_old_safe_format():
+def test_missing_platform_omits_platform_from_brackets():
     release = MODULE.Release(
         date(2026, 7, 31),
         "movie",
@@ -180,7 +180,7 @@ def test_missing_platform_uses_old_safe_format():
         datetime(2026, 7, 16, 12, tzinfo=ZoneInfo("Europe/Stockholm")),
     )
     root = ET.fromstring(xml)
-    assert root.findtext("./channel/item/title") == "Movie: 31/7 – Unknown Release"
+    assert root.findtext("./channel/item/title") == "◆ [Movie · 31/7] Unknown Release"
 
 
 def test_month_boundary_and_slug_fallback():
