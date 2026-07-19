@@ -45,13 +45,13 @@ You can also edit the `RssFeeds.xml` file in Kodi's userdata folder:
 
 Example headlines:
 
-- `◆ [Movie · cinema · 17/7] The Odyssey`
-- `◆ [Movie · Disney+ · 16/7] Descendants: Wicked Wonderland`
-- `◆ [TV series · Netflix · 17/7] The East Palace Season 1`
+- `>> [Movie · cinema · 17/7] The Odyssey`
+- `>> [Movie · Disney+ · 16/7] Descendants: Wicked Wonderland`
+- `>> [TV series · Netflix · 17/7] The East Palace Season 1`
 
 The feed retrieves upcoming movie and TV series releases for one week ahead, as configured in `config.json`.
 
-Each item starts with `◆` so the beginning of a new Kodi ticker item is easy to spot. Type, release channel or platform, and date are grouped inside brackets. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
+Each item starts with `>>` so the beginning of a new Kodi ticker item is easy to spot. Type, release channel or platform, and date are grouped inside brackets. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
 
 Only releases labelled `4K Blu-ray (SteelBook)` are excluded. DVD, Blu-ray and standard 4K Blu-ray releases are included.
 
@@ -100,7 +100,7 @@ Settings are stored in `config.json`.
 - `date_format`: short date format used in item titles.
 - `movie_label` and `tv_label`: type text shown first inside the brackets.
 - `language`: RSS language code.
-- `include_platform`: set to `false` to omit the platform, for example `◆ [Movie · 17/7] The Odyssey`.
+- `include_platform`: set to `false` to omit the platform, for example `>> [Movie · 17/7] The Odyssey`.
 - `excluded_platforms`: release formats omitted from the feed. By default, only `4K Blu-ray (SteelBook)` is excluded.
 - `check_robots_txt`: should normally remain `true`.
 - `request_delay_seconds`: short delay between requests.

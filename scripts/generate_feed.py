@@ -633,7 +633,7 @@ def build_rss(releases: list[Release], config: dict, now: datetime) -> bytes:
         if include_platform and release.platform:
             title_parts.append(display_platform(release.platform))
         title_parts.append(short_date)
-        ticker_title = f"◆ [{' · '.join(title_parts)}] {release.title}"
+        ticker_title = f">> [{' · '.join(title_parts)}] {release.title}"
 
         add_text_element(item, "title", ticker_title)
         add_text_element(item, "link", release.url)
