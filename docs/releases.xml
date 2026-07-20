@@ -5,8 +5,15 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Jul 2026 19:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:37:10 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 20/7] Two Women</title>
+      <link>https://www.releases.com/p/two-women</link>
+      <guid isPermaLink="false">https://www.releases.com/p/two-women|2026-07-20|VOD</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
     <item>
       <title>&gt;&gt; [TV series · Hulu · 20/7] King of the Hill Season 15</title>
       <link>https://www.releases.com/p/king-of-the-hill-season-15</link>
@@ -194,6 +201,13 @@
       <link>https://www.releases.com/p/bleach-thousand-year-blood-war-the-calamity</link>
       <guid isPermaLink="false">https://www.releases.com/p/bleach-thousand-year-blood-war-the-calamity|2026-07-25|Hulu</guid>
       <pubDate>Sat, 25 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · AMC · 26/7] The Walking Dead: Dead City Season 3</title>
+      <link>https://www.releases.com/p/the-walking-dead-dead-city-season-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-walking-dead-dead-city-season-3|2026-07-26|AMC</guid>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
