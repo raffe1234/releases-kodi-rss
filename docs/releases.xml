@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:58:59 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · VOD · 20/7] Two Women</title>
@@ -75,6 +75,13 @@
       <link>https://www.releases.com/p/wwe-unreal-season-3</link>
       <guid isPermaLink="false">https://www.releases.com/p/wwe-unreal-season-3|2026-07-21|Netflix</guid>
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 22/7] Masters of the Universe (2026)</title>
+      <link>https://www.releases.com/p/masters-of-the-universe-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/masters-of-the-universe-2026|2026-07-22|VOD</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
     <item>
@@ -201,6 +208,13 @@
       <link>https://www.releases.com/p/bleach-thousand-year-blood-war-the-calamity</link>
       <guid isPermaLink="false">https://www.releases.com/p/bleach-thousand-year-blood-war-the-calamity|2026-07-25|Hulu</guid>
       <pubDate>Sat, 25 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Adult Swim · 26/7] President Curtis Season 1</title>
+      <link>https://www.releases.com/p/president-curtis-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/president-curtis-season-1|2026-07-26|Adult Swim</guid>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
     <item>
