@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:58:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:49:24 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 20/7] Two Women</title>
-      <link>https://www.releases.com/p/two-women</link>
-      <guid isPermaLink="false">https://www.releases.com/p/two-women|2026-07-20|VOD</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 20/7] King of the Hill Season 15</title>
-      <link>https://www.releases.com/p/king-of-the-hill-season-15</link>
-      <guid isPermaLink="false">https://www.releases.com/p/king-of-the-hill-season-15|2026-07-20|Hulu</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray · 21/7] Anyone But You</title>
       <link>https://www.releases.com/p/anyone-but-you</link>
@@ -95,6 +81,13 @@
       <title>&gt;&gt; [Movie · cinema · 23/7] A Mosquito in the Ear</title>
       <link>https://www.releases.com/p/a-mosquito-in-the-ear</link>
       <guid isPermaLink="false">https://www.releases.com/p/a-mosquito-in-the-ear|2026-07-23|Cinema</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · TBS · 23/7] Impractical Jokers Season 12</title>
+      <link>https://www.releases.com/p/impractical-jokers-season-12</link>
+      <guid isPermaLink="false">https://www.releases.com/p/impractical-jokers-season-12|2026-07-23|TBS</guid>
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -222,6 +215,13 @@
       <link>https://www.releases.com/p/the-walking-dead-dead-city-season-3</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-walking-dead-dead-city-season-3|2026-07-26|AMC</guid>
       <pubDate>Sun, 26 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Hulu · 27/7] Furious Season 1</title>
+      <link>https://www.releases.com/p/furious-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/furious-season-1|2026-07-27|Hulu</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
