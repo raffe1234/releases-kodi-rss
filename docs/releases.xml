@@ -5,64 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 Jul 2026 19:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:47:29 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 21/7] Anyone But You</title>
-      <link>https://www.releases.com/p/anyone-but-you</link>
-      <guid isPermaLink="false">https://www.releases.com/p/anyone-but-you|2026-07-21|4K Blu-ray</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 21/7] Disclosure Day</title>
-      <link>https://www.releases.com/p/disclosure-day</link>
-      <guid isPermaLink="false">https://www.releases.com/p/disclosure-day|2026-07-21|VOD</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray · 21/7] Falling Down</title>
-      <link>https://www.releases.com/p/falling-down</link>
-      <guid isPermaLink="false">https://www.releases.com/p/falling-down|2026-07-21|4K Blu-ray / Blu-ray</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 21/7] Scary Movie (2026)</title>
-      <link>https://www.releases.com/p/scary-movie-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/scary-movie-2026|2026-07-21|VOD</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 21/7] The 7th Voyage of Sinbad</title>
-      <link>https://www.releases.com/p/the-7th-voyage-of-sinbad</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-7th-voyage-of-sinbad|2026-07-21|4K Blu-ray</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 21/7] The Mandalorian &amp; Grogu</title>
-      <link>https://www.releases.com/p/the-mandalorian-grogu</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-mandalorian-grogu|2026-07-21|VOD</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · FOX · 21/7] Kitchen Nightmares Season 10</title>
-      <link>https://www.releases.com/p/kitchen-nightmares-season-10</link>
-      <guid isPermaLink="false">https://www.releases.com/p/kitchen-nightmares-season-10|2026-07-21|FOX</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 21/7] WWE: Unreal: Season 3</title>
-      <link>https://www.releases.com/p/wwe-unreal-season-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/wwe-unreal-season-3|2026-07-21|Netflix</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 22/7] Masters of the Universe (2026)</title>
       <link>https://www.releases.com/p/masters-of-the-universe-2026</link>
@@ -222,6 +166,83 @@
       <link>https://www.releases.com/p/furious-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/furious-season-1|2026-07-27|Hulu</guid>
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 28/7] Capps Crossing: Wrong Side of Dead</title>
+      <link>https://www.releases.com/p/capps-crossing-wrong-side-of-dead</link>
+      <guid isPermaLink="false">https://www.releases.com/p/capps-crossing-wrong-side-of-dead|2026-07-28|VOD</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 28/7] Demon Slayer: Kimetsu no Yaiba Infinity Castle</title>
+      <link>https://www.releases.com/p/demon-slayer-kimetsu-no-yaiba-infinity-castle</link>
+      <guid isPermaLink="false">https://www.releases.com/p/demon-slayer-kimetsu-no-yaiba-infinity-castle|2026-07-28|VOD</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray · 28/7] Kill Bill: The Whole Bloody Affair</title>
+      <link>https://www.releases.com/p/kill-bill-the-whole-bloody-affair</link>
+      <guid isPermaLink="false">https://www.releases.com/p/kill-bill-the-whole-bloody-affair|2026-07-28|4K Blu-ray</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 28/7] Leviticus</title>
+      <link>https://www.releases.com/p/leviticus</link>
+      <guid isPermaLink="false">https://www.releases.com/p/leviticus|2026-07-28|VOD</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray / DVD / Blu-ray · 28/7] Mortal Kombat 2</title>
+      <link>https://www.releases.com/p/mortal-kombat-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/mortal-kombat-2|2026-07-28|4K Blu-ray / DVD / Blu-ray</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 28/7] Pressure (2026)</title>
+      <link>https://www.releases.com/p/pressure-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/pressure-2026|2026-07-28|DVD / 4K Blu-ray / Blu-ray</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray · 28/7] Soylent Green</title>
+      <link>https://www.releases.com/p/soylent-green</link>
+      <guid isPermaLink="false">https://www.releases.com/p/soylent-green|2026-07-28|4K Blu-ray</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 28/7] Supergirl (2026)</title>
+      <link>https://www.releases.com/p/supergirl-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/supergirl-2026|2026-07-28|VOD</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 28/7] The Devil Wears Prada 2</title>
+      <link>https://www.releases.com/p/the-devil-wears-prada-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-devil-wears-prada-2|2026-07-28|DVD / Blu-ray / 4K Blu-ray</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · FOX · 28/7] Beat Shazam Season 8</title>
+      <link>https://www.releases.com/p/beat-shazam-season-8</link>
+      <guid isPermaLink="false">https://www.releases.com/p/beat-shazam-season-8|2026-07-28|FOX</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Blu-ray / 4K Blu-ray / DVD · 28/7] Stranger Things: The Complete Series</title>
+      <link>https://www.releases.com/p/stranger-things-the-complete-series</link>
+      <guid isPermaLink="false">https://www.releases.com/p/stranger-things-the-complete-series|2026-07-28|Blu-ray / 4K Blu-ray / DVD</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
