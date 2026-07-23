@@ -5,36 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:46:58 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 22/7] Blue Heron</title>
-      <link>https://www.releases.com/p/blue-heron</link>
-      <guid isPermaLink="false">https://www.releases.com/p/blue-heron|2026-07-22|VOD</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 22/7] Brother (2026)</title>
-      <link>https://www.releases.com/p/brother-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/brother-2026|2026-07-22|VOD</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 22/7] Masters of the Universe (2026)</title>
-      <link>https://www.releases.com/p/masters-of-the-universe-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/masters-of-the-universe-2026|2026-07-22|VOD</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 22/7] A Shop for Killers Season 2</title>
-      <link>https://www.releases.com/p/a-shop-for-killers-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/a-shop-for-killers-season-2|2026-07-22|Disney+</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 23/7] A Mosquito in the Ear</title>
       <link>https://www.releases.com/p/a-mosquito-in-the-ear</link>
@@ -264,6 +236,41 @@
       <link>https://www.releases.com/p/stranger-things-the-complete-series</link>
       <guid isPermaLink="false">https://www.releases.com/p/stranger-things-the-complete-series|2026-07-28|Blu-ray / 4K Blu-ray / DVD</guid>
       <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 29/7] Spider-Man: Brand New Day</title>
+      <link>https://www.releases.com/p/spider-man-brand-new-day</link>
+      <guid isPermaLink="false">https://www.releases.com/p/spider-man-brand-new-day|2026-07-29|Cinema</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Disney + · 29/7] The Devil Wears Prada 2</title>
+      <link>https://www.releases.com/p/the-devil-wears-prada-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-devil-wears-prada-2|2026-07-29|Disney +</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 29/7] The Idaho Murders</title>
+      <link>https://www.releases.com/p/the-idaho-murders</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-idaho-murders|2026-07-29|Netflix</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Freeform · 29/7] House of Stassi Season 1</title>
+      <link>https://www.releases.com/p/house-of-stassi-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/house-of-stassi-season-1|2026-07-29|Freeform</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Syfy · 29/7] The Ark Season 3</title>
+      <link>https://www.releases.com/p/the-ark-season-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-ark-season-3|2026-07-29|Syfy</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
