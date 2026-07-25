@@ -5,85 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Jul 2026 19:49:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:26:19 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Netflix · 24/7] 72 Hours</title>
-      <link>https://www.releases.com/p/72-hours</link>
-      <guid isPermaLink="false">https://www.releases.com/p/72-hours|2026-07-24|Netflix</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 24/7] Her Private Hell</title>
-      <link>https://www.releases.com/p/her-private-hell</link>
-      <guid isPermaLink="false">https://www.releases.com/p/her-private-hell|2026-07-24|Cinema</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 24/7] Kill Code</title>
-      <link>https://www.releases.com/p/kill-code-movie</link>
-      <guid isPermaLink="false">https://www.releases.com/p/kill-code-movie|2026-07-24|VOD</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 24/7] Manhunter: The Final Cut</title>
-      <link>https://www.releases.com/p/manhunter-the-final-cut</link>
-      <guid isPermaLink="false">https://www.releases.com/p/manhunter-the-final-cut|2026-07-24|Cinema</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 24/7] Motor City</title>
-      <link>https://www.releases.com/p/motor-city</link>
-      <guid isPermaLink="false">https://www.releases.com/p/motor-city|2026-07-24|Cinema</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 24/7] Newborn</title>
-      <link>https://www.releases.com/p/newborn</link>
-      <guid isPermaLink="false">https://www.releases.com/p/newborn|2026-07-24|VOD</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 24/7] Pinocchio Unstrung</title>
-      <link>https://www.releases.com/p/pinocchio-unstrung</link>
-      <guid isPermaLink="false">https://www.releases.com/p/pinocchio-unstrung|2026-07-24|Cinema</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 24/7] Sour Party</title>
-      <link>https://www.releases.com/p/sour-party</link>
-      <guid isPermaLink="false">https://www.releases.com/p/sour-party|2026-07-24|VOD</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Apple TV · 24/7] The Dink</title>
-      <link>https://www.releases.com/p/the-dink</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-dink|2026-07-24|Apple TV</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 24/7] The Piano (1993) 4K</title>
-      <link>https://www.releases.com/p/the-piano-1993-4k</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-piano-1993-4k|2026-07-24|Cinema</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Tubi · 24/7] Breaking Bear Season 1</title>
-      <link>https://www.releases.com/p/breaking-bear-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/breaking-bear-season-1|2026-07-24|Tubi</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD / Paramount+ · 25/7] Avatar Aang: The Last Airbender</title>
       <link>https://www.releases.com/p/avatar-aang-the-last-airbender</link>
@@ -257,6 +180,76 @@
       <link>https://www.releases.com/p/the-bombing-of-pan-am-103-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-bombing-of-pan-am-103-season-1|2026-07-30|Netflix</guid>
       <pubDate>Thu, 30 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 31/7] A Paradise Lost</title>
+      <link>https://www.releases.com/p/a-paradise-lost</link>
+      <guid isPermaLink="false">https://www.releases.com/p/a-paradise-lost|2026-07-31|Cinema</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 31/7] I Want Your Sex</title>
+      <link>https://www.releases.com/p/i-want-your-sex</link>
+      <guid isPermaLink="false">https://www.releases.com/p/i-want-your-sex|2026-07-31|Cinema</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Shudder · 31/7] Nightborn</title>
+      <link>https://www.releases.com/p/nightborn</link>
+      <guid isPermaLink="false">https://www.releases.com/p/nightborn|2026-07-31|Shudder</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 31/7] Sheep in the Box</title>
+      <link>https://www.releases.com/p/sheep-in-the-box</link>
+      <guid isPermaLink="false">https://www.releases.com/p/sheep-in-the-box|2026-07-31|Cinema</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 31/7] Son of Sara</title>
+      <link>https://www.releases.com/p/son-of-sara</link>
+      <guid isPermaLink="false">https://www.releases.com/p/son-of-sara|2026-07-31|VOD</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · HBO Max · 31/7] The Drama</title>
+      <link>https://www.releases.com/p/the-drama</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-drama|2026-07-31|HBO Max</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 31/7] The Slasher Nurse</title>
+      <link>https://www.releases.com/p/the-slasher-nurse</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-slasher-nurse|2026-07-31|VOD</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Amazon · 31/7] Batman: Caped Crusader Season 2</title>
+      <link>https://www.releases.com/p/batman-caped-crusader-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/batman-caped-crusader-season-2|2026-07-31|Amazon</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Starz · 31/7] Fightland Season 1</title>
+      <link>https://www.releases.com/p/fightland-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/fightland-season-1|2026-07-31|Starz</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Food Network · 31/7] Restaurant Impossible: Last Call Season 1</title>
+      <link>https://www.releases.com/p/restaurant-impossible-last-call-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/restaurant-impossible-last-call-season-1|2026-07-31|Food Network</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
