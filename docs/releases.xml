@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Jul 2026 19:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:41:19 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD / Paramount+ · 25/7] Avatar Aang: The Last Airbender</title>
-      <link>https://www.releases.com/p/avatar-aang-the-last-airbender</link>
-      <guid isPermaLink="false">https://www.releases.com/p/avatar-aang-the-last-airbender|2026-07-25|VOD / Paramount+</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 25/7] Bleach: Thousand Year Blood War - The Calamity</title>
-      <link>https://www.releases.com/p/bleach-thousand-year-blood-war-the-calamity</link>
-      <guid isPermaLink="false">https://www.releases.com/p/bleach-thousand-year-blood-war-the-calamity|2026-07-25|Hulu</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · Netflix · 26/7] Instadocs: The Prediction Games</title>
       <link>https://www.releases.com/p/instadocs-the-prediction-games</link>
@@ -250,6 +236,20 @@
       <link>https://www.releases.com/p/restaurant-impossible-last-call-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/restaurant-impossible-last-call-season-1|2026-07-31|Food Network</guid>
       <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 1/8] Soulm8te</title>
+      <link>https://www.releases.com/p/soulm8te</link>
+      <guid isPermaLink="false">https://www.releases.com/p/soulm8te|2026-08-01|VOD</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 1/8] Video Vixen</title>
+      <link>https://www.releases.com/p/video-vixen</link>
+      <guid isPermaLink="false">https://www.releases.com/p/video-vixen|2026-08-01|VOD</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
