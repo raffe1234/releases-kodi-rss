@@ -5,8 +5,22 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:58:23 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/7] Deep Water (2026)</title>
+      <link>https://www.releases.com/p/deep-water-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/deep-water-2026|2026-07-27|VOD</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/7] Supergirl (2026)</title>
+      <link>https://www.releases.com/p/supergirl-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/supergirl-2026|2026-07-27|VOD</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
     <item>
       <title>&gt;&gt; [TV series · Hulu · 27/7] Furious Season 1</title>
       <link>https://www.releases.com/p/furious-season-1</link>
@@ -60,13 +74,6 @@
       <title>&gt;&gt; [Movie · 4K Blu-ray · 28/7] Soylent Green</title>
       <link>https://www.releases.com/p/soylent-green</link>
       <guid isPermaLink="false">https://www.releases.com/p/soylent-green|2026-07-28|4K Blu-ray</guid>
-      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 28/7] Supergirl (2026)</title>
-      <link>https://www.releases.com/p/supergirl-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/supergirl-2026|2026-07-28|VOD</guid>
       <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
