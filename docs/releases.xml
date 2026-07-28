@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Jul 2026 19:58:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:08:31 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/7] Deep Water (2026)</title>
-      <link>https://www.releases.com/p/deep-water-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/deep-water-2026|2026-07-27|VOD</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/7] Supergirl (2026)</title>
-      <link>https://www.releases.com/p/supergirl-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/supergirl-2026|2026-07-27|VOD</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 27/7] Furious Season 1</title>
-      <link>https://www.releases.com/p/furious-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/furious-season-1|2026-07-27|Hulu</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 28/7] Capps Crossing: Wrong Side of Dead</title>
       <link>https://www.releases.com/p/capps-crossing-wrong-side-of-dead</link>
@@ -243,6 +222,13 @@
       <link>https://www.releases.com/p/lioness-season-3</link>
       <guid isPermaLink="false">https://www.releases.com/p/lioness-season-3|2026-08-02|Paramount+</guid>
       <pubDate>Sun, 02 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Hulu · 3/8] Futurama Season 14</title>
+      <link>https://www.releases.com/p/futurama-season-14</link>
+      <guid isPermaLink="false">https://www.releases.com/p/futurama-season-14|2026-08-03|Hulu</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
