@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 30 Jul 2026 19:55:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:19:25 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 30/7] Lionheart (1990)</title>
-      <link>https://www.releases.com/p/lionheart-1990</link>
-      <guid isPermaLink="false">https://www.releases.com/p/lionheart-1990|2026-07-30|4K Blu-ray</guid>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 30/7] House of Stassi Season 1</title>
-      <link>https://www.releases.com/p/house-of-stassi-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/house-of-stassi-season-1|2026-07-30|Hulu</guid>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 30/7] The Bombing of Pan Am 103 Season 1</title>
-      <link>https://www.releases.com/p/the-bombing-of-pan-am-103-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-bombing-of-pan-am-103-season-1|2026-07-30|Netflix</guid>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 31/7] A Paradise Lost</title>
       <link>https://www.releases.com/p/a-paradise-lost</link>
@@ -187,6 +166,20 @@
       <link>https://www.releases.com/p/the-shards-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-shards-season-1|2026-08-05|FX</guid>
       <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Discovery · 6/8] Escape from Alcatraz Season 1</title>
+      <link>https://www.releases.com/p/escape-from-alcatraz-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/escape-from-alcatraz-season-1|2026-08-06|Discovery</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 6/8] My Life With the Walter Boys Season 3</title>
+      <link>https://www.releases.com/p/my-life-with-the-walter-boys-season-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/my-life-with-the-walter-boys-season-3|2026-08-06|Netflix</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
