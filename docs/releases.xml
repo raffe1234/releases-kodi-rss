@@ -5,20 +5,20 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Aug 2026 19:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:08:20 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · Paramount+ · 2/8] Lioness Season 3</title>
-      <link>https://www.releases.com/p/lioness-season-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/lioness-season-3|2026-08-02|Paramount+</guid>
-      <pubDate>Sun, 02 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · Hulu · 3/8] Futurama Season 14</title>
       <link>https://www.releases.com/p/futurama-season-14</link>
       <guid isPermaLink="false">https://www.releases.com/p/futurama-season-14|2026-08-03|Hulu</guid>
       <pubDate>Mon, 03 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 4/8] Evil Dead Burn</title>
+      <link>https://www.releases.com/p/evil-dead-burn</link>
+      <guid isPermaLink="false">https://www.releases.com/p/evil-dead-burn|2026-08-04|VOD</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
     <item>
