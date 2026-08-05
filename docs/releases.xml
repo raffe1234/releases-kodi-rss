@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 04 Aug 2026 20:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:10:05 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 4/8] Evil Dead Burn</title>
-      <link>https://www.releases.com/p/evil-dead-burn</link>
-      <guid isPermaLink="false">https://www.releases.com/p/evil-dead-burn|2026-08-04|VOD</guid>
-      <pubDate>Tue, 04 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 4/8] Pools</title>
-      <link>https://www.releases.com/p/pools</link>
-      <guid isPermaLink="false">https://www.releases.com/p/pools|2026-08-04|VOD</guid>
-      <pubDate>Tue, 04 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Paramount+ · 4/8] Special Ops True Season 1</title>
-      <link>https://www.releases.com/p/special-ops-true-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/special-ops-true-season-1|2026-08-04|Paramount+</guid>
-      <pubDate>Tue, 04 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 5/8] The Dead Place</title>
       <link>https://www.releases.com/p/the-dead-place</link>
@@ -180,6 +159,48 @@
       <link>https://www.releases.com/p/the-ribbon-hero</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-ribbon-hero|2026-08-08|Netflix</guid>
       <pubDate>Sat, 08 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 11/8] Hokum</title>
+      <link>https://www.releases.com/p/hokum</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hokum|2026-08-11|4K Blu-ray / Blu-ray / DVD</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray · 11/8] Ju-On: The Grudge</title>
+      <link>https://www.releases.com/p/ju-on-the-grudge</link>
+      <guid isPermaLink="false">https://www.releases.com/p/ju-on-the-grudge|2026-08-11|4K Blu-ray</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray · 11/8] Mars Attacks!</title>
+      <link>https://www.releases.com/p/mars-attacks</link>
+      <guid isPermaLink="false">https://www.releases.com/p/mars-attacks|2026-08-11|4K Blu-ray</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 11/8] Project Hail Mary</title>
+      <link>https://www.releases.com/p/project-hail-mary</link>
+      <guid isPermaLink="false">https://www.releases.com/p/project-hail-mary|2026-08-11|DVD / 4K Blu-ray / Blu-ray</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Blu-ray / DVD / 4K Blu-ray · 11/8] The Furious</title>
+      <link>https://www.releases.com/p/the-furious</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-furious|2026-08-11|Blu-ray / DVD / 4K Blu-ray</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 11/8] Mourinho</title>
+      <link>https://www.releases.com/p/mourinho</link>
+      <guid isPermaLink="false">https://www.releases.com/p/mourinho|2026-08-11|Netflix</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
