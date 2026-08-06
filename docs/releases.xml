@@ -5,57 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Aug 2026 19:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:10:00 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 5/8] The Dead Place</title>
-      <link>https://www.releases.com/p/the-dead-place</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-dead-place|2026-08-05|VOD</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Discovery · 5/8] How to Catch a Dirtbag Season 1</title>
-      <link>https://www.releases.com/p/how-to-catch-a-dirtbag-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/how-to-catch-a-dirtbag-season-1|2026-08-05|Discovery</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 5/8] One Hundred Years of Solitude Season 2</title>
-      <link>https://www.releases.com/p/one-hundred-years-of-solitude-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/one-hundred-years-of-solitude-season-2|2026-08-05|Netflix</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 5/8] Star Wars: Visions Presents: The Ninth Jedi Season 1</title>
-      <link>https://www.releases.com/p/star-wars-visions-presents-the-ninth-jedi-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/star-wars-visions-presents-the-ninth-jedi-season-1|2026-08-05|Disney+</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Amazon · 5/8] Sterling Point Season 1</title>
-      <link>https://www.releases.com/p/sterling-point-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/sterling-point-season-1|2026-08-05|Amazon</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Apple TV+ · 5/8] Ted Lasso Season 4</title>
-      <link>https://www.releases.com/p/ted-lasso-season-4</link>
-      <guid isPermaLink="false">https://www.releases.com/p/ted-lasso-season-4|2026-08-05|Apple TV+</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · FX · 5/8] The Shards Season 1</title>
-      <link>https://www.releases.com/p/the-shards-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-shards-season-1|2026-08-05|FX</guid>
-      <pubDate>Wed, 05 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · Discovery · 6/8] Escape from Alcatraz Season 1</title>
       <link>https://www.releases.com/p/escape-from-alcatraz-season-1</link>
@@ -201,6 +152,13 @@
       <link>https://www.releases.com/p/mourinho</link>
       <guid isPermaLink="false">https://www.releases.com/p/mourinho|2026-08-11|Netflix</guid>
       <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Amazon · 12/8] Reacher Season 4</title>
+      <link>https://www.releases.com/p/reacher-season-4</link>
+      <guid isPermaLink="false">https://www.releases.com/p/reacher-season-4|2026-08-12|Amazon</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
