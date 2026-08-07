@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:18:00 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · Discovery · 6/8] Escape from Alcatraz Season 1</title>
-      <link>https://www.releases.com/p/escape-from-alcatraz-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/escape-from-alcatraz-season-1|2026-08-06|Discovery</guid>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 6/8] My Life With the Walter Boys Season 3</title>
-      <link>https://www.releases.com/p/my-life-with-the-walter-boys-season-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/my-life-with-the-walter-boys-season-3|2026-08-06|Netflix</guid>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 7/8] Attack of the Killer Tomatoes: Organic Intelligence</title>
       <link>https://www.releases.com/p/attack-of-the-killer-tomatoes-organic-intelligence</link>
@@ -134,6 +120,13 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · VOD · 11/8] Minions &amp; Monsters</title>
+      <link>https://www.releases.com/p/minions-monsters</link>
+      <guid isPermaLink="false">https://www.releases.com/p/minions-monsters|2026-08-11|VOD</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 11/8] Project Hail Mary</title>
       <link>https://www.releases.com/p/project-hail-mary</link>
       <guid isPermaLink="false">https://www.releases.com/p/project-hail-mary|2026-08-11|DVD / 4K Blu-ray / Blu-ray</guid>
@@ -159,6 +152,20 @@
       <link>https://www.releases.com/p/reacher-season-4</link>
       <guid isPermaLink="false">https://www.releases.com/p/reacher-season-4|2026-08-12|Amazon</guid>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 13/8] My Brilliant Career Season 1</title>
+      <link>https://www.releases.com/p/my-brilliant-career-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/my-brilliant-career-season-1|2026-08-13|Netflix</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 13/8] Tires Season 3</title>
+      <link>https://www.releases.com/p/tires-season-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/tires-season-3|2026-08-13|Netflix</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
