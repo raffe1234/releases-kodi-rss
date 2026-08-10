@@ -5,12 +5,19 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Aug 2026 08:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 19:22:05 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 11/8] Hokum</title>
       <link>https://www.releases.com/p/hokum</link>
       <guid isPermaLink="false">https://www.releases.com/p/hokum|2026-08-11|4K Blu-ray / Blu-ray / DVD</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 11/8] Jackass: Best and Last</title>
+      <link>https://www.releases.com/p/jackass-best-and-last</link>
+      <guid isPermaLink="false">https://www.releases.com/p/jackass-best-and-last|2026-08-11|VOD</guid>
       <pubDate>Tue, 11 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -61,6 +68,13 @@
       <link>https://www.releases.com/p/reacher-season-4</link>
       <guid isPermaLink="false">https://www.releases.com/p/reacher-season-4|2026-08-12|Amazon</guid>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Disney+ · 13/8] Camp Rock 3</title>
+      <link>https://www.releases.com/p/camp-rock-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/camp-rock-3|2026-08-13|Disney+</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
     <item>
