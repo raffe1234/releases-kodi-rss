@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Aug 2026 19:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:07:44 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 11/8] Hokum</title>
@@ -61,6 +61,13 @@
       <link>https://www.releases.com/p/reacher-season-4</link>
       <guid isPermaLink="false">https://www.releases.com/p/reacher-season-4|2026-08-12|Amazon</guid>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Hulu · 13/8] Travis Barker: Louder Than Fear</title>
+      <link>https://www.releases.com/p/travis-barker-louder-than-fear</link>
+      <guid isPermaLink="false">https://www.releases.com/p/travis-barker-louder-than-fear|2026-08-13|Hulu</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
     <item>
@@ -180,6 +187,13 @@
       <link>https://www.releases.com/p/your-name-4k-10th-anniversary</link>
       <guid isPermaLink="false">https://www.releases.com/p/your-name-4k-10th-anniversary|2026-08-14|Cinema</guid>
       <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 16/8] Lanterns Season 1</title>
+      <link>https://www.releases.com/p/lanterns-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/lanterns-season-1|2026-08-16|HBO Max</guid>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
