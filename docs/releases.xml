@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Aug 2026 19:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:40:40 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 11/8] Hokum</title>
@@ -190,6 +190,13 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · Hulu · 14/8] The X-Files: I Want to Believe - Vrach Frankenshteyn</title>
+      <link>https://www.releases.com/p/the-x-files-i-want-to-believe-vrach-frankenshteyn</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-x-files-i-want-to-believe-vrach-frankenshteyn|2026-08-14|Hulu</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · Cinema 4K Re-Release · 14/8] Train to Busan</title>
       <link>https://www.releases.com/p/train-to-busan</link>
       <guid isPermaLink="false">https://www.releases.com/p/train-to-busan|2026-08-14|Cinema 4K Re-Release</guid>
@@ -208,6 +215,27 @@
       <link>https://www.releases.com/p/lanterns-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/lanterns-season-1|2026-08-16|HBO Max</guid>
       <pubDate>Sun, 16 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray · 17/8] Hunt for the Wilderpeople</title>
+      <link>https://www.releases.com/p/hunt-for-the-wilderpeople</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hunt-for-the-wilderpeople|2026-08-17|4K Blu-ray</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 17/8] Lucky Strike</title>
+      <link>https://www.releases.com/p/lucky-strike</link>
+      <guid isPermaLink="false">https://www.releases.com/p/lucky-strike|2026-08-17|VOD</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · FXX · 17/8] It's Always Sunny in Philadelphia Season 18</title>
+      <link>https://www.releases.com/p/its-always-sunny-in-philadelphia-season-18</link>
+      <guid isPermaLink="false">https://www.releases.com/p/its-always-sunny-in-philadelphia-season-18|2026-08-17|FXX</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
