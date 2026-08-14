@@ -5,43 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Aug 2026 19:28:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:53:33 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Disney+ · 13/8] Camp Rock 3</title>
-      <link>https://www.releases.com/p/camp-rock-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/camp-rock-3|2026-08-13|Disney+</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Hulu · 13/8] Travis Barker: Louder Than Fear</title>
-      <link>https://www.releases.com/p/travis-barker-louder-than-fear</link>
-      <guid isPermaLink="false">https://www.releases.com/p/travis-barker-louder-than-fear|2026-08-13|Hulu</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 13/8] My Brilliant Career Season 1</title>
-      <link>https://www.releases.com/p/my-brilliant-career-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/my-brilliant-career-season-1|2026-08-13|Netflix</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 13/8] Somebody Knows Something</title>
-      <link>https://www.releases.com/p/somebody-knows-something</link>
-      <guid isPermaLink="false">https://www.releases.com/p/somebody-knows-something|2026-08-13|Hulu</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 13/8] Tires Season 3</title>
-      <link>https://www.releases.com/p/tires-season-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/tires-season-3|2026-08-13|Netflix</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 14/8] Beliath</title>
       <link>https://www.releases.com/p/beliath</link>
@@ -215,6 +180,27 @@
       <link>https://www.releases.com/p/untold-stories-of-the-er-season-16</link>
       <guid isPermaLink="false">https://www.releases.com/p/untold-stories-of-the-er-season-16|2026-08-19|TLC</guid>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Disney+ · 20/8] Disney Worldbuilders</title>
+      <link>https://www.releases.com/p/disney-worldbuilders</link>
+      <guid isPermaLink="false">https://www.releases.com/p/disney-worldbuilders|2026-08-20|Disney+</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Disney+ · 20/8] Lion</title>
+      <link>https://www.releases.com/p/lion-tv-series-season</link>
+      <guid isPermaLink="false">https://www.releases.com/p/lion-tv-series-season|2026-08-20|Disney+</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 20/8] Outer Banks Season 5</title>
+      <link>https://www.releases.com/p/outer-banks-season-5</link>
+      <guid isPermaLink="false">https://www.releases.com/p/outer-banks-season-5|2026-08-20|Netflix</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
