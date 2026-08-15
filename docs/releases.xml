@@ -5,120 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Aug 2026 19:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:00:31 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 14/8] Beliath</title>
-      <link>https://www.releases.com/p/beliath</link>
-      <guid isPermaLink="false">https://www.releases.com/p/beliath|2026-08-14|VOD</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD / cinema · 14/8] Do Us Part</title>
-      <link>https://www.releases.com/p/do-us-part</link>
-      <guid isPermaLink="false">https://www.releases.com/p/do-us-part|2026-08-14|VOD / Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Netflix · 14/8] Don't Say Good Luck</title>
-      <link>https://www.releases.com/p/dont-say-good-luck</link>
-      <guid isPermaLink="false">https://www.releases.com/p/dont-say-good-luck|2026-08-14|Netflix</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] Elijah Peel</title>
-      <link>https://www.releases.com/p/elijah-peel</link>
-      <guid isPermaLink="false">https://www.releases.com/p/elijah-peel|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Shudder · 14/8] Hellcat</title>
-      <link>https://www.releases.com/p/hellcat</link>
-      <guid isPermaLink="false">https://www.releases.com/p/hellcat|2026-08-14|Shudder</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD / cinema · 14/8] If These Walls Could Rock</title>
-      <link>https://www.releases.com/p/if-these-walls-could-rock</link>
-      <guid isPermaLink="false">https://www.releases.com/p/if-these-walls-could-rock|2026-08-14|VOD / Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] Memory of Princess Mumbi</title>
-      <link>https://www.releases.com/p/memory-of-princess-mumbi</link>
-      <guid isPermaLink="false">https://www.releases.com/p/memory-of-princess-mumbi|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] Nimrods</title>
-      <link>https://www.releases.com/p/nimrods</link>
-      <guid isPermaLink="false">https://www.releases.com/p/nimrods|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] PAW Patrol: The Dino Movie</title>
-      <link>https://www.releases.com/p/paw-patrol-the-dino-movie</link>
-      <guid isPermaLink="false">https://www.releases.com/p/paw-patrol-the-dino-movie|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] The Brink of War</title>
-      <link>https://www.releases.com/p/the-brink-of-war</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-brink-of-war|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] The End of Oak Street</title>
-      <link>https://www.releases.com/p/the-end-of-oak-street</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-end-of-oak-street|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] The Rivals of Amziah King</title>
-      <link>https://www.releases.com/p/the-rivals-of-amziah-king</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-rivals-of-amziah-king|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] The Wrong Girls</title>
-      <link>https://www.releases.com/p/the-wrong-girls</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-wrong-girls|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Hulu · 14/8] The X-Files: I Want to Believe - Vrach Frankenshteyn</title>
-      <link>https://www.releases.com/p/the-x-files-i-want-to-believe-vrach-frankenshteyn</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-x-files-i-want-to-believe-vrach-frankenshteyn|2026-08-14|Hulu</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Cinema 4K Re-Release · 14/8] Train to Busan</title>
-      <link>https://www.releases.com/p/train-to-busan</link>
-      <guid isPermaLink="false">https://www.releases.com/p/train-to-busan|2026-08-14|Cinema 4K Re-Release</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/8] Your Name 4K - 10th Anniversary</title>
-      <link>https://www.releases.com/p/your-name-4k-10th-anniversary</link>
-      <guid isPermaLink="false">https://www.releases.com/p/your-name-4k-10th-anniversary|2026-08-14|Cinema</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · HBO Max · 16/8] Lanterns Season 1</title>
       <link>https://www.releases.com/p/lanterns-season-1</link>
@@ -201,6 +89,111 @@
       <link>https://www.releases.com/p/outer-banks-season-5</link>
       <guid isPermaLink="false">https://www.releases.com/p/outer-banks-season-5|2026-08-20|Netflix</guid>
       <pubDate>Thu, 20 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] Air Bud Returns</title>
+      <link>https://www.releases.com/p/air-bud-returns</link>
+      <guid isPermaLink="false">https://www.releases.com/p/air-bud-returns|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD / cinema · 21/8] Blood Shine</title>
+      <link>https://www.releases.com/p/blood-shine</link>
+      <guid isPermaLink="false">https://www.releases.com/p/blood-shine|2026-08-21|VOD / Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema / VOD · 21/8] Bury the Devil</title>
+      <link>https://www.releases.com/p/bury-the-devil</link>
+      <guid isPermaLink="false">https://www.releases.com/p/bury-the-devil|2026-08-21|Cinema / VOD</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 21/8] Facing El Chapo</title>
+      <link>https://www.releases.com/p/facing-el-chapo</link>
+      <guid isPermaLink="false">https://www.releases.com/p/facing-el-chapo|2026-08-21|Netflix</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] Insidious: Out of the Further</title>
+      <link>https://www.releases.com/p/insidious-out-of-the-further</link>
+      <guid isPermaLink="false">https://www.releases.com/p/insidious-out-of-the-further|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] It Ends</title>
+      <link>https://www.releases.com/p/it-ends</link>
+      <guid isPermaLink="false">https://www.releases.com/p/it-ends|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] Mutiny</title>
+      <link>https://www.releases.com/p/mutiny</link>
+      <guid isPermaLink="false">https://www.releases.com/p/mutiny|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] Nine Black Cats</title>
+      <link>https://www.releases.com/p/nine-black-cats</link>
+      <guid isPermaLink="false">https://www.releases.com/p/nine-black-cats|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] Spa Weekend</title>
+      <link>https://www.releases.com/p/spa-weekend</link>
+      <guid isPermaLink="false">https://www.releases.com/p/spa-weekend|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] Spot</title>
+      <link>https://www.releases.com/p/hot-spot</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hot-spot|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] The Magic Faraway Tree</title>
+      <link>https://www.releases.com/p/the-magic-faraway-tree</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-magic-faraway-tree|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] The Marching Band</title>
+      <link>https://www.releases.com/p/the-marching-band</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-marching-band|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD / DVD · 21/8] This Is Our City</title>
+      <link>https://www.releases.com/p/this-is-our-city</link>
+      <guid isPermaLink="false">https://www.releases.com/p/this-is-our-city|2026-08-21|VOD / DVD</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/8] Thread: An Insidious Tale</title>
+      <link>https://www.releases.com/p/thread-an-insidious-tale</link>
+      <guid isPermaLink="false">https://www.releases.com/p/thread-an-insidious-tale|2026-08-21|Cinema</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Apple TV · 21/8] The Dynasty: UConn Huskies</title>
+      <link>https://www.releases.com/p/the-dynasty-uconn-huskies</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-dynasty-uconn-huskies|2026-08-21|Apple TV</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
