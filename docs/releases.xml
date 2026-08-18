@@ -5,33 +5,19 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Aug 2026 19:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:07:30 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 17/8] Hunt for the Wilderpeople</title>
-      <link>https://www.releases.com/p/hunt-for-the-wilderpeople</link>
-      <guid isPermaLink="false">https://www.releases.com/p/hunt-for-the-wilderpeople|2026-08-17|4K Blu-ray</guid>
-      <pubDate>Mon, 17 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 17/8] Lucky Strike</title>
-      <link>https://www.releases.com/p/lucky-strike</link>
-      <guid isPermaLink="false">https://www.releases.com/p/lucky-strike|2026-08-17|VOD</guid>
-      <pubDate>Mon, 17 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · FXX · 17/8] It's Always Sunny in Philadelphia Season 18</title>
-      <link>https://www.releases.com/p/its-always-sunny-in-philadelphia-season-18</link>
-      <guid isPermaLink="false">https://www.releases.com/p/its-always-sunny-in-philadelphia-season-18|2026-08-17|FXX</guid>
-      <pubDate>Mon, 17 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 18/8] Rose of Nevada</title>
       <link>https://www.releases.com/p/rose-of-nevada</link>
       <guid isPermaLink="false">https://www.releases.com/p/rose-of-nevada|2026-08-18|VOD</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 18/8] Toy Story 5</title>
+      <link>https://www.releases.com/p/toy-story-5</link>
+      <guid isPermaLink="false">https://www.releases.com/p/toy-story-5|2026-08-18|VOD</guid>
       <pubDate>Tue, 18 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
