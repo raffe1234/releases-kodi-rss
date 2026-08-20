@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:09:38 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 19/8] Pure Scum</title>
-      <link>https://www.releases.com/p/pure-scum</link>
-      <guid isPermaLink="false">https://www.releases.com/p/pure-scum|2026-08-19|Cinema</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · NBC · 19/8] The Wall Season 6 (Part 2)</title>
-      <link>https://www.releases.com/p/the-wall-season-6-part-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-wall-season-6-part-2|2026-08-19|NBC</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · TLC · 19/8] Untold Stories of the ER Season 16</title>
-      <link>https://www.releases.com/p/untold-stories-of-the-er-season-16</link>
-      <guid isPermaLink="false">https://www.releases.com/p/untold-stories-of-the-er-season-16|2026-08-19|TLC</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Disney+ · 20/8] Disney Worldbuilders</title>
       <link>https://www.releases.com/p/disney-worldbuilders</link>
@@ -271,6 +250,27 @@
       <link>https://www.releases.com/p/the-audacity-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-audacity-season-1|2026-08-25|Blu-ray</guid>
       <pubDate>Tue, 25 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Amazon · 26/8] The Last Sunrise</title>
+      <link>https://www.releases.com/p/the-last-sunrise</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-last-sunrise|2026-08-26|Amazon</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 26/8] Toxic</title>
+      <link>https://www.releases.com/p/toxic</link>
+      <guid isPermaLink="false">https://www.releases.com/p/toxic|2026-08-26|Cinema</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 26/8] One Hundred Years of Solitude Grand Finale</title>
+      <link>https://www.releases.com/p/one-hundred-years-of-solitude-grand-finale</link>
+      <guid isPermaLink="false">https://www.releases.com/p/one-hundred-years-of-solitude-grand-finale|2026-08-26|Netflix</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
