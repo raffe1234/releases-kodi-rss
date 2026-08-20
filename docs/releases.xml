@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:03:25 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · Disney+ · 20/8] Disney Worldbuilders</title>
@@ -116,13 +116,6 @@
       <title>&gt;&gt; [Movie · VOD / DVD · 21/8] This Is Our City</title>
       <link>https://www.releases.com/p/this-is-our-city</link>
       <guid isPermaLink="false">https://www.releases.com/p/this-is-our-city|2026-08-21|VOD / DVD</guid>
-      <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 21/8] Thread: An Insidious Tale</title>
-      <link>https://www.releases.com/p/thread-an-insidious-tale</link>
-      <guid isPermaLink="false">https://www.releases.com/p/thread-an-insidious-tale|2026-08-21|Cinema</guid>
       <pubDate>Fri, 21 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
