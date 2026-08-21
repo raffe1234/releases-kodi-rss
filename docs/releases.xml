@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:10:34 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Disney+ · 20/8] Disney Worldbuilders</title>
-      <link>https://www.releases.com/p/disney-worldbuilders</link>
-      <guid isPermaLink="false">https://www.releases.com/p/disney-worldbuilders|2026-08-20|Disney+</guid>
-      <pubDate>Thu, 20 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 20/8] Lion</title>
-      <link>https://www.releases.com/p/lion-tv-series-season</link>
-      <guid isPermaLink="false">https://www.releases.com/p/lion-tv-series-season|2026-08-20|Disney+</guid>
-      <pubDate>Thu, 20 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 20/8] Outer Banks Season 5</title>
-      <link>https://www.releases.com/p/outer-banks-season-5</link>
-      <guid isPermaLink="false">https://www.releases.com/p/outer-banks-season-5|2026-08-20|Netflix</guid>
-      <pubDate>Thu, 20 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 21/8] Air Bud Returns</title>
       <link>https://www.releases.com/p/air-bud-returns</link>
@@ -264,6 +243,34 @@
       <link>https://www.releases.com/p/one-hundred-years-of-solitude-grand-finale</link>
       <guid isPermaLink="false">https://www.releases.com/p/one-hundred-years-of-solitude-grand-finale|2026-08-26|Netflix</guid>
       <pubDate>Wed, 26 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 27/8] Harry Potter and the Sorcerer's Stone 25th anniversary</title>
+      <link>https://www.releases.com/p/harry-potter-and-the-sorcerers-stone-25th-anniversary</link>
+      <guid isPermaLink="false">https://www.releases.com/p/harry-potter-and-the-sorcerers-stone-25th-anniversary|2026-08-27|Cinema</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 27/8] Leanne Season 2</title>
+      <link>https://www.releases.com/p/leanne-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/leanne-season-2|2026-08-27|Netflix</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Peacock · 27/8] The Undeclared War Season 2</title>
+      <link>https://www.releases.com/p/the-undeclared-war-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-undeclared-war-season-2|2026-08-27|Peacock</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 27/8] Tyler Perry's Beauty in Black Season 3</title>
+      <link>https://www.releases.com/p/tyler-perrys-beauty-in-black-season-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/tyler-perrys-beauty-in-black-season-3|2026-08-27|Netflix</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
