@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:31:11 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · VOD · 25/8] Above and Below</title>
@@ -271,6 +271,13 @@
       <link>https://www.releases.com/p/graveyard-season-3</link>
       <guid isPermaLink="false">https://www.releases.com/p/graveyard-season-3|2026-08-28|Netflix</guid>
       <pubDate>Fri, 28 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 30/8] The Last Blossom</title>
+      <link>https://www.releases.com/p/the-last-blossom</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-last-blossom|2026-08-30|Cinema</guid>
+      <pubDate>Sun, 30 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
