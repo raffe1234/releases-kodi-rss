@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:00:46 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · VOD · 25/8] Above and Below</title>
@@ -50,6 +50,13 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 25/8] Practical Magic 2</title>
+      <link>https://www.releases.com/p/practical-magic-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/practical-magic-2|2026-08-25|DVD / 4K Blu-ray / Blu-ray</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · Blu-ray / DVD · 25/8] The Breadwinner (2026)</title>
       <link>https://www.releases.com/p/the-breadwinner-2026</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-breadwinner-2026|2026-08-25|Blu-ray / DVD</guid>
@@ -71,9 +78,9 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 25/8] The Mandalorian &amp; Grogu</title>
+      <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 25/8] The Mandalorian &amp; Grogu</title>
       <link>https://www.releases.com/p/the-mandalorian-grogu</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-mandalorian-grogu|2026-08-25|DVD / Blu-ray / 4K Blu-ray</guid>
+      <guid isPermaLink="false">https://www.releases.com/p/the-mandalorian-grogu|2026-08-25|4K Blu-ray / Blu-ray / DVD</guid>
       <pubDate>Tue, 25 Aug 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
