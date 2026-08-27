@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Aug 2026 20:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:40:50 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Amazon · 26/8] The Last Sunrise</title>
-      <link>https://www.releases.com/p/the-last-sunrise</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-last-sunrise|2026-08-26|Amazon</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 26/8] Toxic</title>
-      <link>https://www.releases.com/p/toxic</link>
-      <guid isPermaLink="false">https://www.releases.com/p/toxic|2026-08-26|Cinema</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 26/8] One Hundred Years of Solitude Grand Finale</title>
-      <link>https://www.releases.com/p/one-hundred-years-of-solitude-grand-finale</link>
-      <guid isPermaLink="false">https://www.releases.com/p/one-hundred-years-of-solitude-grand-finale|2026-08-26|Netflix</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 27/8] Harry Potter and the Sorcerer's Stone 25th anniversary</title>
       <link>https://www.releases.com/p/harry-potter-and-the-sorcerers-stone-25th-anniversary</link>
@@ -278,6 +257,34 @@
       <link>https://www.releases.com/p/untold-raygun-breaking-badly</link>
       <guid isPermaLink="false">https://www.releases.com/p/untold-raygun-breaking-badly|2026-09-01|Netflix</guid>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/9] Fall 2: Deadpoint</title>
+      <link>https://www.releases.com/p/fall-2-deadpoint</link>
+      <guid isPermaLink="false">https://www.releases.com/p/fall-2-deadpoint|2026-09-02|Cinema</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/9] Sara Bareilles: Good Grief</title>
+      <link>https://www.releases.com/p/sara-bareilles-good-grief</link>
+      <guid isPermaLink="false">https://www.releases.com/p/sara-bareilles-good-grief|2026-09-02|Cinema</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Disney+ · 2/9] The Mandalorian &amp; Grogu</title>
+      <link>https://www.releases.com/p/the-mandalorian-grogu</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-mandalorian-grogu|2026-09-02|Disney+</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 2/9] Turning Point: Generation 9/11</title>
+      <link>https://www.releases.com/p/turning-point-generation-911</link>
+      <guid isPermaLink="false">https://www.releases.com/p/turning-point-generation-911|2026-09-02|Netflix</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
