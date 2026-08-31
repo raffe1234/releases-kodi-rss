@@ -5,15 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:01:06 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 30/8] The Last Blossom</title>
-      <link>https://www.releases.com/p/the-last-blossom</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-last-blossom|2026-08-30|Cinema</guid>
-      <pubDate>Sun, 30 Aug 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray · 31/8] Bloody Psycho</title>
       <link>https://www.releases.com/p/bloody-psycho</link>
@@ -222,6 +215,20 @@
       <link>https://www.releases.com/p/virginia-woolfs-night-day</link>
       <guid isPermaLink="false">https://www.releases.com/p/virginia-woolfs-night-day|2026-09-04|Cinema</guid>
       <pubDate>Fri, 04 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · MGM+ · 6/9] A Tale of Two Cities Season 1</title>
+      <link>https://www.releases.com/p/a-tale-of-two-cities-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/a-tale-of-two-cities-season-1|2026-09-06|MGM+</guid>
+      <pubDate>Sun, 06 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · PBS · 6/9] The Marlow Murder Club Season 3</title>
+      <link>https://www.releases.com/p/the-marlow-murder-club-season-3</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-marlow-murder-club-season-3|2026-09-06|PBS</guid>
+      <pubDate>Sun, 06 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
