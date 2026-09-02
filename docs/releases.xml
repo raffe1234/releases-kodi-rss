@@ -5,50 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:26:07 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 1/9] 28 Days Later</title>
-      <link>https://www.releases.com/p/28-days-later</link>
-      <guid isPermaLink="false">https://www.releases.com/p/28-days-later|2026-09-01|4K Blu-ray</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema / VOD · 1/9] Hate Thyself</title>
-      <link>https://www.releases.com/p/hate-thyself</link>
-      <guid isPermaLink="false">https://www.releases.com/p/hate-thyself|2026-09-01|Cinema / VOD</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 1/9] Just Play Dead</title>
-      <link>https://www.releases.com/p/just-play-dead</link>
-      <guid isPermaLink="false">https://www.releases.com/p/just-play-dead|2026-09-01|VOD</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 1/9] One Last Deal</title>
-      <link>https://www.releases.com/p/one-last-deal</link>
-      <guid isPermaLink="false">https://www.releases.com/p/one-last-deal|2026-09-01|VOD</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 1/9] Tekkonkinkreet 4K Remaster</title>
-      <link>https://www.releases.com/p/tekkonkinkreet-4k-remaster</link>
-      <guid isPermaLink="false">https://www.releases.com/p/tekkonkinkreet-4k-remaster|2026-09-01|DVD / Blu-ray / 4K Blu-ray</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Netflix · 1/9] Untold Raygun: Breaking Badly</title>
-      <link>https://www.releases.com/p/untold-raygun-breaking-badly</link>
-      <guid isPermaLink="false">https://www.releases.com/p/untold-raygun-breaking-badly|2026-09-01|Netflix</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 2/9] Fall 2: Deadpoint</title>
       <link>https://www.releases.com/p/fall-2-deadpoint</link>
@@ -166,6 +124,62 @@
       <link>https://www.releases.com/p/barbarian</link>
       <guid isPermaLink="false">https://www.releases.com/p/barbarian|2026-09-07|DVD / Blu-ray / 4K Blu-ray</guid>
       <pubDate>Mon, 07 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 8/9] Batman: Knightfall Part 1</title>
+      <link>https://www.releases.com/p/batman-knightfall-part-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/batman-knightfall-part-1|2026-09-08|DVD / Blu-ray / 4K Blu-ray</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / Blu-ray · 8/9] Kaiju No. 8: Mission Recon</title>
+      <link>https://www.releases.com/p/kaiju-no-8-mission-recon</link>
+      <guid isPermaLink="false">https://www.releases.com/p/kaiju-no-8-mission-recon|2026-09-08|DVD / Blu-ray</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 8/9] Minions &amp; Monsters</title>
+      <link>https://www.releases.com/p/minions-monsters</link>
+      <guid isPermaLink="false">https://www.releases.com/p/minions-monsters|2026-09-08|DVD / Blu-ray / 4K Blu-ray</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 8/9] Supergirl (2026)</title>
+      <link>https://www.releases.com/p/supergirl-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/supergirl-2026|2026-09-08|DVD / 4K Blu-ray / Blu-ray</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 8/9] Untold Mr. T: I Pity the Fool</title>
+      <link>https://www.releases.com/p/untold-mr-t-i-pity-the-fool</link>
+      <guid isPermaLink="false">https://www.releases.com/p/untold-mr-t-i-pity-the-fool|2026-09-08|Netflix</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 8/9] DANG! Season 1</title>
+      <link>https://www.releases.com/p/dang-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/dang-season-1|2026-09-08|Netflix</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 8/9] Fauda Season 5</title>
+      <link>https://www.releases.com/p/fauda-season-5</link>
+      <guid isPermaLink="false">https://www.releases.com/p/fauda-season-5|2026-09-08|Netflix</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · FX / Disney+ · 8/9] The Drop: A Snowfall Saga Season 1</title>
+      <link>https://www.releases.com/p/the-drop-a-snowfall-saga-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-drop-a-snowfall-saga-season-1|2026-09-08|FX / Disney+</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
