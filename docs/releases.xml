@@ -5,36 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:22:18 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 2/9] Fall 2: Deadpoint</title>
-      <link>https://www.releases.com/p/fall-2-deadpoint</link>
-      <guid isPermaLink="false">https://www.releases.com/p/fall-2-deadpoint|2026-09-02|Cinema</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 2/9] Sara Bareilles: Good Grief</title>
-      <link>https://www.releases.com/p/sara-bareilles-good-grief</link>
-      <guid isPermaLink="false">https://www.releases.com/p/sara-bareilles-good-grief|2026-09-02|Cinema</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Disney+ · 2/9] The Mandalorian &amp; Grogu</title>
-      <link>https://www.releases.com/p/the-mandalorian-grogu</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-mandalorian-grogu|2026-09-02|Disney+</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 2/9] Turning Point: Generation 9/11</title>
-      <link>https://www.releases.com/p/turning-point-generation-911</link>
-      <guid isPermaLink="false">https://www.releases.com/p/turning-point-generation-911|2026-09-02|Netflix</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · Hulu · 3/9] Chad Powers Season 2</title>
       <link>https://www.releases.com/p/chad-powers-season-2</link>
@@ -180,6 +152,41 @@
       <link>https://www.releases.com/p/the-drop-a-snowfall-saga-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-drop-a-snowfall-saga-season-1|2026-09-08|FX / Disney+</guid>
       <pubDate>Tue, 08 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 9/9] Hope</title>
+      <link>https://www.releases.com/p/hope</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hope|2026-09-09|Cinema</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 9/9] Tom and Jerry: Forbidden Compass</title>
+      <link>https://www.releases.com/p/tom-and-jerry-forbidden-compass</link>
+      <guid isPermaLink="false">https://www.releases.com/p/tom-and-jerry-forbidden-compass|2026-09-09|Cinema</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 9/9] Tyler Perry's Why Did I Get Married Again?</title>
+      <link>https://www.releases.com/p/tyler-perrys-why-did-i-get-married-again</link>
+      <guid isPermaLink="false">https://www.releases.com/p/tyler-perrys-why-did-i-get-married-again|2026-09-09|Netflix</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Amazon · 9/9] Drawn Together</title>
+      <link>https://www.releases.com/p/drawn-together</link>
+      <guid isPermaLink="false">https://www.releases.com/p/drawn-together|2026-09-09|Amazon</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Apple TV · 9/9] Last Seen Season 1</title>
+      <link>https://www.releases.com/p/last-seen-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/last-seen-season-1|2026-09-09|Apple TV</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
