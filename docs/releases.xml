@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:42:55 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · MGM+ · 6/9] A Tale of Two Cities Season 1</title>
-      <link>https://www.releases.com/p/a-tale-of-two-cities-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/a-tale-of-two-cities-season-1|2026-09-06|MGM+</guid>
-      <pubDate>Sun, 06 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · PBS · 6/9] The Marlow Murder Club Season 3</title>
-      <link>https://www.releases.com/p/the-marlow-murder-club-season-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-marlow-murder-club-season-3|2026-09-06|PBS</guid>
-      <pubDate>Sun, 06 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 7/9] Barbarian</title>
       <link>https://www.releases.com/p/barbarian</link>
@@ -187,6 +173,13 @@
       <link>https://www.releases.com/p/have-i-got-news-for-you-season-5</link>
       <guid isPermaLink="false">https://www.releases.com/p/have-i-got-news-for-you-season-5|2026-09-12|CNN</guid>
       <pubDate>Sat, 12 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · TNT · 13/9] High Value Target: The Hunt for Saddam</title>
+      <link>https://www.releases.com/p/high-value-target-the-hunt-for-saddam</link>
+      <guid isPermaLink="false">https://www.releases.com/p/high-value-target-the-hunt-for-saddam|2026-09-13|TNT</guid>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
