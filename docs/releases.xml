@@ -5,43 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:27:56 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/9] Hope</title>
-      <link>https://www.releases.com/p/hope</link>
-      <guid isPermaLink="false">https://www.releases.com/p/hope|2026-09-09|Cinema</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/9] Tom and Jerry: Forbidden Compass</title>
-      <link>https://www.releases.com/p/tom-and-jerry-forbidden-compass</link>
-      <guid isPermaLink="false">https://www.releases.com/p/tom-and-jerry-forbidden-compass|2026-09-09|Cinema</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Netflix · 9/9] Tyler Perry's Why Did I Get Married Again?</title>
-      <link>https://www.releases.com/p/tyler-perrys-why-did-i-get-married-again</link>
-      <guid isPermaLink="false">https://www.releases.com/p/tyler-perrys-why-did-i-get-married-again|2026-09-09|Netflix</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Amazon · 9/9] Drawn Together</title>
-      <link>https://www.releases.com/p/drawn-together</link>
-      <guid isPermaLink="false">https://www.releases.com/p/drawn-together|2026-09-09|Amazon</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Apple TV · 9/9] Last Seen Season 1</title>
-      <link>https://www.releases.com/p/last-seen-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/last-seen-season-1|2026-09-09|Apple TV</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Netflix · 10/9] Call My Agent (The Movie)</title>
       <link>https://www.releases.com/p/call-my-agent-the-movie</link>
@@ -159,6 +124,55 @@
       <link>https://www.releases.com/p/the-creep-tapes-season-3</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-creep-tapes-season-3|2026-09-15|Shudder</guid>
       <pubDate>Tue, 15 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/9] Bad Apples</title>
+      <link>https://www.releases.com/p/bad-apples</link>
+      <guid isPermaLink="false">https://www.releases.com/p/bad-apples|2026-09-16|Cinema</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Hulu · 16/9] City of Blood</title>
+      <link>https://www.releases.com/p/city-of-blood</link>
+      <guid isPermaLink="false">https://www.releases.com/p/city-of-blood|2026-09-16|Hulu</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Paramount+ · 16/9] Golden Axe Season 1</title>
+      <link>https://www.releases.com/p/golden-axe-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/golden-axe-season-1|2026-09-16|Paramount+</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Amazon · 16/9] Neagley Season 1</title>
+      <link>https://www.releases.com/p/neagley-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/neagley-season-1|2026-09-16|Amazon</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Apple TV+ · 16/9] Slow Horses Season 6</title>
+      <link>https://www.releases.com/p/slow-horses-season-6</link>
+      <guid isPermaLink="false">https://www.releases.com/p/slow-horses-season-6|2026-09-16|Apple TV+</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Comedy Central · 16/9] South Park Season 29</title>
+      <link>https://www.releases.com/p/south-park-season-29</link>
+      <guid isPermaLink="false">https://www.releases.com/p/south-park-season-29|2026-09-16|Comedy Central</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 16/9] The Doll Season 1</title>
+      <link>https://www.releases.com/p/the-doll-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-doll-season-1|2026-09-16|Netflix</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
