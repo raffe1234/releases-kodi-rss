@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:55:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:29:40 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Netflix · 10/9] Call My Agent (The Movie)</title>
-      <link>https://www.releases.com/p/call-my-agent-the-movie</link>
-      <guid isPermaLink="false">https://www.releases.com/p/call-my-agent-the-movie|2026-09-10|Netflix</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Peacock · 10/9] The Paper Season 2</title>
-      <link>https://www.releases.com/p/the-paper-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-paper-season-2|2026-09-10|Peacock</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 11/9] Black Zombie</title>
       <link>https://www.releases.com/p/black-zombie</link>
@@ -173,6 +159,41 @@
       <link>https://www.releases.com/p/the-doll-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-doll-season-1|2026-09-16|Netflix</guid>
       <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 17/9] Knife: The Attempted Murder of Salman Rushdie</title>
+      <link>https://www.releases.com/p/knife-the-attempted-murder-of-salman-rushdie</link>
+      <guid isPermaLink="false">https://www.releases.com/p/knife-the-attempted-murder-of-salman-rushdie|2026-09-17|Cinema</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 17/9] Transformers: The Movie 40th Anniversary</title>
+      <link>https://www.releases.com/p/transformers-the-movie-40th-anniversary</link>
+      <guid isPermaLink="false">https://www.releases.com/p/transformers-the-movie-40th-anniversary|2026-09-17|Cinema</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 17/9] Monster: The Lizzie Borden Story</title>
+      <link>https://www.releases.com/p/monster-the-lizzie-borden-story</link>
+      <guid isPermaLink="false">https://www.releases.com/p/monster-the-lizzie-borden-story|2026-09-17|Netflix</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 17/9] Stranger Things: Tales From '85 Season 2</title>
+      <link>https://www.releases.com/p/stranger-things-tales-from-85-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/stranger-things-tales-from-85-season-2|2026-09-17|Netflix</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · NBC · 17/9] The Traitors (NBC) Season 1</title>
+      <link>https://www.releases.com/p/the-traitors-nbc-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-traitors-nbc-season-1|2026-09-17|NBC</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
