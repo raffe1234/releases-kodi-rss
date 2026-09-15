@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:26:45 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · Blu-ray / 4K Blu-ray · 15/9] Made (2001)</title>
@@ -53,6 +53,13 @@
       <title>&gt;&gt; [Movie · cinema · 16/9] Bad Apples</title>
       <link>https://www.releases.com/p/bad-apples</link>
       <guid isPermaLink="false">https://www.releases.com/p/bad-apples|2026-09-16|Cinema</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 16/9] The End of Oak Street</title>
+      <link>https://www.releases.com/p/the-end-of-oak-street</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-end-of-oak-street|2026-09-16|VOD</guid>
       <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
