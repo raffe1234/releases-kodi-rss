@@ -5,50 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:44:48 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Blu-ray / 4K Blu-ray · 15/9] Made (2001)</title>
-      <link>https://www.releases.com/p/made-2001</link>
-      <guid isPermaLink="false">https://www.releases.com/p/made-2001|2026-09-15|Blu-ray / 4K Blu-ray</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 15/9] Sorority Row</title>
-      <link>https://www.releases.com/p/sorority-row</link>
-      <guid isPermaLink="false">https://www.releases.com/p/sorority-row|2026-09-15|4K Blu-ray</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · DVD / Blu-ray · 15/9] Stop! That! Train!</title>
-      <link>https://www.releases.com/p/stop-that-train</link>
-      <guid isPermaLink="false">https://www.releases.com/p/stop-that-train|2026-09-15|DVD / Blu-ray</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 15/9] The Other People</title>
-      <link>https://www.releases.com/p/the-other-people</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-other-people|2026-09-15|VOD</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · BritBox · 15/9] Agatha Christie's Tommy &amp; Tuppence</title>
-      <link>https://www.releases.com/p/agatha-christies-tommy-tuppence</link>
-      <guid isPermaLink="false">https://www.releases.com/p/agatha-christies-tommy-tuppence|2026-09-15|BritBox</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Shudder · 15/9] The Creep Tapes Season 3</title>
-      <link>https://www.releases.com/p/the-creep-tapes-season-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-creep-tapes-season-3|2026-09-15|Shudder</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 16/9] Bad Apples</title>
       <link>https://www.releases.com/p/bad-apples</link>
@@ -222,6 +180,34 @@
       <link>https://www.releases.com/p/line-of-fire</link>
       <guid isPermaLink="false">https://www.releases.com/p/line-of-fire|2026-09-21|Peacock</guid>
       <pubDate>Mon, 21 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Blu-ray / DVD · 22/9] Scary Movie (2026)</title>
+      <link>https://www.releases.com/p/scary-movie-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/scary-movie-2026|2026-09-22|Blu-ray / DVD</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Blu-ray / 4K Blu-ray / DVD · 22/9] Toy Story 5</title>
+      <link>https://www.releases.com/p/toy-story-5</link>
+      <guid isPermaLink="false">https://www.releases.com/p/toy-story-5|2026-09-22|Blu-ray / 4K Blu-ray / DVD</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Blu-ray / DVD · 22/9] Landman Season 2</title>
+      <link>https://www.releases.com/p/landman-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/landman-season-2|2026-09-22|Blu-ray / DVD</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Blu-ray / DVD · 22/9] Outlander Season 8</title>
+      <link>https://www.releases.com/p/outlander-season-8</link>
+      <guid isPermaLink="false">https://www.releases.com/p/outlander-season-8|2026-09-22|Blu-ray / DVD</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
