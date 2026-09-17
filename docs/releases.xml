@@ -5,64 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:49:19 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 16/9] Bad Apples</title>
-      <link>https://www.releases.com/p/bad-apples</link>
-      <guid isPermaLink="false">https://www.releases.com/p/bad-apples|2026-09-16|Cinema</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 16/9] The End of Oak Street</title>
-      <link>https://www.releases.com/p/the-end-of-oak-street</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-end-of-oak-street|2026-09-16|VOD</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 16/9] City of Blood</title>
-      <link>https://www.releases.com/p/city-of-blood</link>
-      <guid isPermaLink="false">https://www.releases.com/p/city-of-blood|2026-09-16|Hulu</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Paramount+ · 16/9] Golden Axe Season 1</title>
-      <link>https://www.releases.com/p/golden-axe-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/golden-axe-season-1|2026-09-16|Paramount+</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Amazon · 16/9] Neagley Season 1</title>
-      <link>https://www.releases.com/p/neagley-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/neagley-season-1|2026-09-16|Amazon</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Apple TV+ · 16/9] Slow Horses Season 6</title>
-      <link>https://www.releases.com/p/slow-horses-season-6</link>
-      <guid isPermaLink="false">https://www.releases.com/p/slow-horses-season-6|2026-09-16|Apple TV+</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Comedy Central · 16/9] South Park Season 29</title>
-      <link>https://www.releases.com/p/south-park-season-29</link>
-      <guid isPermaLink="false">https://www.releases.com/p/south-park-season-29|2026-09-16|Comedy Central</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 16/9] The Doll Season 1</title>
-      <link>https://www.releases.com/p/the-doll-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-doll-season-1|2026-09-16|Netflix</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 17/9] Knife: The Attempted Murder of Salman Rushdie</title>
       <link>https://www.releases.com/p/knife-the-attempted-murder-of-salman-rushdie</link>
@@ -208,6 +152,20 @@
       <link>https://www.releases.com/p/outlander-season-8</link>
       <guid isPermaLink="false">https://www.releases.com/p/outlander-season-8|2026-09-22|Blu-ray / DVD</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Apple TV · 23/9] Brothers Season 1</title>
+      <link>https://www.releases.com/p/brothers-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/brothers-season-1|2026-09-23|Apple TV</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 23/9] The Golden Ticket Season 1</title>
+      <link>https://www.releases.com/p/the-golden-ticket-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-golden-ticket-season-1|2026-09-23|Netflix</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
