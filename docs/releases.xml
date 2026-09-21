@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:01:31 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 21/9] Nirvanna the Band the Show the Movie</title>
-      <link>https://www.releases.com/p/nirvanna-the-band-the-show-the-movie</link>
-      <guid isPermaLink="false">https://www.releases.com/p/nirvanna-the-band-the-show-the-movie|2026-09-21|4K Blu-ray</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Peacock · 21/9] Line of Fire</title>
-      <link>https://www.releases.com/p/line-of-fire</link>
-      <guid isPermaLink="false">https://www.releases.com/p/line-of-fire|2026-09-21|Peacock</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Blu-ray / DVD · 22/9] Scary Movie (2026)</title>
       <link>https://www.releases.com/p/scary-movie-2026</link>
@@ -187,6 +173,13 @@
       <link>https://www.releases.com/p/swat-exiles-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/swat-exiles-season-1|2026-09-25|Starz</guid>
       <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Blu-ray / DVD · 28/9] The Night Manager Season 2</title>
+      <link>https://www.releases.com/p/the-night-manager-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-night-manager-season-2|2026-09-28|Blu-ray / DVD</guid>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
