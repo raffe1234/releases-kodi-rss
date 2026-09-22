@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:24:36 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · Blu-ray / DVD · 22/9] Scary Movie (2026)</title>
@@ -159,6 +159,13 @@
       <link>https://www.releases.com/p/swat-exiles-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/swat-exiles-season-1|2026-09-25|Starz</guid>
       <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 28/9] Coyote vs. Acme</title>
+      <link>https://www.releases.com/p/coyote-vs-acme</link>
+      <guid isPermaLink="false">https://www.releases.com/p/coyote-vs-acme|2026-09-28|VOD</guid>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
     <item>
