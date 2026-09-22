@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2026 22:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:47:12 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · Blu-ray / DVD · 22/9] Scary Movie (2026)</title>
@@ -33,6 +33,13 @@
       <link>https://www.releases.com/p/outlander-season-8</link>
       <guid isPermaLink="false">https://www.releases.com/p/outlander-season-8|2026-09-22|Blu-ray / DVD</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Disney + · 23/9] Toy Story 5</title>
+      <link>https://www.releases.com/p/toy-story-5</link>
+      <guid isPermaLink="false">https://www.releases.com/p/toy-story-5|2026-09-23|Disney +</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
     <item>
@@ -127,13 +134,6 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · VOD · 25/9] Moana (2026)</title>
-      <link>https://www.releases.com/p/moana-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/moana-2026|2026-09-25|VOD</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
       <title>&gt;&gt; [Movie · cinema · 25/9] Never After Dark</title>
       <link>https://www.releases.com/p/never-after-dark</link>
       <guid isPermaLink="false">https://www.releases.com/p/never-after-dark|2026-09-25|Cinema</guid>
@@ -144,20 +144,6 @@
       <title>&gt;&gt; [Movie · cinema · 25/9] Primetime</title>
       <link>https://www.releases.com/p/primetime</link>
       <guid isPermaLink="false">https://www.releases.com/p/primetime|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] The Influencer Project</title>
-      <link>https://www.releases.com/p/the-influencer-project</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-influencer-project|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 25/9] The Secret Agent</title>
-      <link>https://www.releases.com/p/the-secret-agent</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-secret-agent|2026-09-25|4K Blu-ray / Blu-ray / DVD</guid>
       <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
