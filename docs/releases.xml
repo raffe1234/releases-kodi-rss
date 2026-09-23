@@ -5,36 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Sep 2026 21:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:46:36 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Blu-ray / DVD · 22/9] Scary Movie (2026)</title>
-      <link>https://www.releases.com/p/scary-movie-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/scary-movie-2026|2026-09-22|Blu-ray / DVD</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Blu-ray / 4K Blu-ray / DVD · 22/9] Toy Story 5</title>
-      <link>https://www.releases.com/p/toy-story-5</link>
-      <guid isPermaLink="false">https://www.releases.com/p/toy-story-5|2026-09-22|Blu-ray / 4K Blu-ray / DVD</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Blu-ray / DVD · 22/9] Landman Season 2</title>
-      <link>https://www.releases.com/p/landman-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/landman-season-2|2026-09-22|Blu-ray / DVD</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Blu-ray / DVD · 22/9] Outlander Season 8</title>
-      <link>https://www.releases.com/p/outlander-season-8</link>
-      <guid isPermaLink="false">https://www.releases.com/p/outlander-season-8|2026-09-22|Blu-ray / DVD</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Disney + · 23/9] Toy Story 5</title>
       <link>https://www.releases.com/p/toy-story-5</link>
@@ -173,6 +145,41 @@
       <link>https://www.releases.com/p/the-night-manager-season-2</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-night-manager-season-2|2026-09-28|Blu-ray / DVD</guid>
       <pubDate>Mon, 28 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 29/9] Moana (2026)</title>
+      <link>https://www.releases.com/p/moana-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/moana-2026|2026-09-29|VOD</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 29/9] Roqia</title>
+      <link>https://www.releases.com/p/roqia</link>
+      <guid isPermaLink="false">https://www.releases.com/p/roqia|2026-09-29|VOD</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 29/9] The Influencer Project</title>
+      <link>https://www.releases.com/p/the-influencer-project</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-influencer-project|2026-09-29|Cinema</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 29/9] The Secret Agent</title>
+      <link>https://www.releases.com/p/the-secret-agent</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-secret-agent|2026-09-29|4K Blu-ray / Blu-ray / DVD</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 29/9] LEGO One Piece</title>
+      <link>https://www.releases.com/p/lego-one-piece</link>
+      <guid isPermaLink="false">https://www.releases.com/p/lego-one-piece|2026-09-29|Netflix</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
