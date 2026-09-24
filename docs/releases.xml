@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:54:48 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Disney + · 23/9] Toy Story 5</title>
-      <link>https://www.releases.com/p/toy-story-5</link>
-      <guid isPermaLink="false">https://www.releases.com/p/toy-story-5|2026-09-23|Disney +</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Apple TV · 23/9] Brothers Season 1</title>
-      <link>https://www.releases.com/p/brothers-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/brothers-season-1|2026-09-23|Apple TV</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 23/9] The Golden Ticket Season 1</title>
-      <link>https://www.releases.com/p/the-golden-ticket-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-golden-ticket-season-1|2026-09-23|Netflix</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · Netflix · 24/9] A Different World Sequel Season 1</title>
       <link>https://www.releases.com/p/a-different-world-sequel-season-1</link>
@@ -180,6 +159,34 @@
       <link>https://www.releases.com/p/lego-one-piece</link>
       <guid isPermaLink="false">https://www.releases.com/p/lego-one-piece|2026-09-29|Netflix</guid>
       <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · ABC · 30/9] Dancing with the Stars Season 35</title>
+      <link>https://www.releases.com/p/dancing-with-the-stars-season-35</link>
+      <guid isPermaLink="false">https://www.releases.com/p/dancing-with-the-stars-season-35|2026-09-30|ABC</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · ABC · 30/9] Scrubs Season 2</title>
+      <link>https://www.releases.com/p/scrubs-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/scrubs-season-2|2026-09-30|ABC</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · CBS · 30/9] The Bold and the Beautiful Season 40</title>
+      <link>https://www.releases.com/p/the-bold-and-the-beautiful-season-40</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-bold-and-the-beautiful-season-40|2026-09-30|CBS</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · NBC · 30/9] The Voice Season 30</title>
+      <link>https://www.releases.com/p/the-voice-season-30</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-voice-season-30|2026-09-30|NBC</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
