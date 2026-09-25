@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:56:56 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 24/9] A Different World Sequel Season 1</title>
-      <link>https://www.releases.com/p/a-different-world-sequel-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/a-different-world-sequel-season-1|2026-09-24|Netflix</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · FX · 24/9] American Horror Story Season 13</title>
-      <link>https://www.releases.com/p/american-horror-story-season-13</link>
-      <guid isPermaLink="false">https://www.releases.com/p/american-horror-story-season-13|2026-09-24|FX</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 25/9] Avengers: Endgame Re-Release</title>
       <link>https://www.releases.com/p/avengers-endgame-re-release</link>
@@ -99,9 +85,9 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Victorian Psycho</title>
-      <link>https://www.releases.com/p/victorian-psycho</link>
-      <guid isPermaLink="false">https://www.releases.com/p/victorian-psycho|2026-09-25|Cinema</guid>
+      <title>&gt;&gt; [Movie · Netflix · 25/9] Unabomber</title>
+      <link>https://www.releases.com/p/unabomber</link>
+      <guid isPermaLink="false">https://www.releases.com/p/unabomber|2026-09-25|Netflix</guid>
       <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -187,6 +173,13 @@
       <link>https://www.releases.com/p/the-voice-season-30</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-voice-season-30|2026-09-30|NBC</guid>
       <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 1/10] War Season 1</title>
+      <link>https://www.releases.com/p/war-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/war-season-1|2026-10-01|HBO Max</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
