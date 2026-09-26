@@ -5,99 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Sep 2026 21:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:31:56 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Avengers: Endgame Re-Release</title>
-      <link>https://www.releases.com/p/avengers-endgame-re-release</link>
-      <guid isPermaLink="false">https://www.releases.com/p/avengers-endgame-re-release|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Tubi · 25/9] Buzzkill (2026)</title>
-      <link>https://www.releases.com/p/buzzkill-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/buzzkill-2026|2026-09-25|Tubi</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Charlie Harper</title>
-      <link>https://www.releases.com/p/charlie-harper</link>
-      <guid isPermaLink="false">https://www.releases.com/p/charlie-harper|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Amazon · 25/9] Don't Be Shy</title>
-      <link>https://www.releases.com/p/dont-be-shy</link>
-      <guid isPermaLink="false">https://www.releases.com/p/dont-be-shy|2026-09-25|Amazon</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 25/9] Family (2026)</title>
-      <link>https://www.releases.com/p/family-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/family-2026|2026-09-25|VOD</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Forgotten Island</title>
-      <link>https://www.releases.com/p/forgotten-island</link>
-      <guid isPermaLink="false">https://www.releases.com/p/forgotten-island|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Ha-Chan, Shake Your Booty!</title>
-      <link>https://www.releases.com/p/ha-chan-shake-your-booty</link>
-      <guid isPermaLink="false">https://www.releases.com/p/ha-chan-shake-your-booty|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Heart of the Beast</title>
-      <link>https://www.releases.com/p/heart-of-the-beast</link>
-      <guid isPermaLink="false">https://www.releases.com/p/heart-of-the-beast|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Long Day’s Journey Into Night</title>
-      <link>https://www.releases.com/p/long-days-journey-into-night</link>
-      <guid isPermaLink="false">https://www.releases.com/p/long-days-journey-into-night|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Never After Dark</title>
-      <link>https://www.releases.com/p/never-after-dark</link>
-      <guid isPermaLink="false">https://www.releases.com/p/never-after-dark|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/9] Primetime</title>
-      <link>https://www.releases.com/p/primetime</link>
-      <guid isPermaLink="false">https://www.releases.com/p/primetime|2026-09-25|Cinema</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Netflix · 25/9] Unabomber</title>
-      <link>https://www.releases.com/p/unabomber</link>
-      <guid isPermaLink="false">https://www.releases.com/p/unabomber|2026-09-25|Netflix</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Starz · 25/9] S.W.A.T. Exiles Season 1</title>
-      <link>https://www.releases.com/p/swat-exiles-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/swat-exiles-season-1|2026-09-25|Starz</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 28/9] Coyote vs. Acme</title>
       <link>https://www.releases.com/p/coyote-vs-acme</link>
@@ -180,6 +89,97 @@
       <link>https://www.releases.com/p/war-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/war-season-1|2026-10-01|HBO Max</guid>
       <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] Appofeniacs</title>
+      <link>https://www.releases.com/p/appofeniacs</link>
+      <guid isPermaLink="false">https://www.releases.com/p/appofeniacs|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] April X</title>
+      <link>https://www.releases.com/p/april-x</link>
+      <guid isPermaLink="false">https://www.releases.com/p/april-x|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] Beware Boiuna</title>
+      <link>https://www.releases.com/p/beware-boiuna</link>
+      <guid isPermaLink="false">https://www.releases.com/p/beware-boiuna|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] California Schemin</title>
+      <link>https://www.releases.com/p/california-schemin</link>
+      <guid isPermaLink="false">https://www.releases.com/p/california-schemin|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] Digger</title>
+      <link>https://www.releases.com/p/digger</link>
+      <guid isPermaLink="false">https://www.releases.com/p/digger|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] Ghost in the Cell</title>
+      <link>https://www.releases.com/p/ghost-in-the-cell</link>
+      <guid isPermaLink="false">https://www.releases.com/p/ghost-in-the-cell|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Shudder · 2/10] Infirmary</title>
+      <link>https://www.releases.com/p/infirmary</link>
+      <guid isPermaLink="false">https://www.releases.com/p/infirmary|2026-10-02|Shudder</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema / VOD · 2/10] Nickels</title>
+      <link>https://www.releases.com/p/nickels</link>
+      <guid isPermaLink="false">https://www.releases.com/p/nickels|2026-10-02|Cinema / VOD</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] Orion</title>
+      <link>https://www.releases.com/p/orion</link>
+      <guid isPermaLink="false">https://www.releases.com/p/orion|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] Rolling Loud</title>
+      <link>https://www.releases.com/p/rolling-loud</link>
+      <guid isPermaLink="false">https://www.releases.com/p/rolling-loud|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 2/10] Teenage Sex and Death at Camp Miasma</title>
+      <link>https://www.releases.com/p/teenage-sex-and-death-at-camp-miasma</link>
+      <guid isPermaLink="false">https://www.releases.com/p/teenage-sex-and-death-at-camp-miasma|2026-10-02|VOD</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/10] Verity</title>
+      <link>https://www.releases.com/p/verity</link>
+      <guid isPermaLink="false">https://www.releases.com/p/verity|2026-10-02|Cinema</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Apple TV+ · 2/10] The Sisters Grimm Season 2</title>
+      <link>https://www.releases.com/p/the-sisters-grimm-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-sisters-grimm-season-2|2026-10-02|Apple TV+</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
