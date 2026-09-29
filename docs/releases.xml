@@ -5,12 +5,19 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Sep 2026 23:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:01:24 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · VOD · 29/9] Moana (2026)</title>
       <link>https://www.releases.com/p/moana-2026</link>
       <guid isPermaLink="false">https://www.releases.com/p/moana-2026|2026-09-29|VOD</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 29/9] PAW Patrol: The Dino Movie</title>
+      <link>https://www.releases.com/p/paw-patrol-the-dino-movie</link>
+      <guid isPermaLink="false">https://www.releases.com/p/paw-patrol-the-dino-movie|2026-09-29|VOD</guid>
       <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -32,6 +39,13 @@
       <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 29/9] The Secret Agent</title>
       <link>https://www.releases.com/p/the-secret-agent</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-secret-agent|2026-09-29|4K Blu-ray / Blu-ray / DVD</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 29/9] The Uprising</title>
+      <link>https://www.releases.com/p/the-uprising</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-uprising|2026-09-29|VOD</guid>
       <pubDate>Tue, 29 Sep 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
