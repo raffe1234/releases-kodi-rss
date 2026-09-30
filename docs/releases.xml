@@ -5,36 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:43:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:21:21 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · ABC · 30/9] Dancing with the Stars Season 35</title>
-      <link>https://www.releases.com/p/dancing-with-the-stars-season-35</link>
-      <guid isPermaLink="false">https://www.releases.com/p/dancing-with-the-stars-season-35|2026-09-30|ABC</guid>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · ABC · 30/9] Scrubs Season 2</title>
-      <link>https://www.releases.com/p/scrubs-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/scrubs-season-2|2026-09-30|ABC</guid>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · CBS · 30/9] The Bold and the Beautiful Season 40</title>
-      <link>https://www.releases.com/p/the-bold-and-the-beautiful-season-40</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-bold-and-the-beautiful-season-40|2026-09-30|CBS</guid>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · NBC · 30/9] The Voice Season 30</title>
-      <link>https://www.releases.com/p/the-voice-season-30</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-voice-season-30|2026-09-30|NBC</guid>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 1/10] The Stranger (2026)</title>
       <link>https://www.releases.com/p/the-stranger-2026</link>
@@ -180,6 +152,34 @@
       <link>https://www.releases.com/p/vampirina-teenage-vampire-season-2</link>
       <guid isPermaLink="false">https://www.releases.com/p/vampirina-teenage-vampire-season-2|2026-10-06|Disney</guid>
       <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 7/10] Stormbound</title>
+      <link>https://www.releases.com/p/stormbound</link>
+      <guid isPermaLink="false">https://www.releases.com/p/stormbound|2026-10-07|Cinema</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Amazon · 7/10] Carrie Season 1</title>
+      <link>https://www.releases.com/p/carrie-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/carrie-season-1|2026-10-07|Amazon</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Apple TV · 7/10] Small Prophets Season 1</title>
+      <link>https://www.releases.com/p/small-prophets-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/small-prophets-season-1|2026-10-07|Apple TV</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Disney+ · 7/10] Vampirina: Teenage Vampire Season 2</title>
+      <link>https://www.releases.com/p/vampirina-teenage-vampire-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/vampirina-teenage-vampire-season-2|2026-10-07|Disney+</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
