@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:45:10 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 1/10] The Stranger (2026)</title>
-      <link>https://www.releases.com/p/the-stranger-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-stranger-2026|2026-10-01|VOD</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 1/10] East of Eden Season 1</title>
-      <link>https://www.releases.com/p/east-of-eden-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/east-of-eden-season-1|2026-10-01|Netflix</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · HBO Max · 1/10] War Season 1</title>
-      <link>https://www.releases.com/p/war-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/war-season-1|2026-10-01|HBO Max</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 2/10] Appofeniacs</title>
       <link>https://www.releases.com/p/appofeniacs</link>
@@ -201,6 +180,20 @@
       <link>https://www.releases.com/p/vampirina-teenage-vampire-season-2</link>
       <guid isPermaLink="false">https://www.releases.com/p/vampirina-teenage-vampire-season-2|2026-10-07|Disney+</guid>
       <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 8/10] Below</title>
+      <link>https://www.releases.com/p/below-tv-series-season</link>
+      <guid isPermaLink="false">https://www.releases.com/p/below-tv-series-season|2026-10-08|Netflix</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · CBS · 8/10] Elsbeth Season 4</title>
+      <link>https://www.releases.com/p/elsbeth-season-4</link>
+      <guid isPermaLink="false">https://www.releases.com/p/elsbeth-season-4|2026-10-08|CBS</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
