@@ -5,12 +5,19 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:27:38 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · VOD · 1/10] The Stranger (2026)</title>
       <link>https://www.releases.com/p/the-stranger-2026</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-stranger-2026|2026-10-01|VOD</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 1/10] East of Eden Season 1</title>
+      <link>https://www.releases.com/p/east-of-eden-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/east-of-eden-season-1|2026-10-01|Netflix</guid>
       <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -134,6 +141,13 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · VOD · 6/10] Black Zombie</title>
+      <link>https://www.releases.com/p/black-zombie</link>
+      <guid isPermaLink="false">https://www.releases.com/p/black-zombie|2026-10-06|VOD</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray · 6/10] The Cable Guy</title>
       <link>https://www.releases.com/p/the-cable-guy</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-cable-guy|2026-10-06|4K Blu-ray</guid>
@@ -158,6 +172,13 @@
       <title>&gt;&gt; [Movie · cinema · 7/10] Stormbound</title>
       <link>https://www.releases.com/p/stormbound</link>
       <guid isPermaLink="false">https://www.releases.com/p/stormbound|2026-10-07|Cinema</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · ABC · 7/10] Abbott Elementary Season 6</title>
+      <link>https://www.releases.com/p/abbott-elementary-season-6</link>
+      <guid isPermaLink="false">https://www.releases.com/p/abbott-elementary-season-6|2026-10-07|ABC</guid>
       <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
