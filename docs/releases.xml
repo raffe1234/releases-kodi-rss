@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:29:25 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [TV series · CBS · 4/10] Marshals Season 2</title>
@@ -215,6 +215,13 @@
       <link>https://www.releases.com/p/sheriff-country-season-2</link>
       <guid isPermaLink="false">https://www.releases.com/p/sheriff-country-season-2|2026-10-09|CBS</guid>
       <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 10/10] Spider-Man: Brand New Day</title>
+      <link>https://www.releases.com/p/spider-man-brand-new-day</link>
+      <guid isPermaLink="false">https://www.releases.com/p/spider-man-brand-new-day|2026-10-10|VOD</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
