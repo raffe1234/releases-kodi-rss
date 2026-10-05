@@ -5,15 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Oct 2026 21:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:52:08 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · CBS · 4/10] Marshals Season 2</title>
-      <link>https://www.releases.com/p/marshals-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/marshals-season-2|2026-10-04|CBS</guid>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · PBS Kids · 5/10] Super Why's Comic Book Adventures Season 1</title>
       <link>https://www.releases.com/p/super-whys-comic-book-adventures-season-1</link>
@@ -25,6 +18,13 @@
       <title>&gt;&gt; [Movie · VOD · 6/10] Black Zombie</title>
       <link>https://www.releases.com/p/black-zombie</link>
       <guid isPermaLink="false">https://www.releases.com/p/black-zombie|2026-10-06|VOD</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 6/10] Insidious: Out of the Further</title>
+      <link>https://www.releases.com/p/insidious-out-of-the-further</link>
+      <guid isPermaLink="false">https://www.releases.com/p/insidious-out-of-the-further|2026-10-06|VOD</guid>
       <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -222,6 +222,20 @@
       <link>https://www.releases.com/p/spider-man-brand-new-day</link>
       <guid isPermaLink="false">https://www.releases.com/p/spider-man-brand-new-day|2026-10-10|VOD</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 11/10] The Pet Cemetery Murders: A Ghost Story</title>
+      <link>https://www.releases.com/p/the-pet-cemetery-murders-a-ghost-story</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-pet-cemetery-murders-a-ghost-story|2026-10-11|HBO Max</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · MGM+ · 11/10] Treasure Island Season 1</title>
+      <link>https://www.releases.com/p/treasure-island-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/treasure-island-season-1|2026-10-11|MGM+</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
