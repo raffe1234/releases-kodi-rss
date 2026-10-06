@@ -5,15 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:52:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:07:20 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · PBS Kids · 5/10] Super Why's Comic Book Adventures Season 1</title>
-      <link>https://www.releases.com/p/super-whys-comic-book-adventures-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/super-whys-comic-book-adventures-season-1|2026-10-05|PBS Kids</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 6/10] Black Zombie</title>
       <link>https://www.releases.com/p/black-zombie</link>
@@ -236,6 +229,20 @@
       <link>https://www.releases.com/p/treasure-island-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/treasure-island-season-1|2026-10-11|MGM+</guid>
       <pubDate>Sun, 11 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 12/10] Bitter Christmas</title>
+      <link>https://www.releases.com/p/bitter-christmas</link>
+      <guid isPermaLink="false">https://www.releases.com/p/bitter-christmas|2026-10-12|VOD</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Hulu · 12/10] Clown Panic</title>
+      <link>https://www.releases.com/p/clown-panic</link>
+      <guid isPermaLink="false">https://www.releases.com/p/clown-panic|2026-10-12|Hulu</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
