@@ -5,50 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:41:01 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 6/10] Black Zombie</title>
-      <link>https://www.releases.com/p/black-zombie</link>
-      <guid isPermaLink="false">https://www.releases.com/p/black-zombie|2026-10-06|VOD</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 6/10] Fall 2: Deadpoint</title>
-      <link>https://www.releases.com/p/fall-2-deadpoint</link>
-      <guid isPermaLink="false">https://www.releases.com/p/fall-2-deadpoint|2026-10-06|VOD</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 6/10] Insidious: Out of the Further</title>
-      <link>https://www.releases.com/p/insidious-out-of-the-further</link>
-      <guid isPermaLink="false">https://www.releases.com/p/insidious-out-of-the-further|2026-10-06|VOD</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 6/10] The Cable Guy</title>
-      <link>https://www.releases.com/p/the-cable-guy</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-cable-guy|2026-10-06|4K Blu-ray</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 6/10] Reasonable Doubt Season 4</title>
-      <link>https://www.releases.com/p/reasonable-doubt-season-4</link>
-      <guid isPermaLink="false">https://www.releases.com/p/reasonable-doubt-season-4|2026-10-06|Hulu</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney · 6/10] Vampirina: Teenage Vampire Season 2</title>
-      <link>https://www.releases.com/p/vampirina-teenage-vampire-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/vampirina-teenage-vampire-season-2|2026-10-06|Disney</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 7/10] Stormbound</title>
       <link>https://www.releases.com/p/stormbound</link>
@@ -250,6 +208,69 @@
       <link>https://www.releases.com/p/clown-panic</link>
       <guid isPermaLink="false">https://www.releases.com/p/clown-panic|2026-10-12|Hulu</guid>
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 13/10] Buddy</title>
+      <link>https://www.releases.com/p/buddy</link>
+      <guid isPermaLink="false">https://www.releases.com/p/buddy|2026-10-13|VOD</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 13/10] Hope</title>
+      <link>https://www.releases.com/p/hope</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hope|2026-10-13|VOD</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 13/10] Let's Have Kids</title>
+      <link>https://www.releases.com/p/lets-have-kids</link>
+      <guid isPermaLink="false">https://www.releases.com/p/lets-have-kids|2026-10-13|VOD</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 13/10] Practical Magic 2</title>
+      <link>https://www.releases.com/p/practical-magic-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/practical-magic-2|2026-10-13|VOD</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / Blu-ray · 13/10] Spot</title>
+      <link>https://www.releases.com/p/hot-spot</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hot-spot|2026-10-13|DVD / Blu-ray</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray · 13/10] The Last Boy Scout</title>
+      <link>https://www.releases.com/p/the-last-boy-scout</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-last-boy-scout|2026-10-13|4K Blu-ray</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 13/10] The Sun Never Sets</title>
+      <link>https://www.releases.com/p/the-sun-never-sets</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-sun-never-sets|2026-10-13|VOD</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 13/10] The Trap</title>
+      <link>https://www.releases.com/p/the-trap</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-trap|2026-10-13|Netflix</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 13/10] Tyson Season 1</title>
+      <link>https://www.releases.com/p/tyson-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/tyson-season-1|2026-10-13|Netflix</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
