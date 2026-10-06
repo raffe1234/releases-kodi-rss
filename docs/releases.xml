@@ -5,12 +5,19 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:24:05 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · VOD · 6/10] Black Zombie</title>
       <link>https://www.releases.com/p/black-zombie</link>
       <guid isPermaLink="false">https://www.releases.com/p/black-zombie|2026-10-06|VOD</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 6/10] Fall 2: Deadpoint</title>
+      <link>https://www.releases.com/p/fall-2-deadpoint</link>
+      <guid isPermaLink="false">https://www.releases.com/p/fall-2-deadpoint|2026-10-06|VOD</guid>
       <pubDate>Tue, 06 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
