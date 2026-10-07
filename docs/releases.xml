@@ -5,43 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:09:41 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 7/10] Stormbound</title>
-      <link>https://www.releases.com/p/stormbound</link>
-      <guid isPermaLink="false">https://www.releases.com/p/stormbound|2026-10-07|Cinema</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · ABC · 7/10] Abbott Elementary Season 6</title>
-      <link>https://www.releases.com/p/abbott-elementary-season-6</link>
-      <guid isPermaLink="false">https://www.releases.com/p/abbott-elementary-season-6|2026-10-07|ABC</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Amazon · 7/10] Carrie Season 1</title>
-      <link>https://www.releases.com/p/carrie-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/carrie-season-1|2026-10-07|Amazon</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Apple TV · 7/10] Small Prophets Season 1</title>
-      <link>https://www.releases.com/p/small-prophets-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/small-prophets-season-1|2026-10-07|Apple TV</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 7/10] Vampirina: Teenage Vampire Season 2</title>
-      <link>https://www.releases.com/p/vampirina-teenage-vampire-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/vampirina-teenage-vampire-season-2|2026-10-07|Disney+</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [TV series · Netflix · 8/10] Below</title>
       <link>https://www.releases.com/p/below-tv-series-season</link>
@@ -271,6 +236,27 @@
       <link>https://www.releases.com/p/tyson-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/tyson-season-1|2026-10-13|Netflix</guid>
       <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD / Amazon · 14/10] Love of Your Life</title>
+      <link>https://www.releases.com/p/love-of-your-life</link>
+      <guid isPermaLink="false">https://www.releases.com/p/love-of-your-life|2026-10-14|VOD / Amazon</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 14/10] Hunting Gary Glitter</title>
+      <link>https://www.releases.com/p/hunting-gary-glitter</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hunting-gary-glitter|2026-10-14|Netflix</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Disney+ · 14/10] VisionQuest Season 1</title>
+      <link>https://www.releases.com/p/visionquest-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/visionquest-season-1|2026-10-14|Disney+</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
