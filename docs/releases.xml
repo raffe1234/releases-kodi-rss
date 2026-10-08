@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:25:08 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 8/10] Below</title>
-      <link>https://www.releases.com/p/below-tv-series-season</link>
-      <guid isPermaLink="false">https://www.releases.com/p/below-tv-series-season|2026-10-08|Netflix</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · CBS · 8/10] Elsbeth Season 4</title>
-      <link>https://www.releases.com/p/elsbeth-season-4</link>
-      <guid isPermaLink="false">https://www.releases.com/p/elsbeth-season-4|2026-10-08|CBS</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema / Netflix · 9/10] Animals (2026)</title>
       <link>https://www.releases.com/p/animals-2026</link>
@@ -253,10 +239,45 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · Hulu · 14/10] The Lowdown Season 2</title>
+      <link>https://www.releases.com/p/the-lowdown-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-lowdown-season-2|2026-10-14|Hulu</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Disney+ · 14/10] VisionQuest Season 1</title>
       <link>https://www.releases.com/p/visionquest-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/visionquest-season-1|2026-10-14|Disney+</guid>
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 15/10] The Storm</title>
+      <link>https://www.releases.com/p/the-storm</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-storm|2026-10-15|Netflix</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Peacock · 15/10] Crystal Lake Season 1</title>
+      <link>https://www.releases.com/p/crystal-lake-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/crystal-lake-season-1|2026-10-15|Peacock</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 15/10] Hollywood Arts Season 1</title>
+      <link>https://www.releases.com/p/hollywood-arts-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hollywood-arts-season-1|2026-10-15|Netflix</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 15/10] The Diplomat Season 4</title>
+      <link>https://www.releases.com/p/the-diplomat-season-4</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-diplomat-season-4|2026-10-15|Netflix</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
