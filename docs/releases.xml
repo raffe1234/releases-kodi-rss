@@ -5,127 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:43:21 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema / Netflix · 9/10] Animals (2026)</title>
-      <link>https://www.releases.com/p/animals-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/animals-2026|2026-10-09|Cinema / Netflix</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] Big Girl's Don't Cry</title>
-      <link>https://www.releases.com/p/big-girls-dont-cry</link>
-      <guid isPermaLink="false">https://www.releases.com/p/big-girls-dont-cry|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] Fjord</title>
-      <link>https://www.releases.com/p/fjord</link>
-      <guid isPermaLink="false">https://www.releases.com/p/fjord|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Apple TV · 9/10] Matchbox the Movie</title>
-      <link>https://www.releases.com/p/matchbox-the-movie</link>
-      <guid isPermaLink="false">https://www.releases.com/p/matchbox-the-movie|2026-10-09|Apple TV</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] Misty Green</title>
-      <link>https://www.releases.com/p/misty-green</link>
-      <guid isPermaLink="false">https://www.releases.com/p/misty-green|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] Other Mommy</title>
-      <link>https://www.releases.com/p/other-mommy</link>
-      <guid isPermaLink="false">https://www.releases.com/p/other-mommy|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Tubi · 9/10] R.L. Stine's Pumpkinhead 2</title>
-      <link>https://www.releases.com/p/rl-stines-pumpkinhead-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/rl-stines-pumpkinhead-2|2026-10-09|Tubi</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] Tenzing</title>
-      <link>https://www.releases.com/p/tenzing</link>
-      <guid isPermaLink="false">https://www.releases.com/p/tenzing|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] The Beast (2026)</title>
-      <link>https://www.releases.com/p/the-beast-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-beast-2026|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] The Beast (II)</title>
-      <link>https://www.releases.com/p/the-beast-ii</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-beast-ii|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] The Social Reckoning</title>
-      <link>https://www.releases.com/p/the-social-reckoning</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-social-reckoning|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Shudder · 9/10] V/H/S/Mixtape</title>
-      <link>https://www.releases.com/p/vhsmixtape</link>
-      <guid isPermaLink="false">https://www.releases.com/p/vhsmixtape|2026-10-09|Shudder</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 9/10] Winter of the Crow</title>
-      <link>https://www.releases.com/p/winter-of-the-crow</link>
-      <guid isPermaLink="false">https://www.releases.com/p/winter-of-the-crow|2026-10-09|Cinema</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Paramount+ · 9/10] Avatar: Seven Havens Season 1</title>
-      <link>https://www.releases.com/p/avatar-seven-havens-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/avatar-seven-havens-season-1|2026-10-09|Paramount+</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 9/10] Haunted Hotel Season 2</title>
-      <link>https://www.releases.com/p/haunted-hotel-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/haunted-hotel-season-2|2026-10-09|Netflix</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · HBO Max · 9/10] Rage Season 2</title>
-      <link>https://www.releases.com/p/rage-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/rage-season-2|2026-10-09|HBO Max</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · CBS · 9/10] Sheriff Country Season 2</title>
-      <link>https://www.releases.com/p/sheriff-country-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/sheriff-country-season-2|2026-10-09|CBS</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 10/10] Spider-Man: Brand New Day</title>
       <link>https://www.releases.com/p/spider-man-brand-new-day</link>
@@ -278,6 +159,104 @@
       <link>https://www.releases.com/p/the-diplomat-season-4</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-diplomat-season-4|2026-10-15|Netflix</guid>
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/10] Breeder</title>
+      <link>https://www.releases.com/p/breeder</link>
+      <guid isPermaLink="false">https://www.releases.com/p/breeder|2026-10-16|Cinema</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD / cinema · 16/10] Clean Hands</title>
+      <link>https://www.releases.com/p/clean-hands</link>
+      <guid isPermaLink="false">https://www.releases.com/p/clean-hands|2026-10-16|VOD / Cinema</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/10] Crawlers</title>
+      <link>https://www.releases.com/p/crawlers</link>
+      <guid isPermaLink="false">https://www.releases.com/p/crawlers|2026-10-16|Cinema</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Shudder · 16/10] Hallowarrior</title>
+      <link>https://www.releases.com/p/hallowarrior</link>
+      <guid isPermaLink="false">https://www.releases.com/p/hallowarrior|2026-10-16|Shudder</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Amazon · 16/10] Masterplan</title>
+      <link>https://www.releases.com/p/masterplan</link>
+      <guid isPermaLink="false">https://www.releases.com/p/masterplan|2026-10-16|Amazon</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 16/10] Sacrifice</title>
+      <link>https://www.releases.com/p/sacrifice</link>
+      <guid isPermaLink="false">https://www.releases.com/p/sacrifice|2026-10-16|Netflix</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/10] Sense and Sensibility (2026)</title>
+      <link>https://www.releases.com/p/sense-and-sensibility-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/sense-and-sensibility-2026|2026-10-16|Cinema</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/10] Street Fighter (2026)</title>
+      <link>https://www.releases.com/p/street-fighter-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/street-fighter-2026|2026-10-16|Cinema</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Apple TV · 16/10] Tenzing</title>
+      <link>https://www.releases.com/p/tenzing</link>
+      <guid isPermaLink="false">https://www.releases.com/p/tenzing|2026-10-16|Apple TV</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/10] Whalefall</title>
+      <link>https://www.releases.com/p/whalefall-movie</link>
+      <guid isPermaLink="false">https://www.releases.com/p/whalefall-movie|2026-10-16|Cinema</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/10] You Can See Everything</title>
+      <link>https://www.releases.com/p/you-can-see-everything</link>
+      <guid isPermaLink="false">https://www.releases.com/p/you-can-see-everything|2026-10-16|Cinema</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 16/10] Norm: The Tale of Norm Macdonald</title>
+      <link>https://www.releases.com/p/norm-the-tale-of-norm-macdonald</link>
+      <guid isPermaLink="false">https://www.releases.com/p/norm-the-tale-of-norm-macdonald|2026-10-16|Netflix</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · USA Network · 16/10] The Rainmaker Season 2</title>
+      <link>https://www.releases.com/p/the-rainmaker-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-rainmaker-season-2|2026-10-16|USA Network</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Paramount+ · 16/10] Tulsa King Season 4</title>
+      <link>https://www.releases.com/p/tulsa-king-season-4</link>
+      <guid isPermaLink="false">https://www.releases.com/p/tulsa-king-season-4|2026-10-16|Paramount+</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
