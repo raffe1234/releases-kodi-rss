@@ -5,36 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Oct 2026 21:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:39:11 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD / Amazon · 14/10] Love of Your Life</title>
-      <link>https://www.releases.com/p/love-of-your-life</link>
-      <guid isPermaLink="false">https://www.releases.com/p/love-of-your-life|2026-10-14|VOD / Amazon</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 14/10] Hunting Gary Glitter</title>
-      <link>https://www.releases.com/p/hunting-gary-glitter</link>
-      <guid isPermaLink="false">https://www.releases.com/p/hunting-gary-glitter|2026-10-14|Netflix</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 14/10] The Lowdown Season 2</title>
-      <link>https://www.releases.com/p/the-lowdown-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-lowdown-season-2|2026-10-14|Hulu</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 14/10] VisionQuest Season 1</title>
-      <link>https://www.releases.com/p/visionquest-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/visionquest-season-1|2026-10-14|Disney+</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Netflix · 15/10] The Storm</title>
       <link>https://www.releases.com/p/the-storm</link>
@@ -194,6 +166,20 @@
       <link>https://www.releases.com/p/phony-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/phony-season-1|2026-10-20|Hulu</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Disney + · 21/10] Moana (2026)</title>
+      <link>https://www.releases.com/p/moana-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/moana-2026|2026-10-21|Disney +</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Amazon · 21/10] The Terminal List Season 2</title>
+      <link>https://www.releases.com/p/the-terminal-list-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-terminal-list-season-2|2026-10-21|Amazon</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
