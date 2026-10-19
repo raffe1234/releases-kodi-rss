@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 13:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:26:11 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray · 20/10] Masters of the Universe (1987)</title>
@@ -166,6 +166,27 @@
       <link>https://www.releases.com/p/yaga-series-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/yaga-series-1|2026-10-23|AMC</guid>
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0200</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 26/10] Frankenstein (2025)</title>
+      <link>https://www.releases.com/p/frankenstein-2025</link>
+      <guid isPermaLink="false">https://www.releases.com/p/frankenstein-2025|2026-10-26|DVD / Blu-ray / 4K Blu-ray</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 26/10] Moana (2026)</title>
+      <link>https://www.releases.com/p/moana-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/moana-2026|2026-10-26|DVD / 4K Blu-ray / Blu-ray</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 26/10] Undertone</title>
+      <link>https://www.releases.com/p/undertone</link>
+      <guid isPermaLink="false">https://www.releases.com/p/undertone|2026-10-26|DVD / Blu-ray / 4K Blu-ray</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
