@@ -5,36 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:59:12 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 20/10] Masters of the Universe (1987)</title>
-      <link>https://www.releases.com/p/masters-of-the-universe-1987</link>
-      <guid isPermaLink="false">https://www.releases.com/p/masters-of-the-universe-1987|2026-10-20|4K Blu-ray</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray / DVD / Blu-ray · 20/10] Masters of the Universe (2026)</title>
-      <link>https://www.releases.com/p/masters-of-the-universe-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/masters-of-the-universe-2026|2026-10-20|4K Blu-ray / DVD / Blu-ray</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 20/10] Cyberpunk: Edgerunners Season 2</title>
-      <link>https://www.releases.com/p/cyberpunk-edgerunners-season-2</link>
-      <guid isPermaLink="false">https://www.releases.com/p/cyberpunk-edgerunners-season-2|2026-10-20|Netflix</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 20/10] Phony Season 1</title>
-      <link>https://www.releases.com/p/phony-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/phony-season-1|2026-10-20|Hulu</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Disney + · 21/10] Moana (2026)</title>
       <link>https://www.releases.com/p/moana-2026</link>
@@ -187,6 +159,69 @@
       <link>https://www.releases.com/p/undertone</link>
       <guid isPermaLink="false">https://www.releases.com/p/undertone|2026-10-26|DVD / Blu-ray / 4K Blu-ray</guid>
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/10] Forgotten Island</title>
+      <link>https://www.releases.com/p/forgotten-island</link>
+      <guid isPermaLink="false">https://www.releases.com/p/forgotten-island|2026-10-27|VOD</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/10] Free Fall (2026)</title>
+      <link>https://www.releases.com/p/free-fall-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/free-fall-2026|2026-10-27|VOD</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/10] Ghost in the Cell</title>
+      <link>https://www.releases.com/p/ghost-in-the-cell</link>
+      <guid isPermaLink="false">https://www.releases.com/p/ghost-in-the-cell|2026-10-27|VOD</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray / DVD / Blu-ray · 27/10] Marama</title>
+      <link>https://www.releases.com/p/marama</link>
+      <guid isPermaLink="false">https://www.releases.com/p/marama|2026-10-27|4K Blu-ray / DVD / Blu-ray</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/10] The Dog Stars</title>
+      <link>https://www.releases.com/p/the-dog-stars</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-dog-stars|2026-10-27|VOD</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · 4K Blu-ray · 27/10] The Frighteners</title>
+      <link>https://www.releases.com/p/the-frighteners</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-frighteners|2026-10-27|4K Blu-ray</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/10] The Stunt Driver</title>
+      <link>https://www.releases.com/p/the-stunt-driver</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-stunt-driver|2026-10-27|VOD</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/10] The Teenage Vampire</title>
+      <link>https://www.releases.com/p/the-teenage-vampire</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-teenage-vampire|2026-10-27|VOD</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 27/10] The One About Matthew Perry</title>
+      <link>https://www.releases.com/p/the-one-about-matthew-perry</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-one-about-matthew-perry|2026-10-27|Netflix</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
