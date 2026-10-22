@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:42:33 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · cinema · 23/10] 5 Centimeters Per Second</title>
@@ -88,13 +88,6 @@
       <title>&gt;&gt; [Movie · cinema · 23/10] Wicker</title>
       <link>https://www.releases.com/p/wicker</link>
       <guid isPermaLink="false">https://www.releases.com/p/wicker|2026-10-23|Cinema</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0200</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 23/10] Wife and Dog</title>
-      <link>https://www.releases.com/p/wife-and-dog</link>
-      <guid isPermaLink="false">https://www.releases.com/p/wife-and-dog|2026-10-23|Cinema</guid>
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0200</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -200,6 +193,13 @@
       <title>&gt;&gt; [Movie · VOD · 27/10] The Teenage Vampire</title>
       <link>https://www.releases.com/p/the-teenage-vampire</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-teenage-vampire|2026-10-27|VOD</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 27/10] Verity</title>
+      <link>https://www.releases.com/p/verity</link>
+      <guid isPermaLink="false">https://www.releases.com/p/verity|2026-10-27|VOD</guid>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
