@@ -5,7 +5,7 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:21:35 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · DVD / Blu-ray / 4K Blu-ray · 26/10] Frankenstein (2025)</title>
@@ -50,9 +50,9 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray / DVD / Blu-ray · 27/10] Marama</title>
+      <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 27/10] Marama</title>
       <link>https://www.releases.com/p/marama</link>
-      <guid isPermaLink="false">https://www.releases.com/p/marama|2026-10-27|4K Blu-ray / DVD / Blu-ray</guid>
+      <guid isPermaLink="false">https://www.releases.com/p/marama|2026-10-27|DVD / 4K Blu-ray / Blu-ray</guid>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -201,6 +201,20 @@
       <link>https://www.releases.com/p/the-detective-is-already-dead-season-2</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-detective-is-already-dead-season-2|2026-10-30|Crunchyroll</guid>
       <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 1/11] V For Vendetta 20th Anniversary</title>
+      <link>https://www.releases.com/p/v-for-vendetta-20th-anniversary</link>
+      <guid isPermaLink="false">https://www.releases.com/p/v-for-vendetta-20th-anniversary|2026-11-01|Cinema</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 1/11] The Gilded Age Season 4</title>
+      <link>https://www.releases.com/p/the-gilded-age-season-4</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-gilded-age-season-4|2026-11-01|HBO Max</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
