@@ -5,78 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:04:47 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/10] Forgotten Island</title>
-      <link>https://www.releases.com/p/forgotten-island</link>
-      <guid isPermaLink="false">https://www.releases.com/p/forgotten-island|2026-10-27|VOD</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/10] Free Fall (2026)</title>
-      <link>https://www.releases.com/p/free-fall-2026</link>
-      <guid isPermaLink="false">https://www.releases.com/p/free-fall-2026|2026-10-27|VOD</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/10] Ghost in the Cell</title>
-      <link>https://www.releases.com/p/ghost-in-the-cell</link>
-      <guid isPermaLink="false">https://www.releases.com/p/ghost-in-the-cell|2026-10-27|VOD</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · DVD / 4K Blu-ray / Blu-ray · 27/10] Marama</title>
-      <link>https://www.releases.com/p/marama</link>
-      <guid isPermaLink="false">https://www.releases.com/p/marama|2026-10-27|DVD / 4K Blu-ray / Blu-ray</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/10] The Dog Stars</title>
-      <link>https://www.releases.com/p/the-dog-stars</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-dog-stars|2026-10-27|VOD</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray · 27/10] The Frighteners</title>
-      <link>https://www.releases.com/p/the-frighteners</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-frighteners|2026-10-27|4K Blu-ray</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/10] The Stunt Driver</title>
-      <link>https://www.releases.com/p/the-stunt-driver</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-stunt-driver|2026-10-27|VOD</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/10] The Teenage Vampire</title>
-      <link>https://www.releases.com/p/the-teenage-vampire</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-teenage-vampire|2026-10-27|VOD</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 27/10] Verity</title>
-      <link>https://www.releases.com/p/verity</link>
-      <guid isPermaLink="false">https://www.releases.com/p/verity|2026-10-27|VOD</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 27/10] The One About Matthew Perry</title>
-      <link>https://www.releases.com/p/the-one-about-matthew-perry</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-one-about-matthew-perry|2026-10-27|Netflix</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 28/10] Ali G: Who Iz I?</title>
       <link>https://www.releases.com/p/ali-g-who-iz-i</link>
@@ -130,6 +60,13 @@
       <title>&gt;&gt; [Movie · cinema · 30/10] The Mongoose</title>
       <link>https://www.releases.com/p/the-mongoose</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-mongoose|2026-10-30|Cinema</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 30/10] The Mosquito Bowl</title>
+      <link>https://www.releases.com/p/the-mosquito-bowl</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-mosquito-bowl|2026-10-30|Cinema</guid>
       <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -215,6 +152,104 @@
       <link>https://www.releases.com/p/the-holiday-spark</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-holiday-spark|2026-11-02|Roku</guid>
       <pubDate>Mon, 02 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] 500 Fireflies</title>
+      <link>https://www.releases.com/p/500-fireflies</link>
+      <guid isPermaLink="false">https://www.releases.com/p/500-fireflies|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] April X</title>
+      <link>https://www.releases.com/p/april-x</link>
+      <guid isPermaLink="false">https://www.releases.com/p/april-x|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] Charlie Harper</title>
+      <link>https://www.releases.com/p/charlie-harper</link>
+      <guid isPermaLink="false">https://www.releases.com/p/charlie-harper|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 3/11] Godzilla Minus Zero</title>
+      <link>https://www.releases.com/p/godzilla-minus-zero</link>
+      <guid isPermaLink="false">https://www.releases.com/p/godzilla-minus-zero|2026-11-03|Cinema</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD / 4K Blu-ray / Blu-ray / DVD · 3/11] Mutiny</title>
+      <link>https://www.releases.com/p/mutiny</link>
+      <guid isPermaLink="false">https://www.releases.com/p/mutiny|2026-11-03|VOD / 4K Blu-ray / Blu-ray / DVD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] Primetime</title>
+      <link>https://www.releases.com/p/primetime</link>
+      <guid isPermaLink="false">https://www.releases.com/p/primetime|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] Ralph's Perfekt Christmas</title>
+      <link>https://www.releases.com/p/ralphs-perfekt-christmas</link>
+      <guid isPermaLink="false">https://www.releases.com/p/ralphs-perfekt-christmas|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] Resident Evil (2026)</title>
+      <link>https://www.releases.com/p/resident-evil-2026</link>
+      <guid isPermaLink="false">https://www.releases.com/p/resident-evil-2026|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] The Shadow's Edge</title>
+      <link>https://www.releases.com/p/the-shadows-edge</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-shadows-edge|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Blu-ray / DVD / 4K Blu-ray · 3/11] The Uprising</title>
+      <link>https://www.releases.com/p/the-uprising</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-uprising|2026-11-03|Blu-ray / DVD / 4K Blu-ray</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] Without Blood</title>
+      <link>https://www.releases.com/p/without-blood</link>
+      <guid isPermaLink="false">https://www.releases.com/p/without-blood|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 3/11] Bass X Machina Season 1</title>
+      <link>https://www.releases.com/p/bass-x-machina-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/bass-x-machina-season-1|2026-11-03|Netflix</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · 4K Blu-ray · 3/11] Game of Thrones: The Complete Collection</title>
+      <link>https://www.releases.com/p/game-of-thrones-the-complete-collection</link>
+      <guid isPermaLink="false">https://www.releases.com/p/game-of-thrones-the-complete-collection|2026-11-03|4K Blu-ray</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · DVD / Blu-ray · 3/11] Rick and Morty Season 9</title>
+      <link>https://www.releases.com/p/rick-and-morty-season-9</link>
+      <guid isPermaLink="false">https://www.releases.com/p/rick-and-morty-season-9|2026-11-03|DVD / Blu-ray</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
