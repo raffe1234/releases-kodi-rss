@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:16:59 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · VOD · 28/10] Ali G: Who Iz I?</title>
-      <link>https://www.releases.com/p/ali-g-who-iz-i</link>
-      <guid isPermaLink="false">https://www.releases.com/p/ali-g-who-iz-i|2026-10-28|VOD</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Amazon · 28/10] Drive - The Pretenders</title>
-      <link>https://www.releases.com/p/drive-the-pretenders</link>
-      <guid isPermaLink="false">https://www.releases.com/p/drive-the-pretenders|2026-10-28|Amazon</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Amazon · 30/10] Apocalypse Z: New World</title>
       <link>https://www.releases.com/p/apocalypse-z-new-world</link>
@@ -250,6 +236,34 @@
       <link>https://www.releases.com/p/rick-and-morty-season-9</link>
       <guid isPermaLink="false">https://www.releases.com/p/rick-and-morty-season-9|2026-11-03|DVD / Blu-ray</guid>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 4/11] A Dog's Perfect Christmas</title>
+      <link>https://www.releases.com/p/a-dogs-perfect-christmas</link>
+      <guid isPermaLink="false">https://www.releases.com/p/a-dogs-perfect-christmas|2026-11-04|Netflix</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 4/11] The Last Temptation of Becky</title>
+      <link>https://www.releases.com/p/the-last-temptation-of-becky</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-last-temptation-of-becky|2026-11-04|Cinema</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Amazon · 4/11] The Greatest</title>
+      <link>https://www.releases.com/p/the-greatest</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-greatest|2026-11-04|Amazon</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Disney+ · 4/11] The Remarried Empress Season 1</title>
+      <link>https://www.releases.com/p/the-remarried-empress-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-remarried-empress-season-1|2026-11-04|Disney+</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
