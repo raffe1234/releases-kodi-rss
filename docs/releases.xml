@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 22:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:10:04 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 1/11] V For Vendetta 20th Anniversary</title>
-      <link>https://www.releases.com/p/v-for-vendetta-20th-anniversary</link>
-      <guid isPermaLink="false">https://www.releases.com/p/v-for-vendetta-20th-anniversary|2026-11-01|Cinema</guid>
-      <pubDate>Sun, 01 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · HBO Max · 1/11] The Gilded Age Season 4</title>
-      <link>https://www.releases.com/p/the-gilded-age-season-4</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-gilded-age-season-4|2026-11-01|HBO Max</guid>
-      <pubDate>Sun, 01 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 2/11] Avatar Aang: The Last Airbender</title>
       <link>https://www.releases.com/p/avatar-aang-the-last-airbender</link>
@@ -271,6 +257,20 @@
       <link>https://www.releases.com/p/it-gets-worse</link>
       <guid isPermaLink="false">https://www.releases.com/p/it-gets-worse|2026-11-06|Showtime</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 8/11] City of God: The Fight Rages On Season 2</title>
+      <link>https://www.releases.com/p/city-of-god-the-fight-rages-on-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/city-of-god-the-fight-rages-on-season-2|2026-11-08|HBO Max</guid>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · MGM+ · 8/11] The Institute Season 2</title>
+      <link>https://www.releases.com/p/the-institute-season-2</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-institute-season-2|2026-11-08|MGM+</guid>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
