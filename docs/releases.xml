@@ -5,22 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:38:47 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · 4K Blu-ray / Blu-ray / DVD · 2/11] Avatar Aang: The Last Airbender</title>
-      <link>https://www.releases.com/p/avatar-aang-the-last-airbender</link>
-      <guid isPermaLink="false">https://www.releases.com/p/avatar-aang-the-last-airbender|2026-11-02|4K Blu-ray / Blu-ray / DVD</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · Roku · 2/11] The Holiday Spark</title>
-      <link>https://www.releases.com/p/the-holiday-spark</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-holiday-spark|2026-11-02|Roku</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · VOD · 3/11] 500 Fireflies</title>
       <link>https://www.releases.com/p/500-fireflies</link>
@@ -32,6 +18,13 @@
       <title>&gt;&gt; [Movie · VOD · 3/11] April X</title>
       <link>https://www.releases.com/p/april-x</link>
       <guid isPermaLink="false">https://www.releases.com/p/april-x|2026-11-03|VOD</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · VOD · 3/11] Beware Boiuna</title>
+      <link>https://www.releases.com/p/beware-boiuna</link>
+      <guid isPermaLink="false">https://www.releases.com/p/beware-boiuna|2026-11-03|VOD</guid>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
@@ -232,6 +225,13 @@
       <description>Source: Releases.com</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · Hulu · 6/11] The 12 Dates of Christmas</title>
+      <link>https://www.releases.com/p/the-12-dates-of-christmas</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-12-dates-of-christmas|2026-11-06|Hulu</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · cinema · 6/11] The Cat in the Hat</title>
       <link>https://www.releases.com/p/the-cat-in-the-hat</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-cat-in-the-hat|2026-11-06|Cinema</guid>
@@ -271,6 +271,20 @@
       <link>https://www.releases.com/p/the-institute-season-2</link>
       <guid isPermaLink="false">https://www.releases.com/p/the-institute-season-2|2026-11-08|MGM+</guid>
       <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Blu-ray / 4K Blu-ray / DVD · 9/11] KPop Demon Hunters</title>
+      <link>https://www.releases.com/p/kpop-demon-hunters</link>
+      <guid isPermaLink="false">https://www.releases.com/p/kpop-demon-hunters|2026-11-09|Blu-ray / 4K Blu-ray / DVD</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Acorn TV · 9/11] The Madame Blanc Mysteries Season 5</title>
+      <link>https://www.releases.com/p/the-madame-blanc-mysteries-season-5</link>
+      <guid isPermaLink="false">https://www.releases.com/p/the-madame-blanc-mysteries-season-5|2026-11-09|Acorn TV</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
