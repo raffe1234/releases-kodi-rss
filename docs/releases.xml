@@ -5,29 +5,8 @@
     <link>https://www.releases.com/calendar/movies</link>
     <description>Releases during the next seven days. Source: Releases.com.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:33:28 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · Netflix · 11/11] Avedon</title>
-      <link>https://www.releases.com/p/avedon</link>
-      <guid isPermaLink="false">https://www.releases.com/p/avedon|2026-11-11|Netflix</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 11/11] The Body Season 1</title>
-      <link>https://www.releases.com/p/the-body-season-1</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-body-season-1|2026-11-11|Netflix</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Amazon · 11/11] The Lord of the Rings: The Rings of Power Season 3</title>
-      <link>https://www.releases.com/p/the-lord-of-the-rings-the-rings-of-power-season-3</link>
-      <guid isPermaLink="false">https://www.releases.com/p/the-lord-of-the-rings-the-rings-of-power-season-3|2026-11-11|Amazon</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: Releases.com</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · Netflix · 12/11] Allen</title>
       <link>https://www.releases.com/p/allen</link>
@@ -187,6 +166,27 @@
       <link>https://www.releases.com/p/dutton-ranch-season-1</link>
       <guid isPermaLink="false">https://www.releases.com/p/dutton-ranch-season-1|2026-11-17|DVD / Blu-ray</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 18/11] Gentle Monster</title>
+      <link>https://www.releases.com/p/gentle-monster</link>
+      <guid isPermaLink="false">https://www.releases.com/p/gentle-monster|2026-11-18|Netflix</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · Netflix · 18/11] Guarding Stars</title>
+      <link>https://www.releases.com/p/guarding-stars</link>
+      <guid isPermaLink="false">https://www.releases.com/p/guarding-stars|2026-11-18|Netflix</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: Releases.com</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 18/11] Win the Mall Season 1</title>
+      <link>https://www.releases.com/p/win-the-mall-season-1</link>
+      <guid isPermaLink="false">https://www.releases.com/p/win-the-mall-season-1|2026-11-18|Netflix</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: Releases.com</description>
     </item>
   </channel>
