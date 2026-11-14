@@ -1,34 +1,26 @@
-# Kodi RSS for upcoming movies and TV series
+# Kodi RSS – upcoming movies and TV series
 
-This repository creates a compact RSS 2.0 feed for Kodi's RSS ticker.
+A compact English-language RSS 2.0 feed for Kodi's scrolling RSS ticker.
 
-## Use the feed directly in Kodi
+- **Movies:** [TMDB](https://www.themoviedb.org/), using US release dates for **cinema**, **digital**, and **disc** (physical media).
+- **TV series:** [TVmaze](https://www.tvmaze.com/), using US broadcast schedules and global/local web schedules. **Only season premieres** (episode 1 of a season) are included.
+- **Time window:** seven calendar days by default, including today, based on Europe/Stockholm.
+- **Schedule:** twice daily at 08:17 and 20:17 Europe/Stockholm via GitHub Actions.
 
-You do not need to fork this repository or create your own GitHub repository. You can add the hosted feed directly to Kodi:
+## Use the feed in Kodi
+
+The address is unchanged:
 
 ```text
 https://raffe1234.github.io/releases-kodi-rss/releases.xml
 ```
 
-To add the feed:
+1. In Kodi, open **Settings → Interface → Skin**.
+2. Enable **Show RSS news feeds** and choose **Edit RSS**.
+3. Install the **RSS Editor** add-on if prompted and add the URL above.
+4. An update interval of 60 minutes is reasonable. Your skin must support RSS.
 
-1. Open **Settings → Interface → Skin** in Kodi.
-2. Enable **Show RSS news feeds**.
-3. Select **Edit RSS**.
-4. Install the **RSS Editor** add-on if Kodi asks you to.
-5. Add or replace the existing feed with:
-
-   ```text
-   https://raffe1234.github.io/releases-kodi-rss/releases.xml
-   ```
-
-6. Set the update interval, for example, to 60 minutes.
-
-The selected Kodi skin must support the RSS ticker.
-
-### Add the feed manually
-
-You can also edit the `RssFeeds.xml` file in Kodi's userdata folder:
+Or edit Kodi's `RssFeeds.xml` manually:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -39,101 +31,106 @@ You can also edit the `RssFeeds.xml` file in Kodi's userdata folder:
 </rssfeeds>
 ```
 
-`updateinterval="60"` tells Kodi to check the feed every hour. The feed itself is generated twice a day.
+## What the headlines look like
 
-## Feed contents
+```text
+>> [Movie · cinema · 17/11] Example Movie
+>> [Movie · digital · 18/11] Example Movie
+>> [Movie · disc · 19/11] Another Movie
+>> [TV series · Netflix · 20/11] Example Series Season 1
+```
 
-Example headlines:
+The examples are illustrative, not confirmed upcoming titles. Every item links to its corresponding entry on TMDB or TVmaze.
 
-- `>> [Movie · cinema · 17/7] The Odyssey`
-- `>> [Movie · Disney+ · 16/7] Descendants: Wicked Wonderland`
-- `>> [TV series · Netflix · 17/7] The East Palace Season 1`
+**Disc** is TMDB's *Physical* release category. TMDB does not reliably distinguish DVD from Blu-ray, 4K Blu-ray, or SteelBook, so these formats cannot be listed separately. **Digital** is a release type, not a guarantee of availability on a specific streaming platform; TMDB does not supply a named service for this category.
 
-The feed retrieves upcoming movie and TV series releases for one week ahead, as configured in `config.json`.
+TVmaze season premieres are recognized by episode number **1** and a positive season number. Specials and subsequent episodes are ignored. US network television is selected by country, but the web/streaming schedule includes worldwide web channels (some launches may not be available in the US). TVmaze availability, timing, and channel labels depend on the completeness of its records.
 
-Each item starts with `>>` so the beginning of a new Kodi ticker item is easy to spot. Type, release channel or platform, and date are grouped inside brackets. A title can therefore appear more than once, for example first as a cinema release and later as a Netflix or VOD release.
+## One-time setup: free TMDB API key
 
-Only releases labelled `4K Blu-ray (SteelBook)` are excluded. DVD, Blu-ray and standard 4K Blu-ray releases are included.
+TVmaze's public schedule API needs **no key**. TMDB requires a free developer API key for non-commercial use; comply with [TMDB's terms and attribution rules](https://developer.themoviedb.org/docs/faq).
 
-The feed fetches separate date pages from:
+1. Register or log in at [TMDB](https://www.themoviedb.org/signup).
+2. Open [Account Settings → API](https://www.themoviedb.org/settings/api).
+3. Request a **Developer API key**, accept the terms and describe this RSS project. For the website, use your public GitHub repository URL.
+4. Copy the **API Key (v3 auth)**, not the long **API Read Access Token**.
+5. Open GitHub repository **Settings → Secrets and variables → Actions → New repository secret**.
+6. Set the **Name** to `TMDB_API_KEY`, and the **Secret** to your v3 key; click **Add secret**.
+7. In the repository's **Actions**, run **Update Kodi RSS → Run workflow** once to verify.
 
-- `https://www.releases.com/calendar/movies`
-- `https://www.releases.com/calendar/tv-series`
+**Never commit the key** to `config.json`, a script, or a file in the repository. The GitHub Actions workflow supplies it from secrets to Python. No Python installation is required on your NAS.
 
-## Update schedule
+## Updating the repository from your NAS
 
-GitHub Actions generates the feed twice a day.
+Copy the patch file next to your cloned repository (in the parent `Github` directory). Then run from the `releases-kodi-rss` directory:
 
-The corresponding UTC run times are:
+```sh
+git pull --ff-only
+git apply --check ../releases-kodi-rss-tmdb-tvmaze.patch
+git apply ../releases-kodi-rss-tmdb-tvmaze.patch
+git add -A
+git commit -m "Switch RSS sources to TMDB and TVmaze"
+git push origin main
+```
 
-- **06:17 and 18:17 UTC** during daylight-saving periods.
-- **07:17 and 19:17 UTC** during standard-time periods.
+If Git asks for an author, set `git config user.name` and `git config user.email` in this repository once.
 
-The workflow can also be started manually.
+## Hosting your own copy
 
-## Host your own copy
-
-This is optional. You only need your own repository if you want to change the configuration or maintain a separate feed.
-
-1. Create a new public GitHub repository.
-2. Upload all files from this repository to the repository root.
-3. Open **Settings → Actions → General**.
-4. Under **Workflow permissions**, select **Read and write permissions** and save.
-5. Open **Actions**, select **Update Kodi RSS**, and click **Run workflow**.
-6. Confirm that `docs/releases.xml` contains actual release entries.
-7. Open **Settings → Pages**.
-8. Select **Deploy from a branch**, branch `main`, and folder `/docs`.
-9. Your RSS URL will normally be:
-
-   ```text
-   https://YOUR-USERNAME.github.io/REPOSITORY-NAME/releases.xml
-   ```
-
-Use this URL instead of the hosted feed URL when configuring Kodi.
+1. Upload/fork the project to a public GitHub repository.
+2. Add your `TMDB_API_KEY` secret as described above.
+3. In **Settings → Actions → General**, allow read and write workflow permissions.
+4. Enable GitHub Pages in **Settings → Pages → Deploy from a branch**, branch `main`, folder `/docs`.
+5. Run **Actions → Update Kodi RSS → Run workflow**. After success, the RSS is at:
+   `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/releases.xml`
+6. Update the feed URL in Kodi and `feed_link` in `config.json` if you are hosting a different copy.
 
 ## Configuration
 
-Settings are stored in `config.json`.
+`config.json` contains:
 
-- `days_ahead`: number of calendar days included in the feed.
-- `start_offset_days`: `0` includes today; `1` starts tomorrow.
-- `date_format`: short date format used in item titles.
-- `movie_label` and `tv_label`: type text shown first inside the brackets.
-- `language`: RSS language code.
-- `include_platform`: set to `false` to omit the platform, for example `>> [Movie · 17/7] The Odyssey`.
-- `excluded_platforms`: release formats omitted from the feed. By default, only `4K Blu-ray (SteelBook)` is excluded.
-- `check_robots_txt`: should normally remain `true`.
-- `request_delay_seconds`: short delay between requests.
+| Field | Purpose |
+| --- | --- |
+| `days_ahead` | Days to fetch (1–31), default 7 |
+| `start_offset_days` | `0` = today, `1` = tomorrow |
+| `timezone` | Calendar clock for the window, default `Europe/Stockholm` |
+| `movie_region` | TMDB regional movie dates, default `US` |
+| `tv_country` | TVmaze broadcast country, default `US`; web channels still include global services |
+| `tmdb_max_pages` | Safety limit per movie release type, fails instead of silently truncating |
+| `feed_link` | Link to your hosted GitHub Pages homepage |
+| `movie_label`, `tv_label` | Type names in titles |
+| `date_format` | Date label inside brackets (`%-d/%-m`) |
+| `include_platform` | Include `cinema`, `digital`, `disc`, or TV channel name |
+| `excluded_platforms` | Optional whole-channel exclusions; e.g., `"disc"` |
+| `request_delay_seconds` | Delay before each API request (default 0.5s) |
+| `minimum_kodi_items` | Add harmless filler lines if Kodi needs at least 3 entries |
+| `output_file` | Generated RSS location: `docs/releases.xml` |
 
-## Safeguards
+The original options `check_robots_txt` and Releases.com-specific platform exclusions were removed because this version uses official API endpoints rather than HTML scraping.
 
-- Requests use a descriptive User-Agent.
-- `robots.txt` is checked before calendar pages are fetched.
-- A short delay is used between requests.
-- If no titles are found, the existing RSS file is not replaced with an empty file.
-- If platform detection fails, entries keep the same bracketed format but omit the platform.
-- RSS GUIDs include date and platform so cinema and later streaming releases remain separate items.
-- The RSS file is written atomically.
-- The GitHub token is limited to `contents: write`.
+## Safety and troubleshooting
 
-## Source considerations
+- GitHub Actions runs unit tests before generating RSS.
+- Both APIs use bounded HTTP retries/backoff on 429 and temporary server errors.
+- If the TMDB key is missing/invalid, an API request fails, or the feeds are empty, the existing `docs/releases.xml` remains untouched.
+- TMDB pagination is exhaustive up to `tmdb_max_pages` per release type; beyond that the workflow fails instead of publishing an incomplete feed.
+- After a successful fetch, RSS is written atomically and GitHub Actions commits only a changed `docs/releases.xml`.
+- The existing `docs/releases.xml` from Releases.com is deliberately not replaced by this code patch; the **first successful Action run** creates the new feed from TMDB and TVmaze.
+- The script uses documented APIs, not Releases.com or its `robots.txt`.
+- GitHub Actions has only `contents: write` permission and does not print the API key.
 
-The feed republishes only short title, date, and release-channel information and links back to Releases.com. Dates use the USA region selected by the source site.
+### Run locally (optional; not needed on NAS)
 
-Check the site's current terms and `robots.txt`. Stop the workflow or use an official data source if Releases.com blocks or prohibits automated fetching.
-
-The HTML structure of an external website can change. If the workflow begins to fail, the parser in `scripts/generate_feed.py` may need to be updated.
-
-## Run locally
-
-```bash
+```sh
 python -m pip install -r requirements.txt
-python scripts/generate_feed.py
+TMDB_API_KEY=your_v3_key python scripts/generate_feed.py
+python -m pytest -q
 ```
 
-Run the tests with:
+## Credits and licences
 
-```bash
-python -m pip install pytest
-pytest
-```
+Movie metadata and release dates: [TMDB](https://www.themoviedb.org/). **This product uses the TMDB API but is not endorsed or certified by TMDB.** Approved TMDB branding and attribution: [TMDB Logos & Attribution](https://www.themoviedb.org/about/logos-attribution).
+
+TV premiere metadata: [TVmaze](https://www.tvmaze.com/), API material used with attribution under [CC BY-SA](https://www.tvmaze.com/api). Original TVmaze show links are preserved in the feed. Your use must comply with TVmaze's ShareAlike requirements.
+
+The project's [public index / credits page](https://raffe1234.github.io/releases-kodi-rss/) includes both sources and the required TMDB notice. The RSS ticker is text only; the credits page also references TMDB's approved brand logo. If using the feed elsewhere, preserve these credits and required notices.

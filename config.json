@@ -3,17 +3,18 @@
   "start_offset_days": 0,
   "timezone": "Europe/Stockholm",
   "feed_title": "Upcoming movie and TV releases",
-  "feed_description": "Releases during the next seven days. Source: Releases.com.",
+  "feed_description": "Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).",
   "language": "en-US",
   "output_file": "docs/releases.xml",
+  "feed_link": "https://raffe1234.github.io/releases-kodi-rss/",
   "date_format": "%-d/%-m",
   "movie_label": "Movie",
   "tv_label": "TV series",
+  "movie_region": "US",
+  "tv_country": "US",
+  "tmdb_max_pages": 50,
   "include_platform": true,
-  "excluded_platforms": [
-    "4K Blu-ray (SteelBook)"
-  ],
+  "excluded_platforms": [],
   "minimum_kodi_items": 3,
-  "check_robots_txt": true,
   "request_delay_seconds": 0.5
 }

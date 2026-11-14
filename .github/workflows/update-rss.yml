@@ -36,6 +36,8 @@ jobs:
         run: python -m pytest -q
 
       - name: Generate RSS feed
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python scripts/generate_feed.py
 
       - name: Commit updated RSS feed
