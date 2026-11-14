@@ -7,6 +7,8 @@ A compact English-language RSS 2.0 feed for Kodi's scrolling RSS ticker.
 - **Time window:** seven calendar days by default, including today, based on Europe/Stockholm.
 - **Schedule:** twice daily at 08:17 and 20:17 Europe/Stockholm via GitHub Actions.
 
+**Regional coverage:** Anyone can use the public feed, but release dates are not globally uniform. Movie dates use the US (`movie_region: US`), and TVmaze uses US broadcast schedules plus web/streaming premieres from international services. The seven-day window uses the Europe/Stockholm timezone. If you host your own copy, you can change `movie_region`, `tv_country`, and `timezone` in `config.json`.
+
 ## Use the feed in Kodi
 
 The address is unchanged:
@@ -62,18 +64,19 @@ TVmaze's public schedule API needs **no key**. TMDB requires a free developer AP
 
 ## Updating the repository from your NAS
 
-Copy the patch file next to your cloned repository (in the parent `Github` directory). Then run from the `releases-kodi-rss` directory:
+Copy a downloaded patch to the parent `Github` directory, then work from your `releases-kodi-rss` clone. Replace `PATCH_NAME.patch` with the actual file name:
 
 ```sh
 git pull --ff-only
-git apply --check ../releases-kodi-rss-tmdb-tvmaze.patch
-git apply ../releases-kodi-rss-tmdb-tvmaze.patch
-git add -A
-git commit -m "Switch RSS sources to TMDB and TVmaze"
+git apply --check ../PATCH_NAME.patch
+git apply ../PATCH_NAME.patch
+git status
+git add README.md docs/index.html  # Example: stage only files changed by a docs patch
+git commit -m "Update documentation"
 git push origin main
 ```
 
-If Git asks for an author, set `git config user.name` and `git config user.email` in this repository once.
+For other patches, adjust the `git add` paths to match the changed files. If Git asks for an author, set `git config user.name` and `git config user.email` in this repository once.
 
 ## Hosting your own copy
 
@@ -126,6 +129,19 @@ python -m pip install -r requirements.txt
 TMDB_API_KEY=your_v3_key python scripts/generate_feed.py
 python -m pytest -q
 ```
+
+## Project history
+
+### November 2026 – migration from Releases.com to TMDB and TVmaze
+
+The feed originally collected upcoming movie and television release dates from Releases.com calendar pages. In November 2026, automated requests from GitHub Actions began receiving HTTP 403 (Forbidden) responses, first for `robots.txt` and then for the calendar pages. This prevented reliable feed updates.
+
+Rather than attempting to bypass the site's access restrictions, the project switched to documented APIs:
+
+- **TMDB** provides cinema, digital and physical movie release dates. Physical releases appear as **disc**, since DVD and Blu-ray are not reliably distinguished.
+- **TVmaze** provides television and streaming season premieres (the first episode of each new season).
+
+This removed the dependency on scraping Releases.com HTML and its page structure. The RSS URL and Kodi headline style were retained, so existing subscribers did not need to reconfigure Kodi. Coverage differs from Releases.com, and release dates can vary by region; see **Regional coverage** at the top of this README.
 
 ## Credits and licences
 
