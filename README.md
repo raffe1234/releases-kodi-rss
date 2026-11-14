@@ -2,6 +2,8 @@
 
 A compact English-language RSS 2.0 feed for Kodi's scrolling RSS ticker.
 
+For a dated summary of changes, see the [changelog](CHANGELOG.md).
+
 - **Movies:** [TMDB](https://www.themoviedb.org/), using US release dates for **cinema**, **digital**, and **disc** (physical media).
 - **TV series:** [TVmaze](https://www.tvmaze.com/), using US broadcast schedules and global/local web schedules. **Only season premieres** (episode 1 of a season) are included.
 - **Time window:** seven calendar days by default, including today, using Central European time (CET/CEST).
