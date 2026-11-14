@@ -226,8 +226,13 @@ def ensure_robots_allowed(
         return
 
     response = session.get(ROBOTS_URL, timeout=30)
-    if response.status_code == 404:
-        print("No robots.txt file was found; continuing.")
+    if response.status_code in (403, 404):
+        print(
+            f"Warning: robots.txt returned HTTP {response.status_code}. "
+            "Treating robots.txt as unavailable under RFC 9309. "
+            "Calendar access must still succeed.",
+            file=sys.stderr,
+        )
         return
     response.raise_for_status()
 
