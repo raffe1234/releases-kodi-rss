@@ -1,7 +1,7 @@
 {
   "days_ahead": 7,
   "start_offset_days": 0,
-  "timezone": "Europe/Stockholm",
+  "timezone": "CET",
   "feed_title": "Upcoming movie and TV releases",
   "feed_description": "Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).",
   "language": "en-US",

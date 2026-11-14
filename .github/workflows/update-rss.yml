@@ -3,9 +3,9 @@ name: Update Kodi RSS
 on:
   workflow_dispatch:
   schedule:
-    # Swedish local time. Minute 17 reduces the risk of queues on the hour.
+    # Central European Time (CET/CEST). Minute 17 reduces the risk of queues on the hour.
     - cron: "17 8,20 * * *"
-      timezone: "Europe/Stockholm"
+      timezone: "CET"
 
 permissions:
   contents: write

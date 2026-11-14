@@ -4,10 +4,10 @@ A compact English-language RSS 2.0 feed for Kodi's scrolling RSS ticker.
 
 - **Movies:** [TMDB](https://www.themoviedb.org/), using US release dates for **cinema**, **digital**, and **disc** (physical media).
 - **TV series:** [TVmaze](https://www.tvmaze.com/), using US broadcast schedules and global/local web schedules. **Only season premieres** (episode 1 of a season) are included.
-- **Time window:** seven calendar days by default, including today, based on Europe/Stockholm.
-- **Schedule:** twice daily at 08:17 and 20:17 Europe/Stockholm via GitHub Actions.
+- **Time window:** seven calendar days by default, including today, using Central European time (CET/CEST).
+- **Schedule:** twice daily at 08:17 and 20:17 Central European time (CET/CEST) via GitHub Actions.
 
-**Regional coverage:** Anyone can use the public feed, but release dates are not globally uniform. Movie dates use the US (`movie_region: US`), and TVmaze uses US broadcast schedules plus web/streaming premieres from international services. The seven-day window uses the Europe/Stockholm timezone. If you host your own copy, you can change `movie_region`, `tv_country`, and `timezone` in `config.json`.
+**Regional coverage:** Anyone can use the public feed, but release dates are not globally uniform. Movie dates use the US (`movie_region: US`), and TVmaze uses US broadcast schedules plus web/streaming premieres from international services. The seven-day window uses CET/CEST, with automatic daylight saving time adjustment. If you host your own copy, you can change `movie_region`, `tv_country`, and `timezone` in `config.json`.
 
 ## Use the feed in Kodi
 
@@ -96,7 +96,7 @@ For other patches, adjust the `git add` paths to match the changed files. If Git
 | --- | --- |
 | `days_ahead` | Days to fetch (1–31), default 7 |
 | `start_offset_days` | `0` = today, `1` = tomorrow |
-| `timezone` | Calendar clock for the window, default `Europe/Stockholm` |
+| `timezone` | Calendar clock for the window, default `CET` (automatically observes CET/CEST daylight saving time) |
 | `movie_region` | TMDB regional movie dates, default `US` |
 | `tv_country` | TVmaze broadcast country, default `US`; web channels still include global services |
 | `tmdb_max_pages` | Safety limit per movie release type, fails instead of silently truncating |

@@ -24,7 +24,7 @@ def example_config():
         "feed_link": "https://example.org/",
         "feed_description": "Test",
         "language": "en-US",
-        "timezone": "Europe/Stockholm",
+        "timezone": "CET",
         "date_format": "%-d/%-m",
         "movie_label": "Movie",
         "tv_label": "TV series",
@@ -47,6 +47,13 @@ def show_episode(number=1, season=2, airdate="2026-11-18", web=True):
         "season": season, "number": number, "airdate": airdate,
         "_embedded": {"show": show},
     }
+
+
+def test_cet_timezone_handles_summer_and_winter_time():
+    winter = datetime(2026, 1, 15, 8, 17, tzinfo=ZoneInfo("CET"))
+    summer = datetime(2026, 7, 15, 8, 17, tzinfo=ZoneInfo("CET"))
+    assert winter.utcoffset().total_seconds() == 3600
+    assert summer.utcoffset().total_seconds() == 7200
 
 
 def test_tvmaze_keeps_only_season_premieres_and_channel():
@@ -162,7 +169,7 @@ def test_rss_format_disc_and_source_links():
     ]
     content = MODULE.build_rss(
         releases, example_config(),
-        datetime(2026, 11, 17, 12, tzinfo=ZoneInfo("Europe/Stockholm")),
+        datetime(2026, 11, 17, 12, tzinfo=ZoneInfo("CET")),
     )
     rss = ET.fromstring(content)
     assert [item.findtext("title") for item in rss.findall("./channel/item")][:2] == [
