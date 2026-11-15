@@ -5,85 +5,8 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Nov 2026 19:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:44:55 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 14/11] A Proud Family Wizmas</title>
-      <link>https://www.themoviedb.org/movie/1716604</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1716604|2026-11-14|digital</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 14/11] Astrodude: A SolarBalls Movie</title>
-      <link>https://www.themoviedb.org/movie/1796177</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1796177|2026-11-14|digital</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/11] Beyond the Treeline</title>
-      <link>https://www.themoviedb.org/movie/1823105</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1823105|2026-11-14|cinema</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/11] Echo 8 Beyond</title>
-      <link>https://www.themoviedb.org/movie/1290505</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1290505|2026-11-14|cinema</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/11] Festive Fun with Peppa</title>
-      <link>https://www.themoviedb.org/movie/1778515</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1778515|2026-11-14|cinema</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/11] Five by Five</title>
-      <link>https://www.themoviedb.org/movie/1290511</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1290511|2026-11-14|cinema</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 14/11] In Transit</title>
-      <link>https://www.themoviedb.org/movie/1716440</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1716440|2026-11-14|cinema</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 14/11] The Used:  A Mid Summer Night's Symphony</title>
-      <link>https://www.themoviedb.org/movie/1825560</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1825560|2026-11-14|digital</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · BBC iPlayer · 14/11] Honey Season 1</title>
-      <link>https://www.tvmaze.com/shows/83585/honey</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/83585/honey|2026-11-14|BBC iPlayer</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 14/11] Rock and Roll Hall of Fame Induction Ceremony Season 2026</title>
-      <link>https://www.tvmaze.com/shows/11052/rock-and-roll-hall-of-fame-induction-ceremony</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/11052/rock-and-roll-hall-of-fame-induction-ceremony|2026-11-14|Disney+</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · КиноПоиск · 14/11] Очарованные Season 1</title>
-      <link>https://www.tvmaze.com/shows/89251/ocarovannye</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/89251/ocarovannye|2026-11-14|КиноПоиск</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 15/11] _Preview_</title>
       <link>https://www.themoviedb.org/movie/1817335</link>
@@ -109,6 +32,13 @@
       <title>&gt;&gt; [Movie · digital · 15/11] Mr. Monochrome</title>
       <link>https://www.themoviedb.org/movie/1823332</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1823332|2026-11-15|digital</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 15/11] Only 21</title>
+      <link>https://www.themoviedb.org/movie/1826277</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826277|2026-11-15|digital</guid>
       <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -172,6 +102,13 @@
       <title>&gt;&gt; [Movie · digital · 16/11] The Noah Movie; Epilogue: The Last Don</title>
       <link>https://www.themoviedb.org/movie/1820144</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1820144|2026-11-16|digital</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/11] There's No Place Like Home</title>
+      <link>https://www.themoviedb.org/movie/1806635</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1806635|2026-11-16|cinema</guid>
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -274,13 +211,6 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] The Grim Rapper</title>
-      <link>https://www.themoviedb.org/movie/596711</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/596711|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
       <title>&gt;&gt; [Movie · digital · 17/11] The Odyssey</title>
       <link>https://www.themoviedb.org/movie/1368337</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1368337|2026-11-17|digital</guid>
@@ -337,13 +267,6 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · cinema · 18/11] Madden</title>
-      <link>https://www.themoviedb.org/movie/1131943</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1131943|2026-11-18|cinema</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
       <title>&gt;&gt; [Movie · digital · 18/11] Madden</title>
       <link>https://www.themoviedb.org/movie/1131943</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1131943|2026-11-18|digital</guid>
@@ -354,6 +277,13 @@
       <title>&gt;&gt; [Movie · cinema · 18/11] The First Five Minutes... The Title Design Legacy of Dan Perri</title>
       <link>https://www.themoviedb.org/movie/1815534</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1815534|2026-11-18|cinema</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 18/11] The Holdout</title>
+      <link>https://www.themoviedb.org/movie/1826084</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826084|2026-11-18|cinema</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -554,6 +484,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · cinema · 20/11] O.M: Operation Mole</title>
+      <link>https://www.themoviedb.org/movie/1384528</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1384528|2026-11-20|cinema</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 20/11] On Behalf of My Son</title>
       <link>https://www.themoviedb.org/movie/1307474</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1307474|2026-11-20|digital</guid>
@@ -582,7 +519,7 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · cinema · 20/11] Sophmores</title>
+      <title>&gt;&gt; [Movie · cinema · 20/11] Sophomores</title>
       <link>https://www.themoviedb.org/movie/1821708</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1821708|2026-11-20|cinema</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
@@ -698,6 +635,48 @@
       <link>https://www.tvmaze.com/shows/36672/yellowjackets</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/36672/yellowjackets|2026-11-20|Paramount+</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/11] BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING</title>
+      <link>https://www.themoviedb.org/movie/1820083</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1820083|2026-11-21|cinema</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/11] Errand Guy</title>
+      <link>https://www.themoviedb.org/movie/1804628</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1804628|2026-11-21|cinema</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 21/11] How to Avoid Elves?</title>
+      <link>https://www.themoviedb.org/movie/1826406</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826406|2026-11-21|digital</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 21/11] The Dark Days of Cassidy Krystian</title>
+      <link>https://www.themoviedb.org/movie/1808579</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1808579|2026-11-21|cinema</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Tubi · 21/11] Editorially Speaking Season 1</title>
+      <link>https://www.tvmaze.com/shows/95157/editorially-speaking</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95157/editorially-speaking|2026-11-21|Tubi</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · ESPN+ · 21/11] Florida Classic Season 46</title>
+      <link>https://www.tvmaze.com/shows/72780/florida-classic</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/72780/florida-classic|2026-11-21|ESPN+</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
