@@ -5,78 +5,8 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:23:12 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 15/11] _Preview_</title>
-      <link>https://www.themoviedb.org/movie/1817335</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1817335|2026-11-15|cinema</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 15/11] Divine Direction</title>
-      <link>https://www.themoviedb.org/movie/1515403</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1515403|2026-11-15|cinema</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 15/11] KIRAC 32</title>
-      <link>https://www.themoviedb.org/movie/1823379</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1823379|2026-11-15|cinema</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 15/11] Mr. Monochrome</title>
-      <link>https://www.themoviedb.org/movie/1823332</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1823332|2026-11-15|digital</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 15/11] Only 21</title>
-      <link>https://www.themoviedb.org/movie/1826277</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826277|2026-11-15|digital</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 15/11] Regret to Inform You</title>
-      <link>https://www.themoviedb.org/movie/1741726</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1741726|2026-11-15|cinema</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 15/11] Who Are You?</title>
-      <link>https://www.themoviedb.org/movie/1822094</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1822094|2026-11-15|cinema</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Youku · 15/11] Blossom in Darkness Season 1</title>
-      <link>https://www.tvmaze.com/shows/78584/blossom-in-darkness</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/78584/blossom-in-darkness|2026-11-15|Youku</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Prime Video · 15/11] The Chosen Season 6</title>
-      <link>https://www.tvmaze.com/shows/47119/the-chosen</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/47119/the-chosen|2026-11-15|Prime Video</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · NRK TV · 15/11] Vikinger vs. nazister Season 1</title>
-      <link>https://www.tvmaze.com/shows/95408/vikinger-vs-nazister</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95408/vikinger-vs-nazister|2026-11-15|NRK TV</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 16/11] Alice in Wonderland –Dive in Wonderland–</title>
       <link>https://www.themoviedb.org/movie/1418665</link>
@@ -130,6 +60,13 @@
       <title>&gt;&gt; [TV series · CH3+ · 16/11] Love Game with My Enemy Season 1</title>
       <link>https://www.tvmaze.com/shows/95467/love-game-with-my-enemy</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95467/love-game-with-my-enemy|2026-11-16|CH3+</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · ABC iview · 16/11] Mark of a Murderer Season 1</title>
+      <link>https://www.tvmaze.com/shows/95691/mark-of-a-murderer</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95691/mark-of-a-murderer|2026-11-16|ABC iview</guid>
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -309,6 +246,13 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · Youku · 18/11] Her Willing Subject Season 1</title>
+      <link>https://www.tvmaze.com/shows/95689/her-willing-subject</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95689/her-willing-subject|2026-11-18|Youku</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Netflix · 18/11] Os 12 Signos de Valentina Season 1</title>
       <link>https://www.tvmaze.com/shows/95296/os-12-signos-de-valentina</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95296/os-12-signos-de-valentina|2026-11-18|Netflix</guid>
@@ -431,6 +375,13 @@
       <title>&gt;&gt; [Movie · cinema · 20/11] Cameron Winter at Carnegie Hall</title>
       <link>https://www.themoviedb.org/movie/1597242</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1597242|2026-11-20|cinema</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 20/11] Déjà Vu: The Eye of LuLu</title>
+      <link>https://www.themoviedb.org/movie/1826898</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826898|2026-11-20|cinema</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -596,6 +547,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · cinema · 20/11] XI: Thou Shalt Not Be Indifferent</title>
+      <link>https://www.themoviedb.org/movie/1812873</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1812873|2026-11-20|cinema</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · BBC iPlayer · 20/11] Bill's Included Season 1</title>
       <link>https://www.tvmaze.com/shows/91004/bills-included</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/91004/bills-included|2026-11-20|BBC iPlayer</guid>
@@ -666,6 +624,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 21/11] Where the Pine Cones Lie</title>
+      <link>https://www.themoviedb.org/movie/1809749</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1809749|2026-11-21|digital</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Tubi · 21/11] Editorially Speaking Season 1</title>
       <link>https://www.tvmaze.com/shows/95157/editorially-speaking</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95157/editorially-speaking|2026-11-21|Tubi</guid>
@@ -677,6 +642,34 @@
       <link>https://www.tvmaze.com/shows/72780/florida-classic</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/72780/florida-classic|2026-11-21|ESPN+</guid>
       <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 22/11] Peppa Pig: Perfect Holiday</title>
+      <link>https://www.themoviedb.org/movie/1650896</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1650896|2026-11-22|cinema</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 22/11] Vive le Punk</title>
+      <link>https://www.themoviedb.org/movie/1726668</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1726668|2026-11-22|cinema</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 22/11] Jul på Brårud Season 1</title>
+      <link>https://www.tvmaze.com/shows/95407/jul-pa-brarud</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95407/jul-pa-brarud|2026-11-22|HBO Max</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · BBC iPlayer · 22/11] The Witch Farm Season 1</title>
+      <link>https://www.tvmaze.com/shows/91198/the-witch-farm</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/91198/the-witch-farm|2026-11-22|BBC iPlayer</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
