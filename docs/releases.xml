@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:59:58 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · cinema · 16/11] Alice in Wonderland –Dive in Wonderland–</title>
@@ -18,6 +18,27 @@
       <title>&gt;&gt; [Movie · digital · 16/11] Darius Rucker: They Called Me Hootie</title>
       <link>https://www.themoviedb.org/movie/1822873</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1822873|2026-11-16|digital</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 16/11] Hard Debt</title>
+      <link>https://www.themoviedb.org/movie/1827385</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827385|2026-11-16|digital</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 16/11] One Last Walk</title>
+      <link>https://www.themoviedb.org/movie/1827469</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827469|2026-11-16|digital</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 16/11] Silent Speed</title>
+      <link>https://www.themoviedb.org/movie/1827345</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827345|2026-11-16|cinema</guid>
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -141,6 +162,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 17/11] Mike Ward: Modest</title>
+      <link>https://www.themoviedb.org/movie/1827471</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827471|2026-11-17|digital</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 17/11] The Beast</title>
       <link>https://www.themoviedb.org/movie/1185344</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1185344|2026-11-17|digital</guid>
@@ -204,6 +232,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 18/11] In Passing</title>
+      <link>https://www.themoviedb.org/movie/1822147</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1822147|2026-11-18|digital</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 18/11] Madden</title>
       <link>https://www.themoviedb.org/movie/1131943</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1131943|2026-11-18|digital</guid>
@@ -263,6 +298,13 @@
       <title>&gt;&gt; [TV series · Netflix · 18/11] Prawo Bestii Season 1</title>
       <link>https://www.tvmaze.com/shows/94993/prawo-bestii</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/94993/prawo-bestii|2026-11-18|Netflix</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Mango TV · 18/11] Taming the Husband Season 1</title>
+      <link>https://www.tvmaze.com/shows/91202/taming-the-husband</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/91202/taming-the-husband|2026-11-18|Mango TV</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -396,6 +438,13 @@
       <title>&gt;&gt; [Movie · digital · 20/11] Gipsy Kings Featuring Tonino Baliardo</title>
       <link>https://www.themoviedb.org/movie/1823971</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1823971|2026-11-20|digital</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 20/11] Hijos de la Oscuridad</title>
+      <link>https://www.themoviedb.org/movie/1818770</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1818770|2026-11-20|cinema</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -543,6 +592,13 @@
       <title>&gt;&gt; [Movie · cinema · 20/11] Transplant</title>
       <link>https://www.themoviedb.org/movie/1359254</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1359254|2026-11-20|cinema</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 20/11] Unbearable Christmas</title>
+      <link>https://www.themoviedb.org/movie/1458249</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1458249|2026-11-20|digital</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
