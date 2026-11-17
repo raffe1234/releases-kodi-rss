@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 02:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:53:10 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · digital · 17/11] Bad Ass Bear</title>
@@ -71,6 +71,20 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 17/11] Rolling Loud: The Movie</title>
+      <link>https://www.themoviedb.org/movie/1336166</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1336166|2026-11-17|digital</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 17/11] Serafima</title>
+      <link>https://www.themoviedb.org/movie/1827968</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827968|2026-11-17|digital</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 17/11] The Beast</title>
       <link>https://www.themoviedb.org/movie/1185344</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1185344|2026-11-17|digital</guid>
@@ -120,11 +134,25 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · Paramount+ · 17/11] He Said, She Said: Till Death Do Us Part Season 1</title>
+      <link>https://www.tvmaze.com/shows/95731/he-said-she-said-till-death-do-us-part</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95731/he-said-she-said-till-death-do-us-part|2026-11-17|Paramount+</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Hulu · 17/11] The Circle Season 8</title>
       <link>https://www.tvmaze.com/shows/45419/the-circle</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/45419/the-circle|2026-11-17|Hulu</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 18/11] Chair, Chair</title>
+      <link>https://www.themoviedb.org/movie/1827582</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827582|2026-11-18|digital</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
     </item>
     <item>
       <title>&gt;&gt; [Movie · digital · 18/11] Gentle Monster</title>
@@ -393,6 +421,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 20/11] Jingle Bells Wedding Bells</title>
+      <link>https://www.themoviedb.org/movie/1790656</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1790656|2026-11-20|digital</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · cinema · 20/11] Josephine</title>
       <link>https://www.themoviedb.org/movie/1299329</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1299329|2026-11-20|cinema</guid>
@@ -431,6 +466,13 @@
       <title>&gt;&gt; [Movie · digital · 20/11] On Behalf of My Son</title>
       <link>https://www.themoviedb.org/movie/1307474</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1307474|2026-11-20|digital</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 20/11] Painted Faces</title>
+      <link>https://www.themoviedb.org/movie/1769182</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1769182|2026-11-20|cinema</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -683,6 +725,13 @@
       <title>&gt;&gt; [Movie · digital · 23/11] Clashing Through the Snow</title>
       <link>https://www.themoviedb.org/movie/1611767</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1611767|2026-11-23|digital</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 23/11] The Lord of the Rings: The Rings of Power – Forging the One Ring</title>
+      <link>https://www.themoviedb.org/movie/1828101</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828101|2026-11-23|cinema</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
