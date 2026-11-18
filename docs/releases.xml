@@ -5,152 +5,19 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:37:00 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] Bad Ass Bear</title>
-      <link>https://www.themoviedb.org/movie/1817533</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1817533|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] Breaking the Cycle</title>
-      <link>https://www.themoviedb.org/movie/1748951</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1748951|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] Drink Coffee, Talk Fast</title>
-      <link>https://www.themoviedb.org/movie/1535652</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1535652|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 17/11] Hell's No Place for a Pretty Face</title>
-      <link>https://www.themoviedb.org/movie/1783442</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1783442|2026-11-17|cinema</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · disc · 17/11] Hook: Never, Never Ending</title>
-      <link>https://www.themoviedb.org/movie/1771194</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1771194|2026-11-17|disc</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] KILL/SAVE</title>
-      <link>https://www.themoviedb.org/movie/1798903</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1798903|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] Long Haired Businessmen</title>
-      <link>https://www.themoviedb.org/movie/1819503</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1819503|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 17/11] Miasmata</title>
-      <link>https://www.themoviedb.org/movie/1361326</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1361326|2026-11-17|cinema</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] Mike Ward: Modest</title>
-      <link>https://www.themoviedb.org/movie/1827471</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827471|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] Rolling Loud: The Movie</title>
-      <link>https://www.themoviedb.org/movie/1336166</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1336166|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] Serafima</title>
-      <link>https://www.themoviedb.org/movie/1827968</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827968|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] The Beast</title>
-      <link>https://www.themoviedb.org/movie/1185344</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1185344|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] The Eyes of Ghana</title>
-      <link>https://www.themoviedb.org/movie/1525208</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1525208|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] The Odyssey</title>
-      <link>https://www.themoviedb.org/movie/1368337</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1368337|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · disc · 17/11] The Odyssey</title>
-      <link>https://www.themoviedb.org/movie/1368337</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1368337|2026-11-17|disc</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] The Optimist</title>
-      <link>https://www.themoviedb.org/movie/1129188</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1129188|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] The River</title>
-      <link>https://www.themoviedb.org/movie/1805759</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1805759|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 17/11] When a Witness Recants</title>
-      <link>https://www.themoviedb.org/movie/1596270</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1596270|2026-11-17|digital</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Paramount+ · 17/11] He Said, She Said: Till Death Do Us Part Season 1</title>
-      <link>https://www.tvmaze.com/shows/95731/he-said-she-said-till-death-do-us-part</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95731/he-said-she-said-till-death-do-us-part|2026-11-17|Paramount+</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 17/11] The Circle Season 8</title>
-      <link>https://www.tvmaze.com/shows/45419/the-circle</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/45419/the-circle|2026-11-17|Hulu</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · digital · 18/11] Chair, Chair</title>
       <link>https://www.themoviedb.org/movie/1827582</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1827582|2026-11-18|digital</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 18/11] Chronic</title>
+      <link>https://www.themoviedb.org/movie/1828024</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828024|2026-11-18|cinema</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -172,6 +39,20 @@
       <title>&gt;&gt; [Movie · digital · 18/11] In Passing</title>
       <link>https://www.themoviedb.org/movie/1822147</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1822147|2026-11-18|digital</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 18/11] Lonely Boy Goes To a Rave</title>
+      <link>https://www.themoviedb.org/movie/1828611</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828611|2026-11-18|cinema</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 18/11] Madden</title>
+      <link>https://www.themoviedb.org/movie/1131943</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1131943|2026-11-18|cinema</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -631,6 +512,13 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · Crave · 20/11] Project Runway Canada Season 2</title>
+      <link>https://www.tvmaze.com/shows/84093/project-runway-canada</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/84093/project-runway-canada|2026-11-20|Crave</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Netflix · 20/11] Road Season 1</title>
       <link>https://www.tvmaze.com/shows/89972/road</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/89972/road|2026-11-20|Netflix</guid>
@@ -782,6 +670,181 @@
       <link>https://www.tvmaze.com/shows/95200/the-substitute</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95200/the-substitute|2026-11-23|TVING</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Adrenaline</title>
+      <link>https://www.themoviedb.org/movie/1048300</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1048300|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] All for Christmas</title>
+      <link>https://www.themoviedb.org/movie/1599329</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1599329|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] An Angel Messed Up My Christmas</title>
+      <link>https://www.themoviedb.org/movie/1827862</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827862|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Breeder</title>
+      <link>https://www.themoviedb.org/movie/1496696</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1496696|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Cameron</title>
+      <link>https://www.themoviedb.org/movie/1280313</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1280313|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · disc · 24/11] Devour</title>
+      <link>https://www.themoviedb.org/movie/1406253</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1406253|2026-11-24|disc</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · disc · 24/11] Filipiñana</title>
+      <link>https://www.themoviedb.org/movie/1417935</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1417935|2026-11-24|disc</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Fjord</title>
+      <link>https://www.themoviedb.org/movie/1401459</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1401459|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · disc · 24/11] Her Private Hell</title>
+      <link>https://www.themoviedb.org/movie/1469342</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1469342|2026-11-24|disc</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Kill the Robot to Escape</title>
+      <link>https://www.themoviedb.org/movie/1826098</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826098|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Nate Bargatze: Good for Nathan</title>
+      <link>https://www.themoviedb.org/movie/1824177</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1824177|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] One Last Order</title>
+      <link>https://www.themoviedb.org/movie/1655112</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1655112|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Rob Lowe: The Outsider</title>
+      <link>https://www.themoviedb.org/movie/1802703</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1802703|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Room Temperature</title>
+      <link>https://www.themoviedb.org/movie/1409423</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1409423|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · disc · 24/11] Room Temperature</title>
+      <link>https://www.themoviedb.org/movie/1409423</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1409423|2026-11-24|disc</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Run Terry Run</title>
+      <link>https://www.themoviedb.org/movie/1578210</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1578210|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Soy Boy: The Soyfather</title>
+      <link>https://www.themoviedb.org/movie/1819759</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1819759|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] The Awakening</title>
+      <link>https://www.themoviedb.org/movie/1299501</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1299501|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] The Buffalo Miracle</title>
+      <link>https://www.themoviedb.org/movie/1764131</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1764131|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] The Samurai and the Prisoner</title>
+      <link>https://www.themoviedb.org/movie/1620313</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1620313|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] The Social Reckoning</title>
+      <link>https://www.themoviedb.org/movie/1281331</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1281331|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Way of the Warrior Kid</title>
+      <link>https://www.themoviedb.org/movie/1280115</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1280115|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Wicker</title>
+      <link>https://www.themoviedb.org/movie/1195803</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1195803|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 24/11] Wings of Dread</title>
+      <link>https://www.themoviedb.org/movie/1424435</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1424435|2026-11-24|digital</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · ABC iview · 24/11] The Great Food Con Season 1</title>
+      <link>https://www.tvmaze.com/shows/94981/the-great-food-con</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/94981/the-great-food-con|2026-11-24|ABC iview</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
