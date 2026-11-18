@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:26:52 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · digital · 18/11] Chair, Chair</title>
@@ -337,13 +337,6 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · cinema · 20/11] November 1963</title>
-      <link>https://www.themoviedb.org/movie/1287520</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1287520|2026-11-20|cinema</guid>
-      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
       <title>&gt;&gt; [Movie · digital · 20/11] On Behalf of My Son</title>
       <link>https://www.themoviedb.org/movie/1307474</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1307474|2026-11-20|digital</guid>
@@ -543,6 +536,13 @@
       <title>&gt;&gt; [Movie · cinema · 21/11] Errand Guy</title>
       <link>https://www.themoviedb.org/movie/1804628</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1804628|2026-11-21|cinema</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 21/11] Grief</title>
+      <link>https://www.themoviedb.org/movie/1828886</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828886|2026-11-21|digital</guid>
       <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
