@@ -5,148 +5,8 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:13:06 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 18/11] Chair, Chair</title>
-      <link>https://www.themoviedb.org/movie/1827582</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827582|2026-11-18|digital</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 18/11] Chronic</title>
-      <link>https://www.themoviedb.org/movie/1828024</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828024|2026-11-18|cinema</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 18/11] Gentle Monster</title>
-      <link>https://www.themoviedb.org/movie/1473148</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1473148|2026-11-18|digital</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 18/11] Guarding Stars</title>
-      <link>https://www.themoviedb.org/movie/1551025</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1551025|2026-11-18|digital</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 18/11] In Passing</title>
-      <link>https://www.themoviedb.org/movie/1822147</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1822147|2026-11-18|digital</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 18/11] Lonely Boy Goes To a Rave</title>
-      <link>https://www.themoviedb.org/movie/1828611</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828611|2026-11-18|cinema</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 18/11] Madden</title>
-      <link>https://www.themoviedb.org/movie/1131943</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1131943|2026-11-18|cinema</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 18/11] Madden</title>
-      <link>https://www.themoviedb.org/movie/1131943</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1131943|2026-11-18|digital</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 18/11] The First Five Minutes... The Title Design Legacy of Dan Perri</title>
-      <link>https://www.themoviedb.org/movie/1815534</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1815534|2026-11-18|cinema</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 18/11] The Holdout</title>
-      <link>https://www.themoviedb.org/movie/1826084</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826084|2026-11-18|cinema</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 18/11] The Hotline</title>
-      <link>https://www.themoviedb.org/movie/1627922</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1627922|2026-11-18|digital</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Amazon MX Player · 18/11] Campus Diaries Season 2</title>
-      <link>https://www.tvmaze.com/shows/59979/campus-diaries</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/59979/campus-diaries|2026-11-18|Amazon MX Player</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 18/11] Gordon Season 1</title>
-      <link>https://www.tvmaze.com/shows/95447/gordon</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95447/gordon|2026-11-18|Netflix</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Youku · 18/11] Her Willing Subject Season 1</title>
-      <link>https://www.tvmaze.com/shows/95689/her-willing-subject</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95689/her-willing-subject|2026-11-18|Youku</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 18/11] Os 12 Signos de Valentina Season 1</title>
-      <link>https://www.tvmaze.com/shows/95296/os-12-signos-de-valentina</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95296/os-12-signos-de-valentina|2026-11-18|Netflix</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 18/11] Prawo Bestii Season 1</title>
-      <link>https://www.tvmaze.com/shows/94993/prawo-bestii</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/94993/prawo-bestii|2026-11-18|Netflix</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Hulu · 18/11] Somos Así Season 1</title>
-      <link>https://www.tvmaze.com/shows/95638/somos-asi</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95638/somos-asi|2026-11-18|Hulu</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Mango TV · 18/11] Taming the Husband Season 1</title>
-      <link>https://www.tvmaze.com/shows/91202/taming-the-husband</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/91202/taming-the-husband|2026-11-18|Mango TV</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 18/11] Vienna Game Season 1</title>
-      <link>https://www.tvmaze.com/shows/75517/vienna-game</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/75517/vienna-game|2026-11-18|Disney+</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 18/11] Win the Mall Season 1</title>
-      <link>https://www.tvmaze.com/shows/90831/win-the-mall</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/90831/win-the-mall|2026-11-18|Netflix</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 19/11] Dark Noon</title>
       <link>https://www.themoviedb.org/movie/1809505</link>
@@ -708,6 +568,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · disc · 24/11] Cannibal Holocaust</title>
+      <link>https://www.themoviedb.org/movie/8689</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/8689|2026-11-24|disc</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · disc · 24/11] Devour</title>
       <link>https://www.themoviedb.org/movie/1406253</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1406253|2026-11-24|disc</guid>
@@ -845,6 +712,111 @@
       <link>https://www.tvmaze.com/shows/94981/the-great-food-con</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/94981/the-great-food-con|2026-11-24|ABC iview</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 25/11] All of a Sudden</title>
+      <link>https://www.themoviedb.org/movie/1476614</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1476614|2026-11-25|cinema</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 25/11] Focker-in-Law</title>
+      <link>https://www.themoviedb.org/movie/1400336</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1400336|2026-11-25|cinema</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 25/11] Hershey</title>
+      <link>https://www.themoviedb.org/movie/1461490</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1461490|2026-11-25|cinema</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 25/11] Hexed</title>
+      <link>https://www.themoviedb.org/movie/1538497</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1538497|2026-11-25|cinema</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 25/11] Lilo &amp; Scratch</title>
+      <link>https://www.themoviedb.org/movie/1720486</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1720486|2026-11-25|cinema</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] Love Is All You Need</title>
+      <link>https://www.themoviedb.org/movie/1804520</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1804520|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] PERFECT STORM : THE MOVIE</title>
+      <link>https://www.themoviedb.org/movie/1811423</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1811423|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] Shane V</title>
+      <link>https://www.themoviedb.org/movie/1769056</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1769056|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] Starlight</title>
+      <link>https://www.themoviedb.org/movie/1828420</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828420|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 25/11] THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH</title>
+      <link>https://www.themoviedb.org/movie/1457866</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1457866|2026-11-25|cinema</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] The Mosquito Bowl</title>
+      <link>https://www.themoviedb.org/movie/1458300</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1458300|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] The Slightest Touch</title>
+      <link>https://www.themoviedb.org/movie/1632599</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1632599|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] There Goes My Childhood: The Seven Awesome Kids Story</title>
+      <link>https://www.themoviedb.org/movie/1814378</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1814378|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Prime Video · 25/11] Blade Runner 2099 Season 1</title>
+      <link>https://www.tvmaze.com/shows/60458/blade-runner-2099</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/60458/blade-runner-2099|2026-11-25|Prime Video</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · GagaOOLala · 25/11] Double Shuffle Season 1</title>
+      <link>https://www.tvmaze.com/shows/94526/double-shuffle</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/94526/double-shuffle|2026-11-25|GagaOOLala</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
