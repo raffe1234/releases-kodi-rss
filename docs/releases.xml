@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 01:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:33:45 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · cinema · 19/11] Dark Noon</title>
@@ -36,9 +36,23 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 19/11] Scission</title>
+      <link>https://www.themoviedb.org/movie/1829436</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1829436|2026-11-19|digital</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 19/11] The Great Lake Bums</title>
       <link>https://www.themoviedb.org/movie/1810033</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1810033|2026-11-19|digital</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 19/11] The Other World</title>
+      <link>https://www.themoviedb.org/movie/1830386</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1830386|2026-11-19|digital</guid>
       <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -95,6 +109,13 @@
       <title>&gt;&gt; [Movie · cinema · 20/11] 70 Syaal</title>
       <link>https://www.themoviedb.org/movie/1650675</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1650675|2026-11-20|cinema</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 20/11] A Very Mythical Holiday Special</title>
+      <link>https://www.themoviedb.org/movie/1830258</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1830258|2026-11-20|digital</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -344,6 +365,13 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · VivaOne · 20/11] Fight for My Way Season 1</title>
+      <link>https://www.tvmaze.com/shows/95756/fight-for-my-way</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95756/fight-for-my-way|2026-11-20|VivaOne</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Prime Video · 20/11] Melania, The Series Season 1</title>
       <link>https://www.tvmaze.com/shows/95452/melania-the-series</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95452/melania-the-series|2026-11-20|Prime Video</guid>
@@ -368,6 +396,13 @@
       <title>&gt;&gt; [TV series · Crave · 20/11] Project Runway Canada Season 2</title>
       <link>https://www.tvmaze.com/shows/84093/project-runway-canada</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/84093/project-runway-canada|2026-11-20|Crave</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · iQIYI · 20/11] River of No Return Season 1</title>
+      <link>https://www.tvmaze.com/shows/87750/river-of-no-return</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/87750/river-of-no-return|2026-11-20|iQIYI</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -468,6 +503,13 @@
       <guid isPermaLink="false">https://www.tvmaze.com/shows/91198/the-witch-farm|2026-11-22|BBC iPlayer</guid>
       <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 23/11] Chiara Ferragni: Front Facing</title>
+      <link>https://www.themoviedb.org/movie/1829270</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1829270|2026-11-23|digital</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
     </item>
     <item>
       <title>&gt;&gt; [Movie · digital · 23/11] Clashing Through the Snow</title>
