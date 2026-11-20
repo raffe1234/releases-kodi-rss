@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:08:45 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · cinema · 20/11] 70 Syaal</title>
@@ -88,6 +88,13 @@
       <title>&gt;&gt; [Movie · cinema · 20/11] Josephine</title>
       <link>https://www.themoviedb.org/movie/1299329</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1299329|2026-11-20|cinema</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 20/11] Letters This Christmas</title>
+      <link>https://www.themoviedb.org/movie/1650093</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1650093|2026-11-20|cinema</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -260,6 +267,13 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · YouTube · 20/11] Dhindora Season 2</title>
+      <link>https://www.tvmaze.com/shows/70529/dhindora</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/70529/dhindora|2026-11-20|YouTube</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · VivaOne · 20/11] Fight for My Way Season 1</title>
       <link>https://www.tvmaze.com/shows/95756/fight-for-my-way</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95756/fight-for-my-way|2026-11-20|VivaOne</guid>
@@ -302,16 +316,16 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
-      <title>&gt;&gt; [TV series · Netflix · 20/11] Road Season 1</title>
-      <link>https://www.tvmaze.com/shows/89972/road</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/89972/road|2026-11-20|Netflix</guid>
+      <title>&gt;&gt; [TV series · Youku · 20/11] Silent Echoes Season 1</title>
+      <link>https://www.tvmaze.com/shows/75892/silent-echoes</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/75892/silent-echoes|2026-11-20|Youku</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
     <item>
-      <title>&gt;&gt; [TV series · Youku · 20/11] Silent Echoes Season 1</title>
-      <link>https://www.tvmaze.com/shows/75892/silent-echoes</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/75892/silent-echoes|2026-11-20|Youku</guid>
+      <title>&gt;&gt; [TV series · Netflix · 20/11] The Blue Road Season 1</title>
+      <link>https://www.tvmaze.com/shows/89972/the-blue-road</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/89972/the-blue-road|2026-11-20|Netflix</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -673,7 +687,7 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · cinema · 25/11] Focker-in-Law</title>
+      <title>&gt;&gt; [Movie · cinema · 25/11] Focker In-Law</title>
       <link>https://www.themoviedb.org/movie/1400336</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1400336|2026-11-25|cinema</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
