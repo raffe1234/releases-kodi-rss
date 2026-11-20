@@ -5,106 +5,8 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 16:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:16:12 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 19/11] Dark Noon</title>
-      <link>https://www.themoviedb.org/movie/1809505</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1809505|2026-11-19|cinema</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 19/11] ENE Repeat</title>
-      <link>https://www.themoviedb.org/movie/1505644</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1505644|2026-11-19|cinema</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 19/11] Michael Michael Michael</title>
-      <link>https://www.themoviedb.org/movie/1813770</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1813770|2026-11-19|digital</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 19/11] O.M: Operation Mole</title>
-      <link>https://www.themoviedb.org/movie/1384528</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1384528|2026-11-19|cinema</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 19/11] Scission</title>
-      <link>https://www.themoviedb.org/movie/1829436</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1829436|2026-11-19|digital</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 19/11] The Great Lake Bums</title>
-      <link>https://www.themoviedb.org/movie/1810033</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1810033|2026-11-19|digital</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 19/11] The Other World</title>
-      <link>https://www.themoviedb.org/movie/1830386</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1830386|2026-11-19|digital</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 19/11] The Pursuit: F1 ACADEMY</title>
-      <link>https://www.themoviedb.org/movie/1804968</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1804968|2026-11-19|digital</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Crave · 19/11] Canada's Drag Race Season 7</title>
-      <link>https://www.tvmaze.com/shows/47997/canadas-drag-race</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/47997/canadas-drag-race|2026-11-19|Crave</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Peacock · 19/11] Nelly &amp; Ashanti: We Belong Together Season 2</title>
-      <link>https://www.tvmaze.com/shows/84616/nelly-ashanti-we-belong-together</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/84616/nelly-ashanti-we-belong-together|2026-11-19|Peacock</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 19/11] The Altruists Season 1</title>
-      <link>https://www.tvmaze.com/shows/85058/the-altruists</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/85058/the-altruists|2026-11-19|Netflix</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Tencent QQ · 19/11] The Glory Fades Season 2</title>
-      <link>https://www.tvmaze.com/shows/90079/the-glory-fades</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/90079/the-glory-fades|2026-11-19|Tencent QQ</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · TOD · 19/11] Çiçekçi Kız Season 1</title>
-      <link>https://www.tvmaze.com/shows/94953/cicekci-kiz</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/94953/cicekci-kiz|2026-11-19|TOD</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Kyivstar TV · 19/11] Страшна сила Season 1</title>
-      <link>https://www.tvmaze.com/shows/95002/strasna-sila</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95002/strasna-sila|2026-11-19|Kyivstar TV</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 20/11] 70 Syaal</title>
       <link>https://www.themoviedb.org/movie/1650675</link>
@@ -165,13 +67,6 @@
       <title>&gt;&gt; [Movie · digital · 20/11] Gipsy Kings Featuring Tonino Baliardo</title>
       <link>https://www.themoviedb.org/movie/1823971</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1823971|2026-11-20|digital</guid>
-      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 20/11] Hijos de la Oscuridad</title>
-      <link>https://www.themoviedb.org/movie/1818770</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1818770|2026-11-20|cinema</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -414,6 +309,13 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · Youku · 20/11] Silent Echoes Season 1</title>
+      <link>https://www.tvmaze.com/shows/75892/silent-echoes</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/75892/silent-echoes|2026-11-20|Youku</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Paramount+ · 20/11] Yellowjackets Season 4</title>
       <link>https://www.tvmaze.com/shows/36672/yellowjackets</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/36672/yellowjackets|2026-11-20|Paramount+</guid>
@@ -515,6 +417,13 @@
       <title>&gt;&gt; [Movie · digital · 23/11] Clashing Through the Snow</title>
       <link>https://www.themoviedb.org/movie/1611767</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1611767|2026-11-23|digital</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 23/11] Kingdom of Dust</title>
+      <link>https://www.themoviedb.org/movie/1831414</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1831414|2026-11-23|digital</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -859,6 +768,97 @@
       <link>https://www.tvmaze.com/shows/94526/double-shuffle</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/94526/double-shuffle|2026-11-25|GagaOOLala</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] A Friendly Massacre</title>
+      <link>https://www.themoviedb.org/movie/1831436</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1831436|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] FOOSED</title>
+      <link>https://www.themoviedb.org/movie/1821656</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1821656|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] Going Going Gone: The MST3K Auction at Potter &amp; Potter</title>
+      <link>https://www.themoviedb.org/movie/1812168</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1812168|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] Path of Titans 4 - DUCK DYNASTY</title>
+      <link>https://www.themoviedb.org/movie/1741953</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1741953|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] Perry the Christmas Penguin</title>
+      <link>https://www.themoviedb.org/movie/1806071</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1806071|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] The JLO Show</title>
+      <link>https://www.themoviedb.org/movie/1773727</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1773727|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · 5 · 26/11] Britain's Hotel Murders Season 2</title>
+      <link>https://www.tvmaze.com/shows/85764/britains-hotel-murders</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/85764/britains-hotel-murders|2026-11-26|5</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 26/11] Fool Night Season 1</title>
+      <link>https://www.tvmaze.com/shows/92747/fool-night</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/92747/fool-night|2026-11-26|Netflix</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Peacock · 26/11] Macy's Thanksgiving Day Parade Season 2026</title>
+      <link>https://www.tvmaze.com/shows/22447/macys-thanksgiving-day-parade</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/22447/macys-thanksgiving-day-parade|2026-11-26|Peacock</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Disney+ · 26/11] Mickey Mouse Specials Season 2026</title>
+      <link>https://www.tvmaze.com/shows/70700/mickey-mouse-specials</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/70700/mickey-mouse-specials|2026-11-26|Disney+</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Now · 26/11] Sweetpea Season 2</title>
+      <link>https://www.tvmaze.com/shows/46251/sweetpea</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/46251/sweetpea|2026-11-26|Now</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 26/11] The Hunting Wives Season 2</title>
+      <link>https://www.tvmaze.com/shows/72427/the-hunting-wives</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/72427/the-hunting-wives|2026-11-26|Netflix</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · КИОН · 26/11] Сталин Season 1</title>
+      <link>https://www.tvmaze.com/shows/93849/stalin</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/93849/stalin|2026-11-26|КИОН</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
