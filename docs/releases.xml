@@ -5,68 +5,19 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 15:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:47:35 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 21/11] BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING</title>
-      <link>https://www.themoviedb.org/movie/1820083</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1820083|2026-11-21|cinema</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 21/11] Errand Guy</title>
-      <link>https://www.themoviedb.org/movie/1804628</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1804628|2026-11-21|cinema</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 21/11] Grief</title>
-      <link>https://www.themoviedb.org/movie/1828886</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828886|2026-11-21|digital</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 21/11] How to Avoid Elves?</title>
-      <link>https://www.themoviedb.org/movie/1826406</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826406|2026-11-21|digital</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 21/11] The Dark Days of Cassidy Krystian</title>
-      <link>https://www.themoviedb.org/movie/1808579</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1808579|2026-11-21|cinema</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 21/11] Where the Pine Cones Lie</title>
-      <link>https://www.themoviedb.org/movie/1809749</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1809749|2026-11-21|digital</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Tubi · 21/11] Editorially Speaking Season 1</title>
-      <link>https://www.tvmaze.com/shows/95157/editorially-speaking</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95157/editorially-speaking|2026-11-21|Tubi</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · ESPN+ · 21/11] Florida Classic Season 46</title>
-      <link>https://www.tvmaze.com/shows/72780/florida-classic</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/72780/florida-classic|2026-11-21|ESPN+</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 22/11] Peppa Pig: Perfect Holiday</title>
       <link>https://www.themoviedb.org/movie/1650896</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1650896|2026-11-22|cinema</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 22/11] Tennessee Ride Along</title>
+      <link>https://www.themoviedb.org/movie/1836799</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1836799|2026-11-22|digital</guid>
       <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -242,13 +193,6 @@
       <title>&gt;&gt; [Movie · disc · 24/11] Her Private Hell</title>
       <link>https://www.themoviedb.org/movie/1469342</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1469342|2026-11-24|disc</guid>
-      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 24/11] Kill the Robot to Escape</title>
-      <link>https://www.themoviedb.org/movie/1826098</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1826098|2026-11-24|digital</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -747,6 +691,48 @@
       <link>https://www.tvmaze.com/shows/95468/wintertime</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95468/wintertime|2026-11-27|wavve</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 28/11] Beneath the Skin</title>
+      <link>https://www.themoviedb.org/movie/1821166</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1821166|2026-11-28|digital</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 28/11] Disney Adventure: Charting a New Course</title>
+      <link>https://www.themoviedb.org/movie/1810889</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1810889|2026-11-28|digital</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 28/11] my hamster video</title>
+      <link>https://www.themoviedb.org/movie/1833997</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1833997|2026-11-28|cinema</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 28/11] WWE Survivor Series: WarGames 2026</title>
+      <link>https://www.themoviedb.org/movie/1741419</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1741419|2026-11-28|digital</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 28/11] Salish's 12 Games of Christmas Season 1</title>
+      <link>https://www.tvmaze.com/shows/95533/salishs-12-games-of-christmas</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95533/salishs-12-games-of-christmas|2026-11-28|Netflix</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Смотрим · 28/11] Арсеньев Season 1</title>
+      <link>https://www.tvmaze.com/shows/93640/arsenev</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/93640/arsenev|2026-11-28|Смотрим</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
