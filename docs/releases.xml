@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:47:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:21:41 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · cinema · 21/11] BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING</title>
@@ -330,6 +330,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · cinema · 24/11] The Vile</title>
+      <link>https://www.themoviedb.org/movie/1500908</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1500908|2026-11-24|cinema</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 24/11] Way of the Warrior Kid</title>
       <link>https://www.themoviedb.org/movie/1280115</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1280115|2026-11-24|digital</guid>
@@ -641,6 +648,13 @@
       <title>&gt;&gt; [Movie · cinema · 27/11] Mysaa</title>
       <link>https://www.themoviedb.org/movie/1504630</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1504630|2026-11-27|cinema</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 27/11] On the Last Day of Christmas</title>
+      <link>https://www.themoviedb.org/movie/1828828</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828828|2026-11-27|digital</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
