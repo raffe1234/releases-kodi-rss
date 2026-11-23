@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:14:32 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · digital · 23/11] Calling Card</title>
@@ -60,13 +60,6 @@
       <title>&gt;&gt; [TV series · Peacock · 23/11] Dig Season 1</title>
       <link>https://www.tvmaze.com/shows/84536/dig</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/84536/dig|2026-11-23|Peacock</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Viu · 23/11] King of Bar Host Season 1</title>
-      <link>https://www.tvmaze.com/shows/95471/king-of-bar-host</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95471/king-of-bar-host|2026-11-23|Viu</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -386,6 +379,13 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · YouTube · 25/11] The Challenge: Home Turf Season 2</title>
+      <link>https://www.tvmaze.com/shows/74426/the-challenge-home-turf</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/74426/the-challenge-home-turf|2026-11-25|YouTube</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Start · 25/11] Хутор Season 2</title>
       <link>https://www.tvmaze.com/shows/80028/hutor</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/80028/hutor|2026-11-25|Start</guid>
@@ -396,6 +396,13 @@
       <title>&gt;&gt; [Movie · digital · 26/11] A Friendly Massacre</title>
       <link>https://www.themoviedb.org/movie/1831436</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1831436|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] A Memorable Christmas</title>
+      <link>https://www.themoviedb.org/movie/1801857</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1801857|2026-11-26|digital</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -445,6 +452,13 @@
       <title>&gt;&gt; [TV series · Netflix · 26/11] Fool Night Season 1</title>
       <link>https://www.tvmaze.com/shows/92747/fool-night</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/92747/fool-night|2026-11-26|Netflix</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 26/11] Legevakta Season 1</title>
+      <link>https://www.tvmaze.com/shows/95874/legevakta</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95874/legevakta|2026-11-26|Netflix</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -561,13 +575,6 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · cinema · 27/11] Mysaa</title>
-      <link>https://www.themoviedb.org/movie/1504630</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1504630|2026-11-27|cinema</guid>
-      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
       <title>&gt;&gt; [Movie · digital · 27/11] On the Last Day of Christmas</title>
       <link>https://www.themoviedb.org/movie/1828828</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1828828|2026-11-27|digital</guid>
@@ -599,13 +606,6 @@
       <title>&gt;&gt; [Movie · digital · 27/11] The Hunchback, Soul of Paris</title>
       <link>https://www.themoviedb.org/movie/1480665</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1480665|2026-11-27|digital</guid>
-      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · disc · 27/11] THE INTERVIEW FINALE</title>
-      <link>https://www.themoviedb.org/movie/1820274</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1820274|2026-11-27|disc</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -725,6 +725,13 @@
       <title>&gt;&gt; [Movie · digital · 29/11] Kosmic Kidnap</title>
       <link>https://www.themoviedb.org/movie/1839252</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1839252|2026-11-29|digital</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 29/11] SHOUT!</title>
+      <link>https://www.themoviedb.org/movie/1839698</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1839698|2026-11-29|digital</guid>
       <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
