@@ -5,63 +5,14 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:18:46 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
-      <title>&gt;&gt; [Movie · digital · 22/11] Lessons for an American Protest</title>
-      <link>https://www.themoviedb.org/movie/1837103</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1837103|2026-11-22|digital</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
+      <title>&gt;&gt; [Movie · digital · 23/11] Calling Card</title>
+      <link>https://www.themoviedb.org/movie/1839306</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1839306|2026-11-23|digital</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 22/11] Love that Remains</title>
-      <link>https://www.themoviedb.org/movie/1837131</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1837131|2026-11-22|cinema</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 22/11] Peppa Pig: Perfect Holiday</title>
-      <link>https://www.themoviedb.org/movie/1650896</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1650896|2026-11-22|cinema</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 22/11] Tennessee Ride Along</title>
-      <link>https://www.themoviedb.org/movie/1836799</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1836799|2026-11-22|digital</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 22/11] Vive le Punk</title>
-      <link>https://www.themoviedb.org/movie/1726668</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1726668|2026-11-22|cinema</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · HBO Max · 22/11] Jul på Brårud Season 1</title>
-      <link>https://www.tvmaze.com/shows/95407/jul-pa-brarud</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95407/jul-pa-brarud|2026-11-22|HBO Max</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Tencent QQ · 22/11] The Qinling Bronze Occult Chronicles Season 2</title>
-      <link>https://www.tvmaze.com/shows/91460/the-qinling-bronze-occult-chronicles</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/91460/the-qinling-bronze-occult-chronicles|2026-11-22|Tencent QQ</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · BBC iPlayer · 22/11] The Witch Farm Season 1</title>
-      <link>https://www.tvmaze.com/shows/91198/the-witch-farm</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/91198/the-witch-farm|2026-11-22|BBC iPlayer</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
     </item>
     <item>
       <title>&gt;&gt; [Movie · digital · 23/11] Chiara Ferragni: Front Facing</title>
@@ -435,6 +386,13 @@
       <description>Source: TVmaze</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · Start · 25/11] Хутор Season 2</title>
+      <link>https://www.tvmaze.com/shows/80028/hutor</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/80028/hutor|2026-11-25|Start</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 26/11] A Friendly Massacre</title>
       <link>https://www.themoviedb.org/movie/1831436</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1831436|2026-11-26|digital</guid>
@@ -687,6 +645,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · cinema · 27/11] Who Is Still Alive</title>
+      <link>https://www.themoviedb.org/movie/1520514</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1520514|2026-11-27|cinema</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Prime Video · 27/11] Alan Carr's Great Big Bucket List Season 1</title>
       <link>https://www.tvmaze.com/shows/95442/alan-carrs-great-big-bucket-list</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95442/alan-carrs-great-big-bucket-list|2026-11-27|Prime Video</guid>
@@ -747,6 +712,41 @@
       <link>https://www.tvmaze.com/shows/93640/arsenev</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/93640/arsenev|2026-11-28|Смотрим</guid>
       <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 29/11] Holiday Ever After: A Disney World Wish Come True</title>
+      <link>https://www.themoviedb.org/movie/1594516</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1594516|2026-11-29|digital</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 29/11] Kosmic Kidnap</title>
+      <link>https://www.themoviedb.org/movie/1839252</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1839252|2026-11-29|digital</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · ABC iview · 29/11] Choir of Hard Knocks Season 2</title>
+      <link>https://www.tvmaze.com/shows/95806/choir-of-hard-knocks</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95806/choir-of-hard-knocks|2026-11-29|ABC iview</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · PBS Passport · 29/11] Miss Scarlet Season 7</title>
+      <link>https://www.tvmaze.com/shows/41532/miss-scarlet</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/41532/miss-scarlet|2026-11-29|PBS Passport</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Tencent QQ · 29/11] The Melody of Love Season 1</title>
+      <link>https://www.tvmaze.com/shows/80199/the-melody-of-love</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/80199/the-melody-of-love|2026-11-29|Tencent QQ</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
