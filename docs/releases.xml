@@ -5,85 +5,8 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 19:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 04:18:21 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 23/11] Calling Card</title>
-      <link>https://www.themoviedb.org/movie/1839306</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1839306|2026-11-23|digital</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 23/11] Chiara Ferragni: Front Facing</title>
-      <link>https://www.themoviedb.org/movie/1829270</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1829270|2026-11-23|digital</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 23/11] Clashing Through the Snow</title>
-      <link>https://www.themoviedb.org/movie/1611767</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1611767|2026-11-23|digital</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 23/11] Kingdom of Dust</title>
-      <link>https://www.themoviedb.org/movie/1831414</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1831414|2026-11-23|digital</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 23/11] Pure Elegance Tour: Live at History</title>
-      <link>https://www.themoviedb.org/movie/1833379</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1833379|2026-11-23|digital</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 23/11] The Symphony of Dance</title>
-      <link>https://www.themoviedb.org/movie/1674241</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1674241|2026-11-23|digital</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · RTP Play · 23/11] Amici Season 1</title>
-      <link>https://www.tvmaze.com/shows/95633/amici</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95633/amici|2026-11-23|RTP Play</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Peacock · 23/11] Dig Season 1</title>
-      <link>https://www.tvmaze.com/shows/84536/dig</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/84536/dig|2026-11-23|Peacock</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · BBC iPlayer · 23/11] Lucy Worsley's Keys to the Castle Season 1</title>
-      <link>https://www.tvmaze.com/shows/95692/lucy-worsleys-keys-to-the-castle</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95692/lucy-worsleys-keys-to-the-castle|2026-11-23|BBC iPlayer</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 23/11] Sesame Street Season 57</title>
-      <link>https://www.tvmaze.com/shows/6544/sesame-street</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/6544/sesame-street|2026-11-23|Netflix</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · TVING · 23/11] The Substitute Season 1</title>
-      <link>https://www.tvmaze.com/shows/95200/the-substitute</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95200/the-substitute|2026-11-23|TVING</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · digital · 24/11] Adrenaline</title>
       <link>https://www.themoviedb.org/movie/1048300</link>
@@ -277,6 +200,13 @@
       <title>&gt;&gt; [Movie · cinema · 25/11] All of a Sudden</title>
       <link>https://www.themoviedb.org/movie/1476614</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1476614|2026-11-25|cinema</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] Evidently Chickentown</title>
+      <link>https://www.themoviedb.org/movie/1838403</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1838403|2026-11-25|digital</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -487,6 +417,13 @@
       <title>&gt;&gt; [TV series · Netflix · 26/11] The Hunting Wives Season 2</title>
       <link>https://www.tvmaze.com/shows/72427/the-hunting-wives</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/72427/the-hunting-wives|2026-11-26|Netflix</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 26/11] Toos: De van der Valk ontvoering Season 1</title>
+      <link>https://www.tvmaze.com/shows/95912/toos-de-van-der-valk-ontvoering</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95912/toos-de-van-der-valk-ontvoering|2026-11-26|Netflix</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -754,6 +691,83 @@
       <link>https://www.tvmaze.com/shows/80199/the-melody-of-love</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/80199/the-melody-of-love|2026-11-29|Tencent QQ</guid>
       <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 30/11] Andrew Lloyd Webber's Starlight Express: Live On-Stage</title>
+      <link>https://www.themoviedb.org/movie/1748001</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1748001|2026-11-30|cinema</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 30/11] Evergreen and Ever After</title>
+      <link>https://www.themoviedb.org/movie/1841154</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1841154|2026-11-30|digital</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 30/11] Family Guy The Peter Clause</title>
+      <link>https://www.themoviedb.org/movie/1827764</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1827764|2026-11-30|digital</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 30/11] Friend to Me and the Sea</title>
+      <link>https://www.themoviedb.org/movie/1839799</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1839799|2026-11-30|digital</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 30/11] SP-2125</title>
+      <link>https://www.themoviedb.org/movie/1652990</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1652990|2026-11-30|digital</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 30/11] The Influencer Project</title>
+      <link>https://www.themoviedb.org/movie/1654086</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1654086|2026-11-30|digital</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · disc · 30/11] The Influencer Project</title>
+      <link>https://www.themoviedb.org/movie/1654086</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1654086|2026-11-30|disc</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · disc · 30/11] THE INTERVIEW FINALE</title>
+      <link>https://www.themoviedb.org/movie/1820274</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1820274|2026-11-30|disc</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 30/11] The Wonderful Wizard Of Ha's</title>
+      <link>https://www.themoviedb.org/movie/1699787</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1699787|2026-11-30|cinema</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 30/11] Alle mot Alle Julespesial Season 5</title>
+      <link>https://www.tvmaze.com/shows/59377/alle-mot-alle-julespesial</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/59377/alle-mot-alle-julespesial|2026-11-30|HBO Max</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Prime Video · 30/11] The Boy Who Stole Billions? Season 1</title>
+      <link>https://www.tvmaze.com/shows/94942/the-boy-who-stole-billions</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/94942/the-boy-who-stole-billions|2026-11-30|Prime Video</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
