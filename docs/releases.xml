@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 04:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:53:28 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · digital · 24/11] Adrenaline</title>
@@ -540,6 +540,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 27/11] The Fence</title>
+      <link>https://www.themoviedb.org/movie/1517994</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1517994|2026-11-27|digital</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 27/11] The Hunchback, Soul of Paris</title>
       <link>https://www.themoviedb.org/movie/1480665</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1480665|2026-11-27|digital</guid>
@@ -608,6 +615,13 @@
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95468/wintertime|2026-11-27|wavve</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 28/11] Before We Break: One Last Shot</title>
+      <link>https://www.themoviedb.org/movie/1841922</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1841922|2026-11-28|digital</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
     </item>
     <item>
       <title>&gt;&gt; [Movie · digital · 28/11] Beneath the Skin</title>
