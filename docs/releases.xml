@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Nov 2026 03:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:57:48 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · cinema · 25/11] All of a Sudden</title>
@@ -57,6 +57,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] NFL Netflix Gameday: Thanksgiving Eve, Packers vs. Rams</title>
+      <link>https://www.themoviedb.org/movie/1843934</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1843934|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 25/11] PERFECT STORM : THE MOVIE</title>
       <link>https://www.themoviedb.org/movie/1811423</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1811423|2026-11-25|digital</guid>
@@ -74,6 +81,13 @@
       <title>&gt;&gt; [Movie · digital · 25/11] Starlight</title>
       <link>https://www.themoviedb.org/movie/1828420</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1828420|2026-11-25|digital</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 25/11] Stuffed</title>
+      <link>https://www.themoviedb.org/movie/1845485</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1845485|2026-11-25|digital</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -106,16 +120,30 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [TV series · Prime Video · 25/11] Blade Runner 2099 Season 1</title>
-      <link>https://www.tvmaze.com/shows/60458/blade-runner-2099</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/60458/blade-runner-2099|2026-11-25|Prime Video</guid>
+      <title>&gt;&gt; [Movie · digital · 25/11] Troupe!</title>
+      <link>https://www.themoviedb.org/movie/1843448</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1843448|2026-11-25|digital</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
+      <description>Source: TMDB</description>
     </item>
     <item>
       <title>&gt;&gt; [TV series · GagaOOLala · 25/11] Double Shuffle Season 1</title>
       <link>https://www.tvmaze.com/shows/94526/double-shuffle</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/94526/double-shuffle|2026-11-25|GagaOOLala</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 25/11] Ilhados com a Sogra Season 4</title>
+      <link>https://www.tvmaze.com/shows/71805/ilhados-com-a-sogra</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/71805/ilhados-com-a-sogra|2026-11-25|Netflix</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Streamz · 25/11] Missie Verhulst Season 1</title>
+      <link>https://www.tvmaze.com/shows/95985/missie-verhulst</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95985/missie-verhulst|2026-11-25|Streamz</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -141,13 +169,6 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] A Memorable Christmas</title>
-      <link>https://www.themoviedb.org/movie/1801857</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1801857|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
       <title>&gt;&gt; [Movie · digital · 26/11] FOOSED</title>
       <link>https://www.themoviedb.org/movie/1821656</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1821656|2026-11-26|digital</guid>
@@ -158,6 +179,13 @@
       <title>&gt;&gt; [Movie · digital · 26/11] Going Going Gone: The MST3K Auction at Potter &amp; Potter</title>
       <link>https://www.themoviedb.org/movie/1812168</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1812168|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] Love and Order</title>
+      <link>https://www.themoviedb.org/movie/1805199</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1805199|2026-11-26|digital</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -214,6 +242,13 @@
       <title>&gt;&gt; [TV series · Disney+ · 26/11] Mickey Mouse Specials Season 2026</title>
       <link>https://www.tvmaze.com/shows/70700/mickey-mouse-specials</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/70700/mickey-mouse-specials|2026-11-26|Disney+</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 26/11] Paskong Pinoy Season 1</title>
+      <link>https://www.tvmaze.com/shows/95988/paskong-pinoy</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95988/paskong-pinoy|2026-11-26|Netflix</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -379,13 +414,6 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · digital · 27/11] The Tupac Tapes With Angie Martinez</title>
-      <link>https://www.themoviedb.org/movie/1823449</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1823449|2026-11-27|digital</guid>
-      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
       <title>&gt;&gt; [Movie · digital · 27/11] The Wicked Hour</title>
       <link>https://www.themoviedb.org/movie/1626719</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1626719|2026-11-27|digital</guid>
@@ -414,6 +442,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · BBC iPlayer · 27/11] A Ghost Story for Christmas Season 2026</title>
+      <link>https://www.tvmaze.com/shows/23817/a-ghost-story-for-christmas</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/23817/a-ghost-story-for-christmas|2026-11-27|BBC iPlayer</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Prime Video · 27/11] Alan Carr's Great Big Bucket List Season 1</title>
       <link>https://www.tvmaze.com/shows/95442/alan-carrs-great-big-bucket-list</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95442/alan-carrs-great-big-bucket-list|2026-11-27|Prime Video</guid>
@@ -424,6 +459,27 @@
       <title>&gt;&gt; [TV series · HBO Max · 27/11] Batwheels Season 4</title>
       <link>https://www.tvmaze.com/shows/51042/batwheels</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/51042/batwheels|2026-11-27|HBO Max</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 27/11] Den forbandede dyrepark Season 1</title>
+      <link>https://www.tvmaze.com/shows/95991/den-forbandede-dyrepark</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95991/den-forbandede-dyrepark|2026-11-27|HBO Max</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 27/11] Expediente Linares Season 1</title>
+      <link>https://www.tvmaze.com/shows/95989/expediente-linares</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95989/expediente-linares|2026-11-27|HBO Max</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · HBO Max · 27/11] Sztuka oszustwa Season 1</title>
+      <link>https://www.tvmaze.com/shows/95990/sztuka-oszustwa</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/95990/sztuka-oszustwa|2026-11-27|HBO Max</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -498,13 +554,6 @@
       <description>Source: TMDB</description>
     </item>
     <item>
-      <title>&gt;&gt; [Movie · digital · 29/11] SHOUT!</title>
-      <link>https://www.themoviedb.org/movie/1839698</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1839698|2026-11-29|digital</guid>
-      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
       <title>&gt;&gt; [TV series · ABC iview · 29/11] Choir of Hard Knocks Season 2</title>
       <link>https://www.tvmaze.com/shows/95806/choir-of-hard-knocks</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95806/choir-of-hard-knocks|2026-11-29|ABC iview</guid>
@@ -529,13 +578,6 @@
       <title>&gt;&gt; [Movie · cinema · 30/11] Andrew Lloyd Webber's Starlight Express: Live On-Stage</title>
       <link>https://www.themoviedb.org/movie/1748001</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1748001|2026-11-30|cinema</guid>
-      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 30/11] Evergreen and Ever After</title>
-      <link>https://www.themoviedb.org/movie/1841154</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1841154|2026-11-30|digital</guid>
       <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -704,13 +746,6 @@
       <title>&gt;&gt; [Movie · digital · 1/12] Or Something</title>
       <link>https://www.themoviedb.org/movie/1358579</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1358579|2026-12-01|digital</guid>
-      <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 1/12] Risa and the Wind Phone</title>
-      <link>https://www.themoviedb.org/movie/1426451</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1426451|2026-12-01|digital</guid>
       <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
