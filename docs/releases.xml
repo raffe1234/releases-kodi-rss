@@ -5,166 +5,19 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:12:29 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/11] All of a Sudden</title>
-      <link>https://www.themoviedb.org/movie/1476614</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1476614|2026-11-25|cinema</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] Evidently Chickentown</title>
-      <link>https://www.themoviedb.org/movie/1838403</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1838403|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/11] Focker In-Law</title>
-      <link>https://www.themoviedb.org/movie/1400336</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1400336|2026-11-25|cinema</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/11] Hershey</title>
-      <link>https://www.themoviedb.org/movie/1461490</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1461490|2026-11-25|cinema</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/11] Hexed</title>
-      <link>https://www.themoviedb.org/movie/1538497</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1538497|2026-11-25|cinema</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/11] Lilo &amp; Scratch</title>
-      <link>https://www.themoviedb.org/movie/1720486</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1720486|2026-11-25|cinema</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] Love Is All You Need</title>
-      <link>https://www.themoviedb.org/movie/1804520</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1804520|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] NFL Netflix Gameday: Thanksgiving Eve, Packers vs. Rams</title>
-      <link>https://www.themoviedb.org/movie/1843934</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1843934|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] PERFECT STORM : THE MOVIE</title>
-      <link>https://www.themoviedb.org/movie/1811423</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1811423|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] Shane V</title>
-      <link>https://www.themoviedb.org/movie/1769056</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1769056|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] Starlight</title>
-      <link>https://www.themoviedb.org/movie/1828420</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828420|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] Stuffed</title>
-      <link>https://www.themoviedb.org/movie/1845485</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1845485|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 25/11] THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH</title>
-      <link>https://www.themoviedb.org/movie/1457866</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1457866|2026-11-25|cinema</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] The Mosquito Bowl</title>
-      <link>https://www.themoviedb.org/movie/1458300</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1458300|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] The Slightest Touch</title>
-      <link>https://www.themoviedb.org/movie/1632599</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1632599|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] There Goes My Childhood: The Seven Awesome Kids Story</title>
-      <link>https://www.themoviedb.org/movie/1814378</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1814378|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 25/11] Troupe!</title>
-      <link>https://www.themoviedb.org/movie/1843448</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1843448|2026-11-25|digital</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · GagaOOLala · 25/11] Double Shuffle Season 1</title>
-      <link>https://www.tvmaze.com/shows/94526/double-shuffle</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/94526/double-shuffle|2026-11-25|GagaOOLala</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 25/11] Ilhados com a Sogra Season 4</title>
-      <link>https://www.tvmaze.com/shows/71805/ilhados-com-a-sogra</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/71805/ilhados-com-a-sogra|2026-11-25|Netflix</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Streamz · 25/11] Missie Verhulst Season 1</title>
-      <link>https://www.tvmaze.com/shows/95985/missie-verhulst</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95985/missie-verhulst|2026-11-25|Streamz</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · YouTube · 25/11] The Challenge: Home Turf Season 2</title>
-      <link>https://www.tvmaze.com/shows/74426/the-challenge-home-turf</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/74426/the-challenge-home-turf|2026-11-25|YouTube</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Start · 25/11] Хутор Season 2</title>
-      <link>https://www.tvmaze.com/shows/80028/hutor</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/80028/hutor|2026-11-25|Start</guid>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · digital · 26/11] A Friendly Massacre</title>
       <link>https://www.themoviedb.org/movie/1831436</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1831436|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] A Memorable Christmas</title>
+      <link>https://www.themoviedb.org/movie/1801857</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1801857|2026-11-26|digital</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -179,6 +32,13 @@
       <title>&gt;&gt; [Movie · digital · 26/11] Going Going Gone: The MST3K Auction at Potter &amp; Potter</title>
       <link>https://www.themoviedb.org/movie/1812168</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1812168|2026-11-26|digital</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 26/11] La Petite Réalisation</title>
+      <link>https://www.themoviedb.org/movie/1845001</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1845001|2026-11-26|digital</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -228,13 +88,6 @@
       <title>&gt;&gt; [TV series · Netflix · 26/11] Legevakta Season 1</title>
       <link>https://www.tvmaze.com/shows/95874/legevakta</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95874/legevakta|2026-11-26|Netflix</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Peacock · 26/11] Macy's Thanksgiving Day Parade Season 2026</title>
-      <link>https://www.tvmaze.com/shows/22447/macys-thanksgiving-day-parade</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/22447/macys-thanksgiving-day-parade|2026-11-26|Peacock</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -400,6 +253,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 27/11] The Holy Boy</title>
+      <link>https://www.themoviedb.org/movie/1092936</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1092936|2026-11-27|digital</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 27/11] The Hunchback, Soul of Paris</title>
       <link>https://www.themoviedb.org/movie/1480665</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1480665|2026-11-27|digital</guid>
@@ -410,6 +270,13 @@
       <title>&gt;&gt; [Movie · digital · 27/11] The Toni Storm Tapes</title>
       <link>https://www.themoviedb.org/movie/1838574</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1838574|2026-11-27|digital</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 27/11] The Tupac Tapes With Angie Martinez</title>
+      <link>https://www.themoviedb.org/movie/1823449</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1823449|2026-11-27|digital</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -526,6 +393,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [TV series · Peacock · 28/11] Macy's Thanksgiving Day Parade Season 2026</title>
+      <link>https://www.tvmaze.com/shows/22447/macys-thanksgiving-day-parade</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/22447/macys-thanksgiving-day-parade|2026-11-28|Peacock</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · Netflix · 28/11] Salish's 12 Games of Christmas Season 1</title>
       <link>https://www.tvmaze.com/shows/95533/salishs-12-games-of-christmas</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95533/salishs-12-games-of-christmas|2026-11-28|Netflix</guid>
@@ -554,6 +428,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 29/11] SHOUT!</title>
+      <link>https://www.themoviedb.org/movie/1839698</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1839698|2026-11-29|digital</guid>
+      <pubDate>Sun, 29 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [TV series · ABC iview · 29/11] Choir of Hard Knocks Season 2</title>
       <link>https://www.tvmaze.com/shows/95806/choir-of-hard-knocks</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95806/choir-of-hard-knocks|2026-11-29|ABC iview</guid>
@@ -578,6 +459,13 @@
       <title>&gt;&gt; [Movie · cinema · 30/11] Andrew Lloyd Webber's Starlight Express: Live On-Stage</title>
       <link>https://www.themoviedb.org/movie/1748001</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1748001|2026-11-30|cinema</guid>
+      <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 30/11] Evergreen and Ever After</title>
+      <link>https://www.themoviedb.org/movie/1841154</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1841154|2026-11-30|digital</guid>
       <pubDate>Mon, 30 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -743,9 +631,23 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · disc · 1/12] Optimus Prime Awakening</title>
+      <link>https://www.themoviedb.org/movie/1760194</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1760194|2026-12-01|disc</guid>
+      <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 1/12] Or Something</title>
       <link>https://www.themoviedb.org/movie/1358579</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1358579|2026-12-01|digital</guid>
+      <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 1/12] Risa and the Wind Phone</title>
+      <link>https://www.themoviedb.org/movie/1426451</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1426451|2026-12-01|digital</guid>
       <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -845,6 +747,90 @@
       <link>https://www.tvmaze.com/shows/85583/trinity</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/85583/trinity|2026-12-01|Netflix</guid>
       <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/12] A Dot in the Ocean</title>
+      <link>https://www.themoviedb.org/movie/1823780</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1823780|2026-12-02|cinema</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 2/12] A Fox Under a Pink Moon</title>
+      <link>https://www.themoviedb.org/movie/951018</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/951018|2026-12-02|cinema</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] In a Holidaze</title>
+      <link>https://www.themoviedb.org/movie/1588626</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1588626|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] LA BOLA NEGRA</title>
+      <link>https://www.themoviedb.org/movie/1422041</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1422041|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] Marcos: Another World Is Possible</title>
+      <link>https://www.themoviedb.org/movie/1841173</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1841173|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] Perfectly Imperfect</title>
+      <link>https://www.themoviedb.org/movie/1337055</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1337055|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] The Man with the Bag</title>
+      <link>https://www.themoviedb.org/movie/1137888</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1137888|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] World War II: Behind Enemy Lines</title>
+      <link>https://www.themoviedb.org/movie/1823503</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1823503|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Apple TV · 2/12] Bad Monkey Season 2</title>
+      <link>https://www.tvmaze.com/shows/56778/bad-monkey</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/56778/bad-monkey|2026-12-02|Apple TV</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Stan · 2/12] Careless Season 1</title>
+      <link>https://www.tvmaze.com/shows/90169/careless</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/90169/careless|2026-12-02|Stan</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Peacock · 2/12] Christmas in Rockefeller Center Season 2026</title>
+      <link>https://www.tvmaze.com/shows/9363/christmas-in-rockefeller-center</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/9363/christmas-in-rockefeller-center|2026-12-02|Peacock</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 2/12] Il Capo Perfetto Season 1</title>
+      <link>https://www.tvmaze.com/shows/81100/il-capo-perfetto</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/81100/il-capo-perfetto|2026-12-02|Netflix</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
