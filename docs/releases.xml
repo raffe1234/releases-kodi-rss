@@ -5,7 +5,7 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:27:40 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
     <item>
       <title>&gt;&gt; [Movie · cinema · 27/11] 14th</title>
@@ -36,9 +36,23 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · cinema · 27/11] Bhogi</title>
+      <link>https://www.themoviedb.org/movie/1450342</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1450342|2026-11-27|cinema</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 27/11] BURN YOUR HOUSE DOWN</title>
       <link>https://www.themoviedb.org/movie/1827616</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1827616|2026-11-27|digital</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 27/11] Cosmic Samson</title>
+      <link>https://www.themoviedb.org/movie/1179380</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1179380|2026-11-27|cinema</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -60,6 +74,13 @@
       <title>&gt;&gt; [Movie · digital · 27/11] Finally</title>
       <link>https://www.themoviedb.org/movie/1824693</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1824693|2026-11-27|digital</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 27/11] Haindava</title>
+      <link>https://www.themoviedb.org/movie/1417808</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1417808|2026-11-27|cinema</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -113,6 +134,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · cinema · 27/11] Prempaatta</title>
+      <link>https://www.themoviedb.org/movie/1555984</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1555984|2026-11-27|cinema</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 27/11] SpongeBob SquarePants: Merry Christmas, Mr. Plankton</title>
       <link>https://www.themoviedb.org/movie/1723884</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1723884|2026-11-27|digital</guid>
@@ -123,6 +151,13 @@
       <title>&gt;&gt; [Movie · cinema · 27/11] Tangles</title>
       <link>https://www.themoviedb.org/movie/1316999</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1316999|2026-11-27|cinema</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 27/11] The Assassin(s)</title>
+      <link>https://www.themoviedb.org/movie/1418428</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1418428|2026-11-27|cinema</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -228,6 +263,20 @@
       <title>&gt;&gt; [TV series · HBO Max · 27/11] Expediente Linares Season 1</title>
       <link>https://www.tvmaze.com/shows/95989/expediente-linares</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/95989/expediente-linares|2026-11-27|HBO Max</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · BBC iPlayer · 27/11] I Can Grow It Season 4</title>
+      <link>https://www.tvmaze.com/shows/93006/i-can-grow-it</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/93006/i-can-grow-it|2026-11-27|BBC iPlayer</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Peacock · 27/11] Shop What Happens Season 2</title>
+      <link>https://www.tvmaze.com/shows/96081/shop-what-happens</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/96081/shop-what-happens|2026-11-27|Peacock</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
@@ -708,6 +757,27 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] THE ORIGIN OF ULTRAMAN</title>
+      <link>https://www.themoviedb.org/movie/1677118</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1677118|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] Ultraman the Movie</title>
+      <link>https://www.themoviedb.org/movie/418029</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/418029|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 2/12] Ultraman: An Akio Jissoji Film</title>
+      <link>https://www.themoviedb.org/movie/319295</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/319295|2026-12-02|digital</guid>
+      <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 2/12] World War II: Behind Enemy Lines</title>
       <link>https://www.themoviedb.org/movie/1823503</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1823503|2026-12-02|digital</guid>
@@ -767,6 +837,13 @@
       <title>&gt;&gt; [Movie · cinema · 3/12] GROTESQQQUE</title>
       <link>https://www.themoviedb.org/movie/1313587</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1313587|2026-12-03|cinema</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 3/12] Mayan</title>
+      <link>https://www.themoviedb.org/movie/582473</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/582473|2026-12-03|cinema</guid>
       <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
