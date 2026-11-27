@@ -5,166 +5,19 @@
     <link>https://raffe1234.github.io/releases-kodi-rss/</link>
     <description>Upcoming US movie releases (TMDB) and TV season premieres (TVmaze).</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:10:23 +0000</lastBuildDate>
     <generator>KodiReleaseRSS</generator>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] A Friendly Massacre</title>
-      <link>https://www.themoviedb.org/movie/1831436</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1831436|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] A Memorable Christmas</title>
-      <link>https://www.themoviedb.org/movie/1801857</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1801857|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] Basketball</title>
-      <link>https://www.themoviedb.org/movie/1802121</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1802121|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] FOOSED</title>
-      <link>https://www.themoviedb.org/movie/1821656</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1821656|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] Going Going Gone: The MST3K Auction at Potter &amp; Potter</title>
-      <link>https://www.themoviedb.org/movie/1812168</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1812168|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] La Petite Réalisation</title>
-      <link>https://www.themoviedb.org/movie/1845001</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1845001|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] Love and Order</title>
-      <link>https://www.themoviedb.org/movie/1805199</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1805199|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] Path of Titans 4 - DUCK DYNASTY</title>
-      <link>https://www.themoviedb.org/movie/1741953</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1741953|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] Perry the Christmas Penguin</title>
-      <link>https://www.themoviedb.org/movie/1806071</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1806071|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · cinema · 26/11] Skate Dad &amp; Son</title>
-      <link>https://www.themoviedb.org/movie/1791085</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1791085|2026-11-26|cinema</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [Movie · digital · 26/11] The JLO Show</title>
-      <link>https://www.themoviedb.org/movie/1773727</link>
-      <guid isPermaLink="false">https://www.themoviedb.org/movie/1773727|2026-11-26|digital</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TMDB</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · 5 · 26/11] Britain's Hotel Murders Season 2</title>
-      <link>https://www.tvmaze.com/shows/85764/britains-hotel-murders</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/85764/britains-hotel-murders|2026-11-26|5</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 26/11] Fool Night Season 1</title>
-      <link>https://www.tvmaze.com/shows/92747/fool-night</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/92747/fool-night|2026-11-26|Netflix</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 26/11] Legevakta Season 1</title>
-      <link>https://www.tvmaze.com/shows/95874/legevakta</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95874/legevakta|2026-11-26|Netflix</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Disney+ · 26/11] Mickey Mouse Specials Season 2026</title>
-      <link>https://www.tvmaze.com/shows/70700/mickey-mouse-specials</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/70700/mickey-mouse-specials|2026-11-26|Disney+</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 26/11] Paskong Pinoy Season 1</title>
-      <link>https://www.tvmaze.com/shows/95988/paskong-pinoy</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95988/paskong-pinoy|2026-11-26|Netflix</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Now · 26/11] Sweetpea Season 2</title>
-      <link>https://www.tvmaze.com/shows/46251/sweetpea</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/46251/sweetpea|2026-11-26|Now</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 26/11] The Hunting Wives Season 2</title>
-      <link>https://www.tvmaze.com/shows/72427/the-hunting-wives</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/72427/the-hunting-wives|2026-11-26|Netflix</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Youku · 26/11] The Story Untold Season 1</title>
-      <link>https://www.tvmaze.com/shows/87067/the-story-untold</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/87067/the-story-untold|2026-11-26|Youku</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · Netflix · 26/11] Toos: De van der Valk ontvoering Season 1</title>
-      <link>https://www.tvmaze.com/shows/95912/toos-de-van-der-valk-ontvoering</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/95912/toos-de-van-der-valk-ontvoering|2026-11-26|Netflix</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · КИОН · 26/11] Почти семейное шоу Season 1</title>
-      <link>https://www.tvmaze.com/shows/96048/pocti-semejnoe-sou</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/96048/pocti-semejnoe-sou|2026-11-26|КИОН</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
-    <item>
-      <title>&gt;&gt; [TV series · КИОН · 26/11] Сталин Season 1</title>
-      <link>https://www.tvmaze.com/shows/93849/stalin</link>
-      <guid isPermaLink="false">https://www.tvmaze.com/shows/93849/stalin|2026-11-26|КИОН</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
-      <description>Source: TVmaze</description>
-    </item>
     <item>
       <title>&gt;&gt; [Movie · cinema · 27/11] 14th</title>
       <link>https://www.themoviedb.org/movie/1732479</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1732479|2026-11-27|cinema</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 27/11] Aadarsha Kutumbam House No: 47 - AK47</title>
+      <link>https://www.themoviedb.org/movie/1496785</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1496785|2026-11-27|digital</guid>
       <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -596,6 +449,13 @@
       <description>Source: TMDB</description>
     </item>
     <item>
+      <title>&gt;&gt; [Movie · disc · 1/12] Daniel and the Fiery Furnace</title>
+      <link>https://www.themoviedb.org/movie/1706702</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1706702|2026-12-01|disc</guid>
+      <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
       <title>&gt;&gt; [Movie · digital · 1/12] Double Trouble</title>
       <link>https://www.themoviedb.org/movie/1443151</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1443151|2026-12-01|digital</guid>
@@ -718,6 +578,13 @@
       <title>&gt;&gt; [Movie · digital · 1/12] Study Hall</title>
       <link>https://www.themoviedb.org/movie/1693704</link>
       <guid isPermaLink="false">https://www.themoviedb.org/movie/1693704|2026-12-01|digital</guid>
+      <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · disc · 1/12] That Joke Goes Too Far: Inside Middle Man</title>
+      <link>https://www.themoviedb.org/movie/1848062</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1848062|2026-12-01|disc</guid>
       <pubDate>Tue, 01 Dec 2026 12:00:00 +0100</pubDate>
       <description>Source: TMDB</description>
     </item>
@@ -873,6 +740,83 @@
       <link>https://www.tvmaze.com/shows/81100/il-capo-perfetto</link>
       <guid isPermaLink="false">https://www.tvmaze.com/shows/81100/il-capo-perfetto|2026-12-02|Netflix</guid>
       <pubDate>Wed, 02 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 3/12] Bridged</title>
+      <link>https://www.themoviedb.org/movie/1748253</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1748253|2026-12-03|digital</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 3/12] Fraggle Rock: A Holiday Gift</title>
+      <link>https://www.themoviedb.org/movie/1801852</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1801852|2026-12-03|digital</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 3/12] Gianmarco Soresi: God Forbid</title>
+      <link>https://www.themoviedb.org/movie/1818957</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1818957|2026-12-03|digital</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 3/12] GROTESQQQUE</title>
+      <link>https://www.themoviedb.org/movie/1313587</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1313587|2026-12-03|cinema</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 3/12] My Crazy Feminist Girlfriend</title>
+      <link>https://www.themoviedb.org/movie/1591961</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1591961|2026-12-03|digital</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · cinema · 3/12] Prince: 3121 Las Vegas Live</title>
+      <link>https://www.themoviedb.org/movie/1828745</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1828745|2026-12-03|cinema</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 3/12] Secrets</title>
+      <link>https://www.themoviedb.org/movie/1616675</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1616675|2026-12-03|digital</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [Movie · digital · 3/12] The Christmas Ornament Library</title>
+      <link>https://www.themoviedb.org/movie/1768108</link>
+      <guid isPermaLink="false">https://www.themoviedb.org/movie/1768108|2026-12-03|digital</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TMDB</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Hulu · 3/12] Dance Moms: A New Era Season 3</title>
+      <link>https://www.tvmaze.com/shows/78689/dance-moms-a-new-era</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/78689/dance-moms-a-new-era|2026-12-03|Hulu</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Netflix · 3/12] Pride and Prejudice Season 1</title>
+      <link>https://www.tvmaze.com/shows/84008/pride-and-prejudice</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/84008/pride-and-prejudice|2026-12-03|Netflix</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
+      <description>Source: TVmaze</description>
+    </item>
+    <item>
+      <title>&gt;&gt; [TV series · Okko · 3/12] ФГУП «Луч» Season 1</title>
+      <link>https://www.tvmaze.com/shows/71800/fgup-luc</link>
+      <guid isPermaLink="false">https://www.tvmaze.com/shows/71800/fgup-luc|2026-12-03|Okko</guid>
+      <pubDate>Thu, 03 Dec 2026 12:00:00 +0100</pubDate>
       <description>Source: TVmaze</description>
     </item>
   </channel>
